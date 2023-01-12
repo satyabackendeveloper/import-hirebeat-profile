@@ -1,0 +1,21 @@
+Skill_subtype_id,Skill_subtype_name,skill_type_id
+1,Active Learning Skill,2
+2,Active Listening Skill,2
+3,Complex Problem Solving Skill,2
+4,Coordination Skill,2
+5,Critical Thinking Skill,2
+6,Equipment-based Skill,1
+7,Industry-based skills,1
+8,Instructing Skill,2
+9,Judgment and Decision Making Skill,2
+10,Knowledge-based Skill,1
+11,Learning Strategies Skill,2
+12,Monitoring Skill,2
+13,Negotiation Skill,2
+14,Persuasion Skill,2
+15,Programming-based Skill,1
+16,Service Orientation Skill,2
+17,Social Perceptiveness Skill,2
+18,Software-based Skill,1
+19,Technical-based skill,1
+20,Time Management Skill,2

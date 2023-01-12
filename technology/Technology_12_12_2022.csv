@@ -1,0 +1,511 @@
+technology_id,technology_name
+1,accessiBe
+2,Adara
+3,AdBay
+4,Adform
+5,Adgoal
+6,Adition Technologies - Advertise...
+7,AdPilot
+8,Advertising.com
+9,Adzerk
+10,Affiliate Window
+11,Affilinet
+12,Amazon Associates
+13,Amazon AWS
+14,Amazon CloudWatch
+15,Amplitude
+16,Apache
+17,AppointmentPlus
+18,AT Internet
+19,Atlas by Facebook
+20,AudioEye
+21,AvantLink
+22,AvantMetrics
+23,Backbone JS Library
+24,Baidu Ads
+25,BambooHR
+26,BigCommerce
+27,Binero
+28,Bing Ads
+29,Bitrix
+30,Blogger
+31,Blue Host
+32,Bluekai
+33,BoldChat
+34,Bootstrap Framework
+35,Bootstrap Framework v3.1.1
+36,Bootstrap Framework v3.2.0
+37,Braintree
+38,Braze
+39,Brightcove
+40,BuddyPress
+41,BugHerd
+42,BuySellAds
+43,CallRail
+44,Carchat24
+45,Catylist SiteLink
+46,Cbox
+47,CDNetworks
+48,Cedexis
+49,Century Interactive
+50,Civic Plus
+51,Clickability
+52,ClickMotive
+53,CloudFlare CDN
+54,Cloudflare DNS
+55,CloudIM
+56,Cloudinary
+57,CM4All
+58,Cobalt
+59,Comm100
+60,CommentLuv
+61,Contactatonce
+62,Content.ad
+63,Convio
+64,DataLogix
+65,DataXu
+66,Digital Ocean DNS
+67,DigitalOcean
+68,Disqus
+69,Django
+70,DNS Made Easy
+71,DNS.com
+72,DNS2Go
+73,DNSimple
+74,DNSMax
+75,DNSPark
+76,DNSPod
+77,DoubleClick
+78,DoubleClick Conversion
+79,DreamHost DNS
+80,Drupal
+81,DtDNS
+82,Dyn Managed DNS
+83,DynIP
+84,Easy Digital Downloads
+85,Echo 360
+86,Ecwid
+87,Edupoint
+88,EKM Powershop
+89,ElasticEmail
+90,Email Attitude (1000mercis)
+91,Email Center Pro
+92,Emarsys
+93,Ematch
+94,Emma
+95,Epages
+96,Epicor Eclipse
+97,ePly Events
+98,etouches
+99,Etsy
+100,Eventbrite
+101,EventsAir by Centium
+102,ExactTarget
+103,Experient
+104,F5 BIG-IP
+105,Facebook Comments
+106,Facebook Conversion Tracking
+107,Facebook Custom Audiences
+108,Facebook Like Button
+109,Facebook Login (Connect)
+110,Facebook Social Plugins
+111,Facebook Widget
+112,FareHarbor
+113,Fastly CDN
+114,FedEx
+115,Fivetran
+116,Flowplayer
+117,Flutter
+118,Flywheel
+119,FontDeck
+120,Fonts.com
+121,Formstack
+122,Freshdesk
+123,FullStory
+124,Gmail
+125,GoDaddy Hosting
+126,Google AdSense
+127,Google AdWords Conversion
+128,Google Analytics
+129,Google Analytics Ecommerce Track...
+130,Google Apps
+131,Google Cloud Hosting
+132,Google Custom Search
+133,Google Dynamic Remarketing
+134,Google Font API
+135,Google Maps
+136,Google Maps (Non Paid Users)
+137,Google Play
+138,Google Plus
+139,Google Remarketing
+140,Google Tag Manager
+141,Google translate API
+142,Google translate widget
+143,Gravity Forms
+144,HeapAnalytics
+145,Helpscout
+146,Heroku
+147,Hetzner
+148,Highcharts JS Library
+149,Histats
+150,Hitslink
+151,Horde
+152,HostDime
+153,Hostgator
+154,Hostgator DNS
+155,Hosting.com
+156,Hostinger
+157,HostPapa
+158,Hostway
+159,Hotjar
+160,Hotmail
+161,Hubspot
+162,Hupso
+163,Hushmail
+164,IBM Websphere
+165,iCIMS
+166,iContact
+167,IfByPhone
+168,IgnitionOne
+169,iGoDigital
+170,iHomeFinder
+171,iHotelier (TravelClick)
+172,Incapsula
+173,Indeed
+174,Infolinks
+175,InfusionSoft
+176,InMotion Hosting DNS
+177,Inspectlet
+178,Integral Ad Science
+179,Intercom
+180,Intershop
+181,iPage DNS
+182,iPerceptions
+183,iTunes
+184,Janrain
+185,Janrain Social Share
+186,Jazel
+187,Jimdo
+188,Jira
+189,JivoSite
+190,JobAdder
+191,JobApp
+192,JobDiva
+193,Jobscore
+194,Jobvite
+195,Joomla
+196,Jotform
+197,jPlayer
+198,JQuery 1.11.1
+199,JQuery 2.1.1
+200,JTL-Shop 3
+201,JumpDemand / ActiveDemand
+202,JustUno
+203,JW Player
+204,Kajabi
+205,Kaltura
+206,Kayako
+207,Keen.io
+208,Kenexa
+209,Kenshoo
+210,Kentico
+211,Keycaptcha
+212,Kicksite
+213,Kiosked
+214,KISSmetrics
+215,Kit Digital
+216,Kiyoh.nl
+217,Klarna
+218,Klaviyo
+219,Kontera
+220,Kronos FMSI
+221,Krux
+222,Kubernetes
+223,Kukui
+224,LeadExplorer
+225,Leadfeeder
+226,LeadForensics
+227,Leadlander
+228,Leads by Web.com
+229,LearnDash
+230,Lever
+231,Lexity
+232,Liferay
+233,Linkedin Login
+234,Linkedin Marketing Solutions
+235,Linkedin Widget
+236,Linkshare
+237,Liquidweb
+238,LiveChat
+239,LivePerson Monitor
+240,LiveRamp
+241,Lotame
+242,Loyalty Lab
+243,Lucky Orange
+244,Magento
+245,Magento 2 Community
+246,MailChimp
+247,Mailchimp Mandrill
+248,MailChimp SPF
+249,MailJet
+250,MakesBridge
+251,Manticore
+252,Mapbox
+253,Marketingmatic
+254,Marketo
+255,Media Temple SSL
+256,Microsoft Azure
+257,Microsoft Azure Hosting
+258,Microsoft Dynamics 365 Marketing
+259,Microsoft Office 365
+260,Microsoft-IIS
+261,Mimecast
+262,Mobile Friendly
+263,Multilingual
+264,NationBuilder
+265,Nativo
+266,Navegg
+267,NDN
+268,Net-Results
+269,Netlify
+270,Netnames Cedel
+271,Netriplex
+272,NetSuite
+273,NetSuite E-commerce
+274,Network Solutions Seal
+275,New Relic
+276,Newton Software
+277,Nginx
+278,Nielsen Display Ads (Formerly eX...
+279,Nielsen NetRatings
+280,NMU AB
+281,Nosto
+282,Notion
+283,NSOne
+284,Okta (sub-domains only)
+285,Olark
+286,Omniture (Adobe)
+287,OneTrust
+288,Onswipe
+289,Ontraport
+290,Ooyala
+291,Open AdStream (Appnexus)
+292,OpenCart
+293,OpenID
+294,OpenSSL
+295,OpenX - Exchange
+296,Optimizely
+297,Optimonk
+298,Optimost
+299,Oracle Cloud
+300,osCommerce
+301,Outbrain
+302,Outlook
+303,OVH
+304,Pantheon
+305,Pardot
+306,Parse.ly
+307,Paychex
+308,Paylocity
+309,Paypal
+310,PayPal Credit
+311,PaySimple
+312,Peerius
+313,Personyze
+314,PHP 5.3
+315,Phusion Passenger
+316,Pingdom
+317,Piwik
+318,Polar (Media Voice)
+319,Postmark
+320,PrestaShop
+321,PubMatic
+322,Pure Chat
+323,Python
+324,QRATOR
+325,Quadia
+326,QuadPay
+327,Qualaroo
+328,Qualtrics
+329,Quandoo
+330,Quantcast
+331,Quartic
+332,Qubit Deliver
+333,Qubit OpenTag
+334,Questback
+335,Quickbooks Commerce
+336,Quickbooks Online
+337,QuoteValet
+338,Rackspace
+339,RackSpace DNS
+340,Rackspace Email
+341,Rackspace MailGun
+342,React
+343,React Redux
+344,Realtime Targeting
+345,RealTracker
+346,reCAPTCHA
+347,Recruiterbox
+348,ResDiary
+349,Reservit
+350,RestaurantConnect
+351,Restorando
+352,Resumator
+353,ReTargeter
+354,Roundcube Email
+355,Route 53
+356,RTB House
+357,Ruby On Rails
+358,SaleCycle
+359,ScribbleLive
+360,SearchDex
+361,ShareThis
+362,ShopSocially
+363,Sift Science
+364,Sitelock
+365,SLI Systems
+366,SOAP Vault
+367,SocialPlus
+368,SocialTwist
+369,Sonobi
+370,Spigit (Mindjet)
+371,Spring Metrics
+372,Stackla
+373,Starfield
+374,SurveyGizmo
+375,SurveyMonkey
+376,Surveypal
+377,Swiftype
+378,Taboola
+379,Taboola Newsroom
+380,Tag Commander
+381,TagMan
+382,Taleo
+383,Teachable
+384,Teads
+385,Tealium
+386,The Trade Desk
+387,Thinkific
+388,TikTok
+389,TrustedShops
+390,Trustpilot
+391,Trustwave Seal
+392,TurboSMTP
+393,Twitter Advertising
+394,Twitter Sharing
+395,Typeform
+396,Typekit
+397,TYPO3
+398,UberFlip
+399,Ubuntu
+400,UK Fast Hosting
+401,UltiPro
+402,UltraDns
+403,Umantis
+404,Umbraco
+405,Unbounce
+406,Undertone
+407,Unreal Engine
+408,Unruly Media
+409,UpCloud
+410,UPS
+411,Upsellit
+412,UptimeRobot
+413,User Trust (Comodo)
+414,UserLike
+415,UserReport
+416,UserVoice
+417,Ustream
+418,Vagaro
+419,Varnish
+420,vBulletin
+421,Vercel
+422,Verisign Seal
+423,VideoJS
+424,Videology
+425,Videoplaza
+426,Vidyard
+427,VigLink
+428,Vimeo
+429,Virool
+430,Virtuemart
+431,VisiStat
+432,Visual Website Optimizer
+433,Visual-Basic-.NET
+434,Volusion
+435,Vtex
+436,VueJS
+437,Vzaar
+438,Webex
+439,Webo
+440,Webtraxs
+441,Weebly
+442,whos.amung.us
+443,Wishpond
+444,Wistia
+445,Wix
+446,Woo Commerce
+447,Woo Commerce Memberships
+448,Woopra
+449,Wordpress.com
+450,WordPress.org
+451,Workable
+452,Workday Recruit
+453,World Pay
+454,WorldwideDNS
+455,WP eCommerce
+456,WP Engine
+457,Wufoo
+458,X-Cart
+459,Xand
+460,Xceligent
+461,Xenforo
+462,Xero
+463,Xinnet
+464,XiTi
+465,XO Communications
+466,Xplosion
+467,Xplosion Interactive
+468,Xt-commerce
+469,Xtium
+470,XXL webhosting
+471,Yahoo Ad Manager Plus
+472,Yahoo Analytics
+473,Yahoo Mail
+474,Yahoo Recommends
+475,Yahoo Retargeting
+476,Yahoo Store
+477,Yahoo Tag Manager
+478,Yandex Metrica
+479,Yandex.Direct
+480,Yelp
+481,Yext
+482,YieldBot
+483,Yieldify
+484,Yodle
+485,Yola
+486,Yotpo
+487,Yottaa
+488,YouCanBook.me
+489,YourMembership
+490,YouTube
+491,Zanox
+492,Zapier
+493,Zemanta
+494,Zen Planner
+495,Zencoder
+496,Zendesk
+497,Zergnet
+498,Zift Solutions
+499,Zimbra
+500,ZipRecruiter
+501,ZocDoc
+502,Zoho Analytics
+503,Zoho Books
+504,Zoho CRM
+505,Zoho Email
+506,Zoho SalesIQ
+507,Zoho Survey
+508,ZoneEdit
+509,Zopim
+510,Zuora
