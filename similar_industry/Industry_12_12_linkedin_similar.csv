@@ -1,0 +1,422 @@
+similar_insutry_id,similar_insutry_name
+1,Abrasives and Nonmetallic Minerals Manufacturing
+2,Accommodation
+3,Accounting
+4,Administration of Justice
+5,Administrative and Support Services
+6,Advertising Services
+7,Agricultural Chemical Manufacturing
+8,"Agriculture, Construction, Mining Machinery Manufacturing"
+9,"Air, Water, and Waste Program Management"
+10,Airlines and Aviation
+11,Alternative Dispute Resolution
+12,Alternative Medicine
+13,Ambulance Services
+14,Amusement Parks and Arcades
+15,Animal Feed Manufacturing
+16,Animation and Post-production
+17,Apparel Manufacturing
+18,"Appliances, Electrical, and Electronics Manufacturing"
+19,Architectural and Structural Metal Manufacturing
+20,Architecture and Planning
+21,Armed Forces
+22,Artificial Rubber and Synthetic Fiber Manufacturing
+23,Artists and Writers
+24,Audio and Video Equipment Manufacturing
+25,Automation Machinery Manufacturing
+26,Aviation and Aerospace Component Manufacturing
+27,Baked Goods Manufacturing
+28,Banking
+29,"Bars, Taverns, and Nightclubs"
+30,"Bed-and-Breakfasts, Hostels, Homestays"
+31,Beverage Manufacturing
+32,Biomass Electric Power Generation
+33,Biotechnology Research
+34,Blockchain Services
+35,Blogs
+36,"Boilers, Tanks, and Shipping Container Manufacturing"
+37,Book and Periodical Publishing
+38,Book Publishing
+39,Breweries
+40,Broadcast Media Production and Distribution
+41,Building Construction
+42,Building Equipment Contractors
+43,Building Finishing Contractors
+44,Building Structure and Exterior Contractors
+45,Business Consulting and Services
+46,Business Content
+47,Business Intelligence Platforms
+48,Cable and Satellite Programming
+49,Capital Markets
+50,Caterers
+51,Chemical Manufacturing
+52,Chemical Raw Materials Manufacturing
+53,Child Day Care Services
+54,Chiropractors
+55,Circuses and Magic Shows
+56,Civic and Social Organizations
+57,Civil Engineering
+58,"Claims Adjusting, Actuarial Services"
+59,Clay and Refractory Products Manufacturing
+60,Coal Mining
+61,Collection Agencies
+62,Commercial and Industrial Equipment Rental
+63,Commercial and Industrial Machinery Maintenance
+64,Commercial and Service Industry Machinery Manufacturing
+65,Communications Equipment Manufacturing
+66,Community Development and Urban Planning
+67,Community Services
+68,Computer and Network Security
+69,Computer Games
+70,Computer Hardware Manufacturing
+71,Computer Networking Products
+72,Computers and Electronics Manufacturing
+73,Conservation Programs
+74,Construction
+75,Construction Hardware Manufacturing
+76,Consumer Goods Rental
+77,Consumer Services
+78,Correctional Institutions
+79,Cosmetology and Barber Schools
+80,Courts of Law
+81,Credit Intermediation
+82,Cutlery and Handtool Manufacturing
+83,Dairy Product Manufacturing
+84,Dance Companies
+85,Data Infrastructure and Analytics
+86,Data Security Software Products
+87,Defense and Space Manufacturing
+88,Dentists
+89,Design Services
+90,Desktop Computing Software Products
+91,Distilleries
+92,E-Learning Providers
+93,Economic Programs
+94,Education
+95,Education Administration Programs
+96,Electric Lighting Equipment Manufacturing
+97,Electric Power Generation
+98,"Electric Power Transmission, Control, and Distribution"
+99,Electrical Equipment Manufacturing
+100,Electronic and Precision Equipment Maintenance
+101,Embedded Software Products
+102,Emergency and Relief Services
+103,Engineering Services
+104,Engines and Power Transmission Equipment Manufacturing
+105,Entertainment Providers
+106,Environmental Quality Programs
+107,Environmental Services
+108,Equipment Rental Services
+109,Events Services
+110,Executive Offices
+111,Executive Search Services
+112,Fabricated Metal Products
+113,Facilities Services
+114,Family Planning Centers
+115,Farming
+116,"Farming, Ranching, Forestry"
+117,Fashion Accessories Manufacturing
+118,Financial Services
+119,Fine Arts Schools
+120,Fire Protection
+121,Fisheries
+122,Flight Training
+123,Food and Beverage Manufacturing
+124,Food and Beverage Retail
+125,Food and Beverage Services
+126,Footwear and Leather Goods Repair
+127,Footwear Manufacturing
+128,Forestry and Logging
+129,Fossil Fuel Electric Power Generation
+130,Freight and Package Transportation
+131,Fruit and Vegetable Preserves Manufacturing
+132,Fundraising
+133,Funds and Trusts
+134,Furniture and Home Furnishings Manufacturing
+135,Gambling Facilities and Casinos
+136,Geothermal Electric Power Generation
+137,Glass Product Manufacturing
+138,"Glass, Ceramics and Concrete Manufacturing"
+139,Golf Courses and Country Clubs
+140,Government Administration
+141,Government Relations Services
+142,Graphic Design
+143,Ground Passenger Transportation
+144,Health and Human Services
+145,Higher Education
+146,"Highway, Street, and Bridge Construction"
+147,Historical Sites
+148,Holding Companies
+149,Home Health Care Services
+150,Horticulture
+151,Hospitality
+152,Hospitals
+153,Hospitals and Health Care
+154,Hotels and Motels
+155,Household and Institutional Furniture Manufacturing
+156,Household Appliance Manufacturing
+157,Household Services
+158,Housing and Community Development
+159,Housing Programs
+160,Human Resources Services
+161,HVAC and Refrigeration Equipment Manufacturing
+162,Hydroelectric Power Generation
+163,Individual and Family Services
+164,Industrial Machinery Manufacturing
+165,Industry Associations
+166,Information Services
+167,Insurance
+168,Insurance Agencies and Brokerages
+169,Insurance and Employee Benefit Funds
+170,Insurance Carriers
+171,Interior Design
+172,International Affairs
+173,International Trade and Development
+174,Internet Marketplace Platforms
+175,Internet News
+176,Internet Publishing
+177,Interurban and Rural Bus Services
+178,Investment Advice
+179,Investment Banking
+180,Investment Management
+181,IT Services and IT Consulting
+182,IT System Custom Software Development
+183,IT System Data Services
+184,IT System Design Services
+185,IT System Installation and Disposal
+186,IT System Operations and Maintenance
+187,IT System Testing and Evaluation
+188,IT System Training and Support
+189,Janitorial Services
+190,Landscaping Services
+191,Language Schools
+192,Laundry and Drycleaning Services
+193,Law Enforcement
+194,Law Practice
+195,Leasing Non-residential Real Estate
+196,Leasing Residential Real Estate
+197,Leather Product Manufacturing
+198,Legal Services
+199,Legislative Offices
+200,Libraries
+201,Lime and Gypsum Products Manufacturing
+202,Loan Brokers
+203,Machinery Manufacturing
+204,Magnetic and Optical Media Manufacturing
+205,Manufacturing
+206,Maritime Transportation
+207,Market Research
+208,Marketing Services
+209,Mattress and Blinds Manufacturing
+210,Measuring and Control Instrument Manufacturing
+211,Meat Products Manufacturing
+212,Media and Telecommunications
+213,Media Production
+214,Medical and Diagnostic Laboratories
+215,Medical Equipment Manufacturing
+216,Medical Practices
+217,Mental Health Care
+218,Metal Ore Mining
+219,Metal Treatments
+220,"Metal Valve, Ball, and Roller Manufacturing"
+221,Metalworking Machinery Manufacturing
+222,Military and International Affairs
+223,Mining
+224,Mobile Computing Software Products
+225,Mobile Food Services
+226,Mobile Gaming Apps
+227,Motor Vehicle Manufacturing
+228,Motor Vehicle Parts Manufacturing
+229,Movies and Sound Recording
+230,"Movies, Videos, and Sound"
+231,Museums
+232,"Museums, Historical Sites, and Zoos"
+233,Musicians
+234,Nanotechnology Research
+235,Natural Gas Distribution
+236,Natural Gas Extraction
+237,Newspaper Publishing
+238,Non-profit Organizations
+239,Nonmetallic Mineral Mining
+240,Nonresidential Building Construction
+241,Nuclear Electric Power Generation
+242,Nursing Homes and Residential Care Facilities
+243,Office Administration
+244,Office Furniture and Fixtures Manufacturing
+245,Oil and Coal Product Manufacturing
+246,Oil and Gas
+247,Oil Extraction
+248,"Oil, Gas, and Mining"
+249,Online and Mail Order Retail
+250,Online Audio and Video Media
+251,Operations Consulting
+252,Optometrists
+253,Outpatient Care Centers
+254,Outsourcing and Offshoring Consulting
+255,Packaging and Containers Manufacturing
+256,"Paint, Coating, and Adhesive Manufacturing"
+257,Paper and Forest Product Manufacturing
+258,Pension Funds
+259,Performing Arts
+260,Performing Arts and Spectator Sports
+261,Periodical Publishing
+262,Personal and Laundry Services
+263,Personal Care Product Manufacturing
+264,Personal Care Services
+265,Pet Services
+266,Pharmaceutical Manufacturing
+267,Philanthropic Fundraising Services
+268,Photography
+269,"Physical, Occupational and Speech Therapists"
+270,Physicians
+271,Pipeline Transportation
+272,Plastics and Rubber Product Manufacturing
+273,Plastics Manufacturing
+274,Political Organizations
+275,Postal Services
+276,Primary and Secondary Education
+277,Primary Metal Manufacturing
+278,Printing Services
+279,Professional Organizations
+280,Professional Services
+281,Professional Training and Coaching
+282,Public Assistance Programs
+283,Public Health
+284,Public Policy Offices
+285,Public Relations and Communications Services
+286,Public Safety
+287,Racetracks
+288,Radio and Television Broadcasting
+289,Rail Transportation
+290,Railroad Equipment Manufacturing
+291,Ranching
+292,Ranching and Fisheries
+293,Real Estate
+294,Real Estate Agents and Brokers
+295,Real Estate and Equipment Rental Services
+296,Recreational Facilities
+297,Religious Institutions
+298,Renewable Energy Equipment Manufacturing
+299,Renewable Energy Power Generation
+300,Renewable Energy Semiconductor Manufacturing
+301,Repair and Maintenance
+302,Research Services
+303,Residential Building Construction
+304,Restaurants
+305,Retail
+306,Retail Apparel and Fashion
+307,"Retail Appliances, Electrical, and Electronic Equipment"
+308,Retail Art Dealers
+309,Retail Art Supplies
+310,Retail Books and Printed News
+311,Retail Building Materials and Garden Equipment
+312,Retail Florists
+313,Retail Furniture and Home Furnishings
+314,Retail Gasoline
+315,Retail Groceries
+316,Retail Health and Personal Care Products
+317,Retail Luxury Goods and Jewelry
+318,Retail Motor Vehicles
+319,Retail Musical Instruments
+320,Retail Office Equipment
+321,Retail Office Supplies and Gifts
+322,Retail Recyclable Materials & Used Merchandise
+323,Reupholstery and Furniture Repair
+324,Rubber Products Manufacturing
+325,Satellite Telecommunications
+326,Savings Institutions
+327,School and Employee Bus Services
+328,Seafood Product Manufacturing
+329,Secretarial Schools
+330,Securities and Commodity Exchanges
+331,Security and Investigations
+332,Security Guards and Patrol Services
+333,Security Systems Services
+334,Semiconductor Manufacturing
+335,Services for Renewable Energy
+336,Services for the Elderly and Disabled
+337,Sheet Music Publishing
+338,Shipbuilding
+339,Shuttles and Special Needs Transportation Services
+340,Sightseeing Transportation
+341,Skiing Facilities
+342,Soap and Cleaning Product Manufacturing
+343,Social Networking Platforms
+344,Software Development
+345,Solar Electric Power Generation
+346,Sound Recording
+347,Space Research and Technology
+348,Specialty Trade Contractors
+349,Spectator Sports
+350,Sporting Goods Manufacturing
+351,Sports and Recreation Instruction
+352,Sports Teams and Clubs
+353,Spring and Wire Product Manufacturing
+354,Staffing and Recruiting
+355,Steam and Air-Conditioning Supply
+356,Strategic Management Services
+357,Subdivision of Land
+358,Sugar and Confectionery Product Manufacturing
+359,Taxi and Limousine Services
+360,Technical and Vocational Training
+361,"Technology, Information and Internet"
+362,"Technology, Information and Media"
+363,Telecommunications
+364,Telecommunications Carriers
+365,Telephone Call Centers
+366,Temporary Help Services
+367,Textile Manufacturing
+368,Theater Companies
+369,Think Tanks
+370,Tobacco Manufacturing
+371,Translation and Localization
+372,Transportation Equipment Manufacturing
+373,Transportation Programs
+374,"Transportation, Logistics, Supply Chain and Storage"
+375,Travel Arrangements
+376,Truck Transportation
+377,Trusts and Estates
+378,Turned Products and Fastener Manufacturing
+379,Urban Transit Services
+380,Utilities
+381,Utilities Administration
+382,Utility System Construction
+383,Vehicle Repair and Maintenance
+384,Venture Capital and Private Equity Principals
+385,Veterinary Services
+386,Vocational Rehabilitation Services
+387,Warehousing and Storage
+388,Waste Collection
+389,Waste Treatment and Disposal
+390,Water Supply and Irrigation Systems
+391,"Water, Waste, Steam, and Air Conditioning Services"
+392,Wellness and Fitness Services
+393,Wholesale
+394,Wholesale Alcoholic Beverages
+395,Wholesale Apparel and Sewing Supplies
+396,"Wholesale Appliances, Electrical, and Electronics"
+397,Wholesale Building Materials
+398,Wholesale Chemical and Allied Products
+399,Wholesale Computer Equipment
+400,Wholesale Drugs and Sundries
+401,Wholesale Food and Beverage
+402,Wholesale Footwear
+403,Wholesale Furniture and Home Furnishings
+404,"Wholesale Hardware, Plumbing, Heating Equipment"
+405,Wholesale Import and Export
+406,Wholesale Luxury Goods and Jewelry
+407,Wholesale Machinery
+408,Wholesale Metals and Minerals
+409,Wholesale Motor Vehicles and Parts
+410,Wholesale Paper Products
+411,Wholesale Petroleum and Petroleum Products
+412,Wholesale Photography Equipment and Supplies
+413,Wholesale Raw Farm Products
+414,Wholesale Recyclable Materials
+415,Wind Electric Power Generation
+416,Wineries
+417,Wireless Services
+418,Women's Handbag Manufacturing
+419,Wood Product Manufacturing
+420,Writing and Editing
+421,Zoos and Botanical Gardens

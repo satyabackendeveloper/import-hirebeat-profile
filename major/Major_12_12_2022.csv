@@ -1,0 +1,950 @@
+major_id,major_name,field_study_id,is_stem,field_study_name
+1, Accounting,6,,"Business, Management & Marketing"
+2, Accounting & Finance,6,,"Business, Management & Marketing"
+3, Accounting Information Systems,31,,Multi or Interdisciplinary Studies
+4, Acting,46,,Visual & Performing Arts
+5, Acute Care,40,,Residency Programs
+6, Addiction Studies,19,,Health Related Knowledge & Skills
+7, Administration of Justice,42,,Security & Protective Services
+8, Adult Education & Training,11,,Education
+9, Adult Nurse Practitioner Studies,18,,Health Professions & Related Programs
+10, Advanced Military & Operational Studies,29,,"Military Science, Leadership & Operational Art"
+11, Advertising,7,,"Communication, Journalism & Related Programs"
+12, Advertising & Graphic Design,46,,Visual & Performing Arts
+13, Advertising & Marketing Communications,7,,"Communication, Journalism & Related Programs"
+14, Aeronautical/Aerospace Engineering Technology,13,TRUE,Engineering Technologies
+15, Aerospace Engineering,12,TRUE,Engineering
+16, Aerospace Ground Equipment Technology,30,,Military Technologies & Applied Sciences
+17, Aesthetician Studies,34,,Personal & Culinary Services
+18, African American & African Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+19, African Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+20, Agribusiness,1,TRUE,Agriculture & Related Sciences
+21, Agribusiness Management,1,TRUE,Agriculture & Related Sciences
+22, Agricultural & Horticultural Plant Breeding,1,TRUE,Agriculture & Related Sciences
+23, Agricultural & Resource Economics,1,TRUE,Agriculture & Related Sciences
+24, Agricultural Business,1,TRUE,Agriculture & Related Sciences
+25, Agricultural Communication,1,TRUE,Agriculture & Related Sciences
+26, Agricultural Economics,1,TRUE,Agriculture & Related Sciences
+27, Agricultural Economics & Business,1,TRUE,Agriculture & Related Sciences
+28, Agricultural Equipment Systems Management,1,TRUE,Agriculture & Related Sciences
+29, Agricultural Journalism,1,TRUE,Agriculture & Related Sciences
+30, Agricultural Science,1,TRUE,Agriculture & Related Sciences
+31, Agricultural Systems Technology,1,TRUE,Agriculture & Related Sciences
+32, Agriculture,1,TRUE,Agriculture & Related Sciences
+33, Agronomy,1,TRUE,Agriculture & Related Sciences
+34, Air & Space Operations Technology,30,,Military Technologies & Applied Sciences
+35, Air Traffic Control,45,,Transportation & Materials Moving
+36, Air Traffic Management,45,,Transportation & Materials Moving
+37, Air Transport Management,45,,Transportation & Materials Moving
+38, Aircraft Armament Systems Technology,30,,Military Technologies & Applied Sciences
+39, Airframe & Powerplant Technology,28,,Mechanic & Repair Technologies
+40, Airport Management,45,,Transportation & Materials Moving
+41, Alcohol & Drug Studies,19,,Health Related Knowledge & Skills
+42, American History (United States),21,,History
+43, American Literature (United States),14,,English Language & Literature or Letters
+44, American Sign Language (ASL),16,,"Foreign Languages, Literature & Linguistics"
+45, American Sign Language Interpreting,16,,"Foreign Languages, Literature & Linguistics"
+46, American Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+47, Analytical Chemistry,36,TRUE,Physical Sciences
+48, Ancient/Classical Greek Language,16,,"Foreign Languages, Literature & Linguistics"
+49, Anesthiology,40,,Residency Programs
+50, Animal Nutrition,1,TRUE,Agriculture & Related Sciences
+51, Animal Science,1,TRUE,Agriculture & Related Sciences
+52, Animal Science & Management,1,TRUE,Agriculture & Related Sciences
+53, Animal/Livestock Husbandry & Production,1,TRUE,Agriculture & Related Sciences
+54, Anthropology,43,,Social Sciences
+55, Apparel & Textile Manufacture,15,,Family & Consumer Sciences or Human Sciences
+56, Appliance Installation & Repair Technology,28,,Mechanic & Repair Technologies
+57, Applied Behavior Analysis,38,TRUE,Psychology
+58, Applied Economics,43,,Social Sciences
+59, Applied Ethics,35,,Philosophy & Religious Studies
+60, Applied Geology,36,TRUE,Physical Sciences
+61, Applied Intelligence,30,,Military Technologies & Applied Sciences
+62, Applied Linguistics,16,,"Foreign Languages, Literature & Linguistics"
+63, Applied Mathematics,27,TRUE,Mathematics & Statistics
+64, Applied Physics,36,TRUE,Physical Sciences
+65, Applied Psychology,38,TRUE,Psychology
+66, Applied Statistics,27,TRUE,Mathematics & Statistics
+67, Arabic Language,16,,"Foreign Languages, Literature & Linguistics"
+68, Archaeology,43,,Social Sciences
+69, Architectural Drafting,13,TRUE,Engineering Technologies
+70, Architectural Engineering,12,TRUE,Engineering
+71, Architectural Studies,2,TRUE,Architecture & Related Services
+72, Architectural Technology,2,TRUE,Architecture & Related Services
+73, Architecture,2,TRUE,Architecture & Related Services
+74, Archives Management,26,,Library Science
+75, Army ROTC,29,,"Military Science, Leadership & Operational Art"
+76, Art,46,,Visual & Performing Arts
+77, Art & Design,46,,Visual & Performing Arts
+78, Art Administration,46,,Visual & Performing Arts
+79, Art History,46,,Visual & Performing Arts
+80, Art Teacher Education,11,,Education
+81, Artificial Intelligence,9,TRUE,Computer & Information Sciences
+82, Arts & Science,25,,"Liberal Arts & Sciences, General Studies & Humanities"
+83, Arts Management,46,,Visual & Performing Arts
+84, Asian American Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+85, Asian History,21,,History
+86, Asian Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+87, Astronomy,36,TRUE,Physical Sciences
+88, Astrophysics,36,TRUE,Physical Sciences
+89, Athletic Training,18,,Health Professions & Related Programs
+90, Atmospheric Science,36,TRUE,Physical Sciences
+91, Audio Engineering,8,TRUE,Communications Technologies
+92, Audio Production,8,TRUE,Communications Technologies
+93, Audio Technology,8,TRUE,Communications Technologies
+94, Auto Body Repair Technology,28,,Mechanic & Repair Technologies
+95, Automotive & Diesel Technology,28,,Mechanic & Repair Technologies
+96, Automotive Engineering,13,TRUE,Engineering Technologies
+97, Automotive Technology,28,,Mechanic & Repair Technologies
+98, Automotive Technology & Service Management,28,,Mechanic & Repair Technologies
+99, Aviation Maintenance Technology,28,,Mechanic & Repair Technologies
+100, Aviation Management,45,,Transportation & Materials Moving
+101, Aviation Safety Management,45,,Transportation & Materials Moving
+102, Aviation Science & Administration (AVA),45,,Transportation & Materials Moving
+103, Aviation Technology,28,,Mechanic & Repair Technologies
+104, Avionics Systems Technology,28,,Mechanic & Repair Technologies
+105, Avionics Technology,28,,Mechanic & Repair Technologies
+106, Baking,34,,Personal & Culinary Services
+107, Baking & Pastry Arts,34,,Personal & Culinary Services
+108, Baking & Patisserie,34,,Personal & Culinary Services
+109, Barbering,34,,Personal & Culinary Services
+110, Bartending,34,,Personal & Culinary Services
+111, Basic Computer Skills,4,,Basic Skills & Developmental or Remedial Education
+112, Basic Skills / Remedial Education,4,,Basic Skills & Developmental or Remedial Education
+113, Beauty Therapy,34,,Personal & Culinary Services
+114, Behavioral Science,31,,Multi or Interdisciplinary Studies
+115, Bible Studies & Theology,44,,Theology & Religious Vocations
+116, Biblical Studies,44,,Theology & Religious Vocations
+117, Biblical Studies & Practical Ministries,44,,Theology & Religious Vocations
+118, Biochemistry (BCH),5,TRUE,Biological & Biomedical Sciences
+119, Biochemistry & Molecular Biology,5,TRUE,Biological & Biomedical Sciences
+120, Bioengineering (BioE),12,TRUE,Engineering
+121, Bioenvironmental Science,32,TRUE,Natural Resources & Conservation
+122, Bioinformatics,5,TRUE,Biological & Biomedical Sciences
+123, Biological Sciences,5,TRUE,Biological & Biomedical Sciences
+124, Biology,5,TRUE,Biological & Biomedical Sciences
+125, Biology & Chemistry,5,TRUE,Biological & Biomedical Sciences
+126, Biomedical Engineering (BME),12,TRUE,Engineering
+127, Biomedical Equipment Technology,13,TRUE,Engineering Technologies
+128, Biomedical Sciences,5,TRUE,Biological & Biomedical Sciences
+129, Biophysics,5,TRUE,Biological & Biomedical Sciences
+130, Biopsychology,31,,Multi or Interdisciplinary Studies
+131, Biostatistics,5,TRUE,Biological & Biomedical Sciences
+132, Biotechnology,5,TRUE,Biological & Biomedical Sciences
+133, Boilermaking,37,,Precision Production
+134, Book & Magazine Publishing,8,TRUE,Communications Technologies
+135, Botany,5,TRUE,Biological & Biomedical Sciences
+136, Broadcast Communication,7,,"Communication, Journalism & Related Programs"
+137, Broadcast Journalism,7,,"Communication, Journalism & Related Programs"
+138, Broadcasting Technology,8,TRUE,Communications Technologies
+139, Building & Trades,10,,Construction Trades
+140, Building Construction (BC),10,,Construction Trades
+141, Building Construction Management,10,,Construction Trades
+142, Building Construction Management Technology,10,,Construction Trades
+143, Building Maintenance,10,,Construction Trades
+144, Business & Healthcare Management,18,,Health Professions & Related Programs
+145, Business & Marketing,6,,"Business, Management & Marketing"
+146, Business & Sustainability,31,,Multi or Interdisciplinary Studies
+147, Business Administration,6,,"Business, Management & Marketing"
+148, Business Data Analysis,6,,"Business, Management & Marketing"
+149, Business Law,23,,Legal Professions & Studies
+150, Business Management,6,,"Business, Management & Marketing"
+151, Cabinet Making,10,,Construction Trades
+152, Cabinetmaking and Millwork,37,,Precision Production
+153, Cardio Thoracic Surgery,40,,Residency Programs
+154, Cardiology,40,,Residency Programs
+155, Carpentry,10,,Construction Trades
+156, Carpet,10,,Construction Trades
+157, Cell & Molecular Biology,5,TRUE,Biological & Biomedical Sciences
+158, Cell Biology,5,TRUE,Biological & Biomedical Sciences
+159, Chemical & Biomolecular Engineering,12,TRUE,Engineering
+160, Chemical Engineering,12,TRUE,Engineering
+161, Chemical Process Technology,41,TRUE,Science Technologies
+162, Chemical Technology,41,TRUE,Science Technologies
+163, Chemistry,36,TRUE,Physical Sciences
+164, Child & Family Development,15,,Family & Consumer Sciences or Human Sciences
+165, Child & Family Studies,15,,Family & Consumer Sciences or Human Sciences
+166, Child & Youth Worker,39,,Public Administration & Social Service Professions
+167, Child Development,15,,Family & Consumer Sciences or Human Sciences
+168, Children's Services,39,,Public Administration & Social Service Professions
+169, Chinese Language,16,,"Foreign Languages, Literature & Linguistics"
+170, Chinese Literature,16,,"Foreign Languages, Literature & Linguistics"
+171, Chinese Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+172, Christian Education,44,,Theology & Religious Vocations
+173, Christian Ministry,44,,Theology & Religious Vocations
+174, Christian Studies,35,,Philosophy & Religious Studies
+175, Church Ministries,44,,Theology & Religious Vocations
+176, Cinema Studies,46,,Visual & Performing Arts
+177, City & Regional Planning,2,TRUE,Architecture & Related Services
+178, Civil & Environmental Engineering,12,TRUE,Engineering
+179, Civil Engineering (CE),12,TRUE,Engineering
+180, Civil Engineering Technology (CET),13,TRUE,Engineering Technologies
+181, Classical Civilization,31,,Multi or Interdisciplinary Studies
+182, Classical Studies,31,,Multi or Interdisciplinary Studies
+183, Classics,31,,Multi or Interdisciplinary Studies
+184, Clinical Psychology,38,TRUE,Psychology
+185, Clinical Social Work (CSW),18,,Health Professions & Related Programs
+186, Coaching,33,,"Parks, Recreation, Leisure & Fitness Studies"
+187, Cognitive Science,31,,Multi or Interdisciplinary Studies
+188, Collecting,24,,Leisure & Recreational Activities
+189, College Student Personnel,11,,Education
+190, Collision Repair,28,,Mechanic & Repair Technologies
+191, Communication,7,,"Communication, Journalism & Related Programs"
+192, Communication Arts,7,,"Communication, Journalism & Related Programs"
+193, Communication Design,46,,Visual & Performing Arts
+194, Communication Sciences & Disorders,18,,Health Professions & Related Programs
+195, Communication Studies & Journalism,7,,"Communication, Journalism & Related Programs"
+196, Communications Technology,8,TRUE,Communications Technologies
+197, Community & Human Services,15,,Family & Consumer Sciences or Human Sciences
+198, Community & Regional Development,2,TRUE,Architecture & Related Services
+199, Community Development,39,,Public Administration & Social Service Professions
+200, Community Health,18,,Health Professions & Related Programs
+201, Community Health Education,18,,Health Professions & Related Programs
+202, Community Organization and Advocacy,39,,Public Administration & Social Service Professions
+203, Community Studies,39,,Public Administration & Social Service Professions
+204, Comparative History of Ideas,21,,History
+205, Comparative Literature,16,,"Foreign Languages, Literature & Linguistics"
+206, Computational & Applied Mathematics,27,TRUE,Mathematics & Statistics
+207, Computational Linguistics,16,,"Foreign Languages, Literature & Linguistics"
+208, Computational Mathematics,27,TRUE,Mathematics & Statistics
+209, Computational Science,31,TRUE,Multi or Interdisciplinary Studies
+210, Computer & Network Administration,9,TRUE,Computer & Information Sciences
+211, Computer Aided Drafting (CAD),13,TRUE,Engineering Technologies
+212, Computer Aided Drafting & Design (CADD),13,TRUE,Engineering Technologies
+213, Computer Engineering (CE),12,TRUE,Engineering
+214, Computer Engineering Technology (CET),13,TRUE,Engineering Technologies
+215, Computer Forensics,42,,Security & Protective Services
+216, Computer Games & Programming Skills,24,,Leisure & Recreational Activities
+217, Computer Graphics Technology (CGT),9,TRUE,Computer & Information Sciences
+218, Computer Information Systems (CIS),9,TRUE,Computer & Information Sciences
+219, Computer Networking Systems,9,TRUE,Computer & Information Sciences
+220, Computer Programming,9,TRUE,Computer & Information Sciences
+221, Computer Repair Technology,28,,Mechanic & Repair Technologies
+222, Computer Science (CS),9,TRUE,Computer & Information Sciences
+223, Computer Science (CS) & Engineering,12,TRUE,Engineering
+224, Computer Science (CS) & Mathematics,31,,Multi or Interdisciplinary Studies
+225, Computer Science & Information Technology,9,TRUE,Computer & Information Sciences
+226, Computing,9,TRUE,Computer & Information Sciences
+227, Concrete Finishing,10,,Construction Trades
+228, Conflict Resolution,31,,Multi or Interdisciplinary Studies
+229, Conservation Biology,5,TRUE,Biological & Biomedical Sciences
+230, Construction Electrician Studies,10,,Construction Trades
+231, Construction Engineering Technology,13,TRUE,Engineering Technologies
+232, Construction Management,6,,"Business, Management & Marketing"
+233, Construction Science,2,TRUE,Architecture & Related Services
+234, Construction Technology,10,,Construction Trades
+235, Construction Trades,10,,Construction Trades
+236, Consumer Affairs,15,,Family & Consumer Sciences or Human Sciences
+237, Consumer Economics,15,,Family & Consumer Sciences or Human Sciences
+238, Corporate Law,23,,Legal Professions & Studies
+239, Corrections Studies,42,,Security & Protective Services
+240, Cosmetology,34,,Personal & Culinary Services
+241, Counseling,38,TRUE,Psychology
+242, Counseling Psychology,38,TRUE,Psychology
+243, Court Reporting,23,,Legal Professions & Studies
+244, Creative Writing,14,,English Language & Literature or Letters
+245, Criminal Justice,42,,Security & Protective Services
+246, Criminal Justice Administration,42,,Security & Protective Services
+247, Criminology,43,,Social Sciences
+248, Crisis & Emergency Management,42,,Security & Protective Services
+249, Crop Science,1,TRUE,Agriculture & Related Sciences
+250, Culinary Arts,34,,Personal & Culinary Services
+251, Culinary Arts & Culinary Management,34,,Personal & Culinary Services
+252, Culinary Management,34,,Personal & Culinary Services
+253, Culinary Nutrition,34,,Personal & Culinary Services
+254, Culinary Science,34,,Personal & Culinary Services
+255, Cultural Anthropology,43,,Social Sciences
+256, Culture Studies,31,,Multi or Interdisciplinary Studies
+257, Curriculum & Instruction,11,,Education
+258, Cyber/Electronic Operations & Warfare,30,,Military Technologies & Applied Sciences
+259, Cybersecurity,17,,General
+260, Dairy Science,1,TRUE,Agriculture & Related Sciences
+261, Dance,46,,Visual & Performing Arts
+262, Data Processing,9,TRUE,Computer & Information Sciences
+263, Database Management,9,TRUE,Computer & Information Sciences
+264, Deaf Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+265, Dental Assisting,18,,Health Professions & Related Programs
+266, Dental Hygiene,18,,Health Professions & Related Programs
+267, Dental Radiology Residency Program,40,,Residency Programs
+268, Dental Surgery,40,,Residency Programs
+269, Dermatology,40,,Residency Programs
+270, Design,46,,Visual & Performing Arts
+271, Developmental Psychology,38,TRUE,Psychology
+272, Diagnostic Radiology Residency Program,40,,Residency Programs
+273, Diesel Engines,28,,Mechanic & Repair Technologies
+274, Diesel Repair,28,,Mechanic & Repair Technologies
+275, Diesel Technology,28,,Mechanic & Repair Technologies
+276, Dietetics,18,,Health Professions & Related Programs
+277, Digital Forensics,42,,Security & Protective Services
+278, Digital Media,7,,"Communication, Journalism & Related Programs"
+279, Digital Media Design,7,,"Communication, Journalism & Related Programs"
+280, Direct Practice,39,,Public Administration & Social Service Professions
+281, Directed Energy Systems,30,,Military Technologies & Applied Sciences
+282, Disability Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+283, Divinity,44,,Theology & Religious Vocations
+284, Drafting & Design,13,TRUE,Engineering Technologies
+285, Drama,46,,Visual & Performing Arts
+286, Drawing & Painting,46,,Visual & Performing Arts
+287, Early Childhood & Elementary Education,11,,Education
+288, Early Childhood Education,11,,Education
+289, Earth & Space Sciences (ESS),36,TRUE,Physical Sciences
+290, Earth Science,36,TRUE,Physical Sciences
+291, East Asian Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+292, Ecological Management & Restoration,32,TRUE,Natural Resources & Conservation
+293, Ecology,5,TRUE,Biological & Biomedical Sciences
+294, Econometrics,43,,Social Sciences
+295, Economic Crime & Fraud Management,42,,Security & Protective Services
+296, Economics,43,,Social Sciences
+297, Economics & Political Science,43,,Social Sciences
+298, Economics and Mathematics,43,,Social Sciences
+299, Ecosystem Restoration & Management,32,TRUE,Natural Resources & Conservation
+300, Education,11,,Education
+301, Education Policy,39,,Public Administration & Social Service Professions
+302, Educational Leadership,11,,Education
+303, Educational Psychology,38,TRUE,Psychology
+304, Educational Studies (ED),11,,Education
+305, Educational Technology (EDT),11,,Education
+306, Electrical & Computer Engineering (ECE),12,TRUE,Engineering
+307, Electrical & Electronics Engineering (EEE),12,TRUE,Engineering
+308, Electrical Engineering (BSEE),9,TRUE,Computer & Information Sciences
+309, Electrical Engineering (BSEE),12,TRUE,Engineering
+310, Electrical Engineering (BSEE),13,TRUE,Engineering Technologies
+311, Electrical Engineering (BSEE),17,,General
+312, Electrical Engineering (EE),12,TRUE,Engineering
+313, Electrical Wiring,10,,Construction Trades
+314, Electrician Studies,10,,Construction Trades
+315, Electrology,34,,Personal & Culinary Services
+316, Electronics & Communications Engineering,12,TRUE,Engineering
+317, Electronics & Computer Technology,13,TRUE,Engineering Technologies
+318, Elementary Education,11,,Education
+319, Emergency Management,42,,Security & Protective Services
+320, Emergency Medical Services (EMS),42,,Security & Protective Services
+321, Emergency Medical Technology (EMT),18,,Health Professions & Related Programs
+322, Emergency Medicine,40,,Residency Programs
+323, Employment Law,23,,Legal Professions & Studies
+324, Energy Management,13,TRUE,Engineering Technologies
+325, Energy Studies,36,TRUE,Physical Sciences
+326, Engineering,12,TRUE,Engineering
+327, Engineering Graphics & Design Technology,13,TRUE,Engineering Technologies
+328, Engineering Management,13,TRUE,Engineering Technologies
+329, Engineering Technology (ET),13,TRUE,Engineering Technologies
+330, English & History,14,,English Language & Literature or Letters
+331, English Language,14,,English Language & Literature or Letters
+332, English Language & Literature,14,,English Language & Literature or Letters
+333, English Literature,14,,English Language & Literature or Letters
+334, English Literature (Britain & Commonwealth),14,,English Language & Literature or Letters
+335, English Teacher Education,11,,Education
+336, Enology,1,TRUE,Agriculture & Related Sciences
+337, Entrepreneurship,6,,"Business, Management & Marketing"
+338, Environmental & Natural Resource Economics,32,TRUE,Natural Resources & Conservation
+339, Environmental & Soil Sciences,1,TRUE,Agriculture & Related Sciences
+340, Environmental Biology,5,TRUE,Biological & Biomedical Sciences
+341, Environmental Design,2,TRUE,Architecture & Related Services
+342, Environmental Engineering,12,TRUE,Engineering
+343, Environmental Health & Safety,18,,Health Professions & Related Programs
+344, Environmental Health & Safety Management,13,TRUE,Engineering Technologies
+345, Environmental Horticulture & Urban Forestry,32,TRUE,Natural Resources & Conservation
+346, Environmental Management,32,TRUE,Natural Resources & Conservation
+347, Environmental Policy Analysis & Planning,32,TRUE,Natural Resources & Conservation
+348, Environmental Resource Management,32,TRUE,Natural Resources & Conservation
+349, Environmental Science,32,TRUE,Natural Resources & Conservation
+350, Environmental Science & Management,32,TRUE,Natural Resources & Conservation
+351, Environmental Science & Policy,32,TRUE,Natural Resources & Conservation
+352, Environmental Studies,32,TRUE,Natural Resources & Conservation
+353, Epidemiology,5,TRUE,Biological & Biomedical Sciences
+354, Equine Science,1,TRUE,Agriculture & Related Sciences
+355, Equine Studies,1,TRUE,Agriculture & Related Sciences
+356, Esthetician Studies,34,,Personal & Culinary Services
+357, Ethics,35,,Philosophy & Religious Studies
+358, Ethnic Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+359, European History,21,,History
+360, European Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+361, Evangelism,44,,Theology & Religious Vocations
+362, Evolution,5,TRUE,Biological & Biomedical Sciences
+363, Exercise & Sports Science,33,,"Parks, Recreation, Leisure & Fitness Studies"
+364, Exercise Physiology,5,TRUE,Biological & Biomedical Sciences
+365, Exercise Science,33,,"Parks, Recreation, Leisure & Fitness Studies"
+366, Experimental Psychology,38,TRUE,Psychology
+367, Facilities Management,15,,Family & Consumer Sciences or Human Sciences
+368, Family & Community Services,15,,Family & Consumer Sciences or Human Sciences
+369, Family & Consumer Science,15,,Family & Consumer Sciences or Human Sciences
+370, Family History - Genealogy,21,,History
+371, Family Life Education,15,,Family & Consumer Sciences or Human Sciences
+372, Family Medicine,40,,Residency Programs
+373, Family Nurse Practitioner (FNP) Studies,18,,Health Professions & Related Programs
+374, Family Studies,15,,Family & Consumer Sciences or Human Sciences
+375, Fashion,15,,Family & Consumer Sciences or Human Sciences
+376, Fashion Design,46,,Visual & Performing Arts
+377, Fashion Marketing & Management,15,,Family & Consumer Sciences or Human Sciences
+378, Fashion Merchandising,6,,"Business, Management & Marketing"
+379, Film Production,46,,Visual & Performing Arts
+380, Film Studies,46,,Visual & Performing Arts
+381, Finance,6,,"Business, Management & Marketing"
+382, Finance & Economics,43,,Social Sciences
+383, Financial Mathematics,27,TRUE,Mathematics & Statistics
+384, Fine Arts,46,,Visual & Performing Arts
+385, Fire Protection Engineering,42,,Security & Protective Services
+386, Fire Science,42,,Security & Protective Services
+387, Fire Systems Technology,42,,Security & Protective Services
+388, Fisheries Science,32,TRUE,Natural Resources & Conservation
+389, Fitness,24,,Leisure & Recreational Activities
+390, Fitness Management,33,,"Parks, Recreation, Leisure & Fitness Studies"
+391, Flagging & Traffic Control,45,,Transportation & Materials Moving
+392, Flight Management,45,,Transportation & Materials Moving
+393, Flight Technology,45,,Transportation & Materials Moving
+394, Food Safety,1,TRUE,Agriculture & Related Sciences
+395, Food Science,1,TRUE,Agriculture & Related Sciences
+396, Food Science & Technology,1,TRUE,Agriculture & Related Sciences
+397, Foods & Nutrition,15,,Family & Consumer Sciences or Human Sciences
+398, Foreign Affairs,43,,Social Sciences
+399, Foreign Languages,16,,"Foreign Languages, Literature & Linguistics"
+400, Foreign Service,25,,"Liberal Arts & Sciences, General Studies & Humanities"
+401, Forensic Accounting,42,,Security & Protective Services
+402, Forensic Chemistry,36,TRUE,Physical Sciences
+403, Forensic Psychology,38,TRUE,Psychology
+404, Forensic Science,42,,Security & Protective Services
+405, Forest Resources Production & Management,32,TRUE,Natural Resources & Conservation
+406, Forest Sciences & Biology,32,TRUE,Natural Resources & Conservation
+407, Forestry,32,TRUE,Natural Resources & Conservation
+408, Forestry Management,32,TRUE,Natural Resources & Conservation
+409, French Language,16,,"Foreign Languages, Literature & Linguistics"
+410, French Literature,16,,"Foreign Languages, Literature & Linguistics"
+411, French Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+412, Funeral Directing,34,,Personal & Culinary Services
+413, Funeral Science,34,,Personal & Culinary Services
+414, Funeral Service Education,34,,Personal & Culinary Services
+415, Furniture Design,37,,Precision Production
+416, Game Design & Development,46,,Visual & Performing Arts
+417, Gender Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+418, General Business,6,,"Business, Management & Marketing"
+419, General Educational Development (GED),20,,High School or Secondary Diplomas & Certificates
+420, General Science,31,,Multi or Interdisciplinary Studies
+421, General Studies,25,,"Liberal Arts & Sciences, General Studies & Humanities"
+422, General Surgery,40,,Residency Programs
+423, Genetics,5,TRUE,Biological & Biomedical Sciences
+424, Geochemistry,36,TRUE,Physical Sciences
+425, Geographic Information Systems (GIS),43,TRUE,Social Sciences
+426, Geography,43,,Social Sciences
+427, Geology,36,TRUE,Physical Sciences
+428, Geophysics,36,TRUE,Physical Sciences
+429, Geosciences,36,TRUE,Physical Sciences
+430, Geriatrics,40,,Residency Programs
+431, German Language,16,,"Foreign Languages, Literature & Linguistics"
+432, German Language & Literature,16,,"Foreign Languages, Literature & Linguistics"
+433, German Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+434, Gerontology,31,,Multi or Interdisciplinary Studies
+435, Glass-Working,10,,Construction Trades
+436, Global & International Studies,31,,Multi or Interdisciplinary Studies
+437, Global Studies,31,,Multi or Interdisciplinary Studies
+438, Government,43,,Social Sciences
+439, Government & Politics,43,,Social Sciences
+440, Graphic Communication,8,,Communications Technologies
+441, Graphic Communications Management,8,,Communications Technologies
+442, Graphic Design,46,,Visual & Performing Arts
+443, Gunsmithing,28,,Mechanic & Repair Technologies
+444, Hair Design,34,,Personal & Culinary Services
+445, Hair Stylist Studies,34,,Personal & Culinary Services
+446, Harley-Davidson Maintenance & Repair Technology,28,,Mechanic & Repair Technologies
+447, Health,18,,Health Professions & Related Programs
+448, Health & Exercise Science,33,,"Parks, Recreation, Leisure & Fitness Studies"
+449, Health & Fitness,33,,"Parks, Recreation, Leisure & Fitness Studies"
+450, Health & Human Performance,33,,"Parks, Recreation, Leisure & Fitness Studies"
+451, Health & Physical Education Teaching,11,,Education
+452, Health Care Administration,18,,Health Professions & Related Programs
+453, Health Care Management,18,,Health Professions & Related Programs
+454, Health Information Technology,18,,Health Professions & Related Programs
+455, Health Policy,39,,Public Administration & Social Service Professions
+456, Health Promotion,18,,Health Professions & Related Programs
+457, Health Sciences,18,,Health Professions & Related Programs
+458, Heavy Equipment Technology,28,,Mechanic & Repair Technologies
+459, High Performance and Custom Engine Technology,28,,Mechanic & Repair Technologies
+460, High School Diploma,20,,High School or Secondary Diplomas & Certificates
+461, High School Equivalence Certificate Program,20,,High School or Secondary Diplomas & Certificates
+462, Higher Education Administration,11,,Education
+463, Hispanic Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+464, Historic Preservation,31,,Multi or Interdisciplinary Studies
+465, History,21,,History
+466, History & Philosophy of Science & Technology,21,,History
+467, History & Political Science,43,,Social Sciences
+468, Home Economics,15,,Family & Consumer Sciences or Human Sciences
+469, Home Inspection,10,,Construction Trades
+470, Homeland Security,42,,Security & Protective Services
+471, Horticulture,1,TRUE,Agriculture & Related Sciences
+472, Horticulture & Agronomy,1,TRUE,Agriculture & Related Sciences
+473, Hospitality & The Culinary Arts,34,,Personal & Culinary Services
+474, Hospitality Management,6,,"Business, Management & Marketing"
+475, Housing,15,,Family & Consumer Sciences or Human Sciences
+476, Human Biology,31,,Multi or Interdisciplinary Studies
+477, Human Computer Interaction,31,,Multi or Interdisciplinary Studies
+478, Human Development,15,,Family & Consumer Sciences or Human Sciences
+479, Human Development & Family Studies,15,,Family & Consumer Sciences or Human Sciences
+480, Human Dimensions of Natural Resource Management,32,TRUE,Natural Resources & Conservation
+481, Human Ecology,15,,Family & Consumer Sciences or Human Sciences
+482, Human Nutrition,15,,Family & Consumer Sciences or Human Sciences
+483, Human Performance,33,,"Parks, Recreation, Leisure & Fitness Studies"
+484, Human Physiology,5,TRUE,Biological & Biomedical Sciences
+485, Human Relations,39,,Public Administration & Social Service Professions
+486, Human Resources (HR),17,,General
+487, Human Resources Management (HRM),17,,General
+488, Human Rights,39,,Public Administration & Social Service Professions
+489, Human Services (HS),39,,Public Administration & Social Service Professions
+490, Human Services Administration,39,,Public Administration & Social Service Professions
+491, Human Services Management,39,,Public Administration & Social Service Professions
+492, Humanities,25,,"Liberal Arts & Sciences, General Studies & Humanities"
+493, Humanities & Western Civilization,25,,"Liberal Arts & Sciences, General Studies & Humanities"
+494, Hydrogeology,36,TRUE,Physical Sciences
+495, Hydrology,36,TRUE,Physical Sciences
+496, Illustration,46,,Visual & Performing Arts
+497, Immunology,5,TRUE,Biological & Biomedical Sciences
+498, Individualized,31,,Multi or Interdisciplinary Studies
+499, Industrial & Systems Engineering,12,TRUE,Engineering
+500, Industrial Design (ID),46,,Visual & Performing Arts
+501, Industrial Distribution,13,TRUE,Engineering Technologies
+502, Industrial Electronic Technology,28,,Mechanic & Repair Technologies
+503, Industrial Engineering (IE),12,TRUE,Engineering
+504, Industrial Engineering & Management,13,TRUE,Engineering Technologies
+505, Industrial Engineering Technology,13,TRUE,Engineering Technologies
+506, Industrial Maintenance Technology,28,,Mechanic & Repair Technologies
+507, Industrial Management,13,TRUE,Engineering Technologies
+508, Industrial Mechanics & Maintenance Technology,28,,Mechanic & Repair Technologies
+509, Industrial Psychology,38,TRUE,Psychology
+510, Industrial Technology (IT),13,TRUE,Engineering Technologies
+511, Infectious Diseases,40,,Residency Programs
+512, Informatics,9,TRUE,Computer & Information Sciences
+513, Information Science (IS),9,TRUE,Computer & Information Sciences
+514, Information Sciences and Technology,9,TRUE,Computer & Information Sciences
+515, Information Systems (IS),9,TRUE,Computer & Information Sciences
+516, Information Technology (IT),9,TRUE,Computer & Information Sciences
+517, Information Technology (IT) & Systems,9,TRUE,Computer & Information Sciences
+518, Information Technology Management,9,TRUE,Computer & Information Sciences
+519, Instructional Design & Technology,11,,Education
+520, Integrated Marketing Communications,7,,"Communication, Journalism & Related Programs"
+521, Integrated Science & Technology,31,,Multi or Interdisciplinary Studies
+522, Intelligence Analysis,30,,Military Technologies & Applied Sciences
+523, Intelligence Operations,30,,Military Technologies & Applied Sciences
+524, Intelligence Studies,30,,Military Technologies & Applied Sciences
+525, Intercultural Studies,31,,Multi or Interdisciplinary Studies
+526, Interdisciplinary Studies (IS),31,,Multi or Interdisciplinary Studies
+527, Interior Architecture,2,TRUE,Architecture & Related Services
+528, Interior Design,46,,Visual & Performing Arts
+529, Internal Medicine,40,,Residency Programs
+530, International Affairs,43,,Social Sciences
+531, International Agricultural Development,1,TRUE,Agriculture & Related Sciences
+532, International Business,6,,"Business, Management & Marketing"
+533, International Development Studies,43,,Social Sciences
+534, International Economics,43,,Social Sciences
+535, International Law,23,,Legal Professions & Studies
+536, International Relations,43,,Social Sciences
+537, International Security & Conflict Resolution,31,,Multi or Interdisciplinary Studies
+538, International Studies,31,,Multi or Interdisciplinary Studies
+539, Interpersonal Communications,22,,Interpersonal & Social Skills
+540, Interpreting,16,,"Foreign Languages, Literature & Linguistics"
+541, Islamic Studies,35,,Philosophy & Religious Studies
+542, Italian Language,16,,"Foreign Languages, Literature & Linguistics"
+543, Italian Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+544, Japanese Language,16,,"Foreign Languages, Literature & Linguistics"
+545, Japanese Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+546, Job-Seeking Skills,4,,Basic Skills & Developmental or Remedial Education
+547, Joint Operations Planning & Strategy,29,,"Military Science, Leadership & Operational Art"
+548, Journalism,7,,"Communication, Journalism & Related Programs"
+549, Journalism & Electronic Media,7,,"Communication, Journalism & Related Programs"
+550, Journalism & Mass Communication,7,,"Communication, Journalism & Related Programs"
+551, Journeyman Electrician Studies,10,,Construction Trades
+552, Judaic Studies,35,,Philosophy & Religious Studies
+553, Jurisprudence,23,,Legal Professions & Studies
+554, Justice Studies,42,,Security & Protective Services
+555, Kinesiology,33,,"Parks, Recreation, Leisure & Fitness Studies"
+556, Korean Language,16,,"Foreign Languages, Literature & Linguistics"
+557, Korean Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+558, Land Use Planning,32,TRUE,Natural Resources & Conservation
+559, Landscape Architecture,2,TRUE,Architecture & Related Services
+560, Landscape Design,2,TRUE,Architecture & Related Services
+561, Landscape Management,1,TRUE,Agriculture & Related Sciences
+562, Landscaping,1,TRUE,Agriculture & Related Sciences
+563, Latin American and Caribbean Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+564, Latin American Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+565, Latin Language,16,,"Foreign Languages, Literature & Linguistics"
+566, Law,23,,Legal Professions & Studies
+567, Law & Society,23,,Legal Professions & Studies
+568, Law Enforcement,42,,Security & Protective Services
+569, Leadership,6,,"Business, Management & Marketing"
+570, Legal Assistant Studies,23,,Legal Professions & Studies
+571, Legal Secretary Studies,23,,Legal Professions & Studies
+572, Legal Studies,23,,Legal Professions & Studies
+573, Letters,25,,"Liberal Arts & Sciences, General Studies & Humanities"
+574, Liberal Arts,25,,"Liberal Arts & Sciences, General Studies & Humanities"
+575, Liberal Studies,25,,"Liberal Arts & Sciences, General Studies & Humanities"
+576, Library & Information Science,26,TRUE,Library Science
+577, Library Science,26,TRUE,Library Science
+578, Life Sciences,31,,Multi or Interdisciplinary Studies
+579, Lineworker Studies,10,,Construction Trades
+580, Linguistics,16,,"Foreign Languages, Literature & Linguistics"
+581, Logic,35,,Philosophy & Religious Studies
+582, Machine Repair,28,,Mechanic & Repair Technologies
+583, Machine Shop,37,,Precision Production
+584, Machine Tool Technology,37,,Precision Production
+585, Machine Trades,37,,Precision Production
+586, Machining Technology,37,,Precision Production
+587, Machinist Technology,37,,Precision Production
+588, Make-Up Artist Studies,34,,Personal & Culinary Services
+589, Management,6,,"Business, Management & Marketing"
+590, Management & Ethics,35,,Philosophy & Religious Studies
+591, Management Information Systems (MIS),6,TRUE,"Business, Management & Marketing"
+592, Manufacturing Engineering,12,TRUE,Engineering
+593, Manufacturing Engineering Technology,13,TRUE,Engineering Technologies
+594, Manufacturing Technology,13,TRUE,Engineering Technologies
+595, Marine Affairs,32,TRUE,Natural Resources & Conservation
+596, Marine Biology,5,TRUE,Biological & Biomedical Sciences
+597, Marine Science,31,,Multi or Interdisciplinary Studies
+598, Marine Transportation Management,45,,Transportation & Materials Moving
+599, Marketing,6,,"Business, Management & Marketing"
+600, Marketing & Communications,17,,General
+601, Marketing & Management,6,,"Business, Management & Marketing"
+602, Marketing & Mass Communications,7,,"Communication, Journalism & Related Programs"
+603, Masonry,10,,Construction Trades
+604, Mass Communication,7,,"Communication, Journalism & Related Programs"
+605, Mass Media,7,,"Communication, Journalism & Related Programs"
+606, Massage Therapy,18,,Health Professions & Related Programs
+607, Master Esthetician Studies,34,,Personal & Culinary Services
+608, Materials Science,36,TRUE,Physical Sciences
+609, Materials Science & Engineering,12,TRUE,Engineering
+610, Math & Science,31,,Multi or Interdisciplinary Studies
+611, Mathematical & Scientific Computation,27,TRUE,Mathematics & Statistics
+612, Mathematical Statistics & Probability,27,TRUE,Mathematics & Statistics
+613, Mathematics,27,TRUE,Mathematics & Statistics
+614, Mathematics & Statistics,27,TRUE,Mathematics & Statistics
+615, Meat Cutting,34,,Personal & Culinary Services
+616, Mechanic Studies,28,,Mechanic & Repair Technologies
+617, Mechanical Design,13,TRUE,Engineering Technologies
+618, Mechanical Drafting,13,TRUE,Engineering Technologies
+619, Mechanical Engineering (BSME),9,TRUE,Computer & Information Sciences
+620, Mechanical Engineering (BSME),12,TRUE,Engineering
+621, Mechanical Engineering (BSME),13,TRUE,Engineering Technologies
+622, Mechanical Engineering (BSME),17,,General
+623, Mechanical Engineering (ME),12,TRUE,Engineering
+624, Mechanical Engineering Technology (MET),13,TRUE,Engineering Technologies
+625, Media Arts,46,,Visual & Performing Arts
+626, Media Communication,7,,"Communication, Journalism & Related Programs"
+627, Media Studies,46,,Visual & Performing Arts
+628, Medical Assisting,18,,Health Professions & Related Programs
+629, Medical Billing & Coding,18,,Health Professions & Related Programs
+630, Medical Office Administration,18,,Health Professions & Related Programs
+631, Mental Health,18,,Health Professions & Related Programs
+632, Mental Health Counseling,18,,Health Professions & Related Programs
+633, Merchant Marine Officer Studies,45,,Transportation & Materials Moving
+634, Metal Fabrication,37,,Precision Production
+635, Meteorology,36,TRUE,Physical Sciences
+636, Microbiology,5,TRUE,Biological & Biomedical Sciences
+637, Microbiology & Immunology,5,TRUE,Biological & Biomedical Sciences
+638, Microsoft Office Specialist Studies,9,TRUE,Computer & Information Sciences
+639, Middle Eastern & African Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+640, Middle Eastern Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+641, Military & Strategic Leadership,29,,"Military Science, Leadership & Operational Art"
+642, Military History,21,,History
+643, Military Science,29,,"Military Science, Leadership & Operational Art"
+644, Millwright,28,,Mechanic & Repair Technologies
+645, Ministry,44,,Theology & Religious Vocations
+646, Missions,44,,Theology & Religious Vocations
+647, Mobile Crane Operation,45,,Transportation & Materials Moving
+648, Modern Language Spanish,16,,"Foreign Languages, Literature & Linguistics"
+649, Modern Languages,16,,"Foreign Languages, Literature & Linguistics"
+650, Molecular Biology,5,TRUE,Biological & Biomedical Sciences
+651, Molecular Genetics,5,TRUE,Biological & Biomedical Sciences
+652, Mortuary Science,34,,Personal & Culinary Services
+653, Motorcycle Repair Technology,28,,Mechanic & Repair Technologies
+654, Movement Science,33,,"Parks, Recreation, Leisure & Fitness Studies"
+655, Multidisciplinary Studies,31,,Multi or Interdisciplinary Studies
+656, Multimedia,7,,"Communication, Journalism & Related Programs"
+657, Multimedia & Web Design,9,TRUE,Computer & Information Sciences
+658, Munitions Systems Technology,30,,Military Technologies & Applied Sciences
+659, Museum Studies,31,,Multi or Interdisciplinary Studies
+660, Music,46,,Visual & Performing Arts
+661, Music Business,46,,Visual & Performing Arts
+662, Music Composition,46,,Visual & Performing Arts
+663, Music Engineering Technology,8,TRUE,Communications Technologies
+664, Music Performance,46,,Visual & Performing Arts
+665, Music Production & Engineering,8,TRUE,Communications Technologies
+666, Music Teacher Education,11,,Education
+667, Musical Theatre,46,,Visual & Performing Arts
+668, Nail Technology,34,,Personal & Culinary Services
+669, Nanotechnology,13,TRUE,Engineering Technologies
+670, National Resource Strategy & Policy,29,,"Military Science, Leadership & Operational Art"
+671, National Security,42,,Security & Protective Services
+672, National Security Strategy,29,,"Military Science, Leadership & Operational Art"
+673, National Security Studies,43,,Social Sciences
+674, Native American Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+675, Natural Resource Management,32,TRUE,Natural Resources & Conservation
+676, Natural Resources,32,TRUE,Natural Resources & Conservation
+677, Natural Sciences,31,,Multi or Interdisciplinary Studies
+678, Nautical Science,45,,Transportation & Materials Moving
+679, Naval Science & Operational Studies,29,,"Military Science, Leadership & Operational Art"
+680, Neonatalogy,40,,Residency Programs
+681, Nephrology,40,,Residency Programs
+682, Network & Communications Management,9,TRUE,Computer & Information Sciences
+683, Network Administration,9,TRUE,Computer & Information Sciences
+684, Neurobiology,5,TRUE,Biological & Biomedical Sciences
+685, Neurological Surgery/Neurosurgery,40,,Residency Programs
+686, Neurology,40,,Residency Programs
+687, Neuroscience,5,TRUE,Biological & Biomedical Sciences
+688, New Media,7,,"Communication, Journalism & Related Programs"
+689, New Testament,44,,Theology & Religious Vocations
+690, Nonprofit Management,6,,"Business, Management & Marketing"
+691, Nuclear Engineering,12,TRUE,Engineering
+692, Nuclear Engineering Technology (NET),13,TRUE,Engineering Technologies
+693, Nuclear Medicine,40,,Residency Programs
+694, Nuclear Technology,41,TRUE,Science Technologies
+695, Nursing,18,,Health Professions & Related Programs
+696, Nursing Assistant Studies,18,,Health Professions & Related Programs
+697, Nursing Science,18,,Health Professions & Related Programs
+698, Nutrition,15,,Family & Consumer Sciences or Human Sciences
+699, Nutrition & Dietetics,18,,Health Professions & Related Programs
+700, Nutrition Science,31,,Multi or Interdisciplinary Studies
+701, Obstetrics & Gynecology Residency Program (OB/GYN),40,,Residency Programs
+702, Occupational Education,28,,Mechanic & Repair Technologies
+703, Occupational Health and Safety,13,TRUE,Engineering Technologies
+704, Occupational Therapy (OT),18,,Health Professions & Related Programs
+705, Occupational Therapy Assistant (OTA) Studies,18,,Health Professions & Related Programs
+706, Oceanography,36,TRUE,Physical Sciences
+707, Oncology,40,,Residency Programs
+708, Operations & Supply Chain Management,6,,"Business, Management & Marketing"
+709, Operations Management (OM),6,,"Business, Management & Marketing"
+710, Ophthalmology,40,,Residency Programs
+711, Optical Science & Engineering,36,TRUE,Physical Sciences
+712, Optics,36,TRUE,Physical Sciences
+713, Organic Chemistry,36,TRUE,Physical Sciences
+714, Organizational Communication,7,,"Communication, Journalism & Related Programs"
+715, Organizational Leadership,6,,"Business, Management & Marketing"
+716, Organizational Psychology,38,TRUE,Psychology
+717, Ornamental Horticulture,1,TRUE,Agriculture & Related Sciences
+718, Orthopedic Surgery of the Spine,40,,Residency Programs
+719, Orthopedic Surgery Residency Program,40,,Residency Programs
+720, Otolaryngology,40,,Residency Programs
+721, Outdoor Education,33,,"Parks, Recreation, Leisure & Fitness Studies"
+722, Packaging Science,13,TRUE,Engineering Technologies
+723, Painting,46,,Visual & Performing Arts
+724, Paralegal Studies,23,,Legal Professions & Studies
+725, Parks & Recreation Management,33,,"Parks, Recreation, Leisure & Fitness Studies"
+726, Pastoral Counseling,44,,Theology & Religious Vocations
+727, Pastoral Ministry,44,,Theology & Religious Vocations
+728, Pastoral Studies,44,,Theology & Religious Vocations
+729, Pastry & Culinary Arts,34,,Personal & Culinary Services
+730, Patisserie,34,,Personal & Culinary Services
+731, PC Repairs,28,,Mechanic & Repair Technologies
+732, Peace Studies,31,,Multi or Interdisciplinary Studies
+733, Pediatrics,40,,Residency Programs
+734, Personal Trainer Studies,33,,"Parks, Recreation, Leisure & Fitness Studies"
+735, Pet Grooming,1,TRUE,Agriculture & Related Sciences
+736, Petroleum Engineering,12,TRUE,Engineering
+737, Pharmaceutical Sciences (PS),18,,Health Professions & Related Programs
+738, Pharmacology,5,TRUE,Biological & Biomedical Sciences
+739, Pharmacy,18,,Health Professions & Related Programs
+740, Pharmacy Technology,18,,Health Professions & Related Programs
+741, Philosophy,35,,Philosophy & Religious Studies
+742, Philosophy & Religion,35,,Philosophy & Religious Studies
+743, Philosophy & Religious Studies,35,,Philosophy & Religious Studies
+744, Phlebotomy,18,,Health Professions & Related Programs
+745, Photography,46,,Visual & Performing Arts
+746, Photojournalism,7,,"Communication, Journalism & Related Programs"
+747, Physical Chemistry,36,TRUE,Physical Sciences
+748, Physical Education & Exercise Science,11,,Education
+749, Physical Education Teaching,11,,Education
+750, Physical Sciences,36,TRUE,Physical Sciences
+751, Physical Therapist Assistant Studies,18,,Health Professions & Related Programs
+752, Physical Therapy,18,,Health Professions & Related Programs
+753, Physician Assistant Studies,18,,Health Professions & Related Programs
+754, Physics,36,TRUE,Physical Sciences
+755, Physics & Astronomy,36,TRUE,Physical Sciences
+756, Physics & Mathematics,36,TRUE,Physical Sciences
+757, Physiology,5,TRUE,Biological & Biomedical Sciences
+758, Pipefitting,10,,Construction Trades
+759, Plant Sciences,1,TRUE,Agriculture & Related Sciences
+760, Plastics Engineering Technology,13,TRUE,Engineering Technologies
+761, Plumbing,10,,Construction Trades
+762, Poetry,14,,English Language & Literature or Letters
+763, Police Academy,42,,Security & Protective Services
+764, Police Science,42,,Security & Protective Services
+765, Political Economy,43,,Social Sciences
+766, Political Science (PolySci),43,,Social Sciences
+767, Political Science & Public Service,39,,Public Administration & Social Service Professions
+768, Politics,43,,Social Sciences
+769, Polymer Chemistry,36,TRUE,Physical Sciences
+770, Portuguese Language,16,,"Foreign Languages, Literature & Linguistics"
+771, Poultry Science,1,TRUE,Agriculture & Related Sciences
+772, Practical Nursing,18,,Health Professions & Related Programs
+773, Pre-law,23,,Legal Professions & Studies
+774, Pre-Medicine,18,,Health Professions & Related Programs
+775, Preaching,44,,Theology & Religious Vocations
+776, Precision Machining Technology,37,,Precision Production
+777, Printing & Publishing,8,,Communications Technologies
+778, Printing Management,8,TRUE,Communications Technologies
+779, Printing Press Operator Studies,8,,Communications Technologies
+780, Printing Technology,8,TRUE,Communications Technologies
+781, Printmaking,46,,Visual & Performing Arts
+782, Private Pilot Education,24,,Leisure & Recreational Activities
+783, Process Technology,13,TRUE,Engineering Technologies
+784, Product Design Engineering,13,TRUE,Engineering Technologies
+785, Production Technology,8,TRUE,Communications Technologies
+786, Professional & Technical Writing,14,,English Language & Literature or Letters
+787, Professional Cooking & Culinary Arts,34,,Personal & Culinary Services
+788, Professional Counseling,38,TRUE,Psychology
+789, Professional Golf Management,33,,"Parks, Recreation, Leisure & Fitness Studies"
+790, Professional Pilot Education,45,,Transportation & Materials Moving
+791, Professional Studies,28,,Mechanic & Repair Technologies
+792, Professional Writing,14,,English Language & Literature or Letters
+793, Project Management,6,,"Business, Management & Marketing"
+794, Psychiatry,40,,Residency Programs
+795, Psychobiology,38,TRUE,Psychology
+796, Psychology,38,TRUE,Psychology
+797, Psychology & Social Behavior,38,TRUE,Psychology
+798, Psychology & Sociology,38,TRUE,Psychology
+799, Public Administration,39,,Public Administration & Social Service Professions
+800, Public Affairs,39,,Public Administration & Social Service Professions
+801, Public Health (PH),18,,Health Professions & Related Programs
+802, Public History,21,,History
+803, Public Management,39,,Public Administration & Social Service Professions
+804, Public Policy Analysis,39,,Public Administration & Social Service Professions
+805, Public Relations (PR),7,,"Communication, Journalism & Related Programs"
+806, Public Relations & Communication,7,,"Communication, Journalism & Related Programs"
+807, Publishing,7,,"Communication, Journalism & Related Programs"
+808, Quality Assurance,13,TRUE,Engineering Technologies
+809, Quality Management,13,TRUE,Engineering Technologies
+810, Radio & Television,7,,"Communication, Journalism & Related Programs"
+811, Radio Broadcasting,8,,Communications Technologies
+812, Radio/Television & Film Production,46,,Visual & Performing Arts
+813, Radiography,18,,Health Professions & Related Programs
+814, Radiologic Technology,18,,Health Professions & Related Programs
+815, Radiology,40,,Residency Programs
+816, Range Science & Management,1,TRUE,Agriculture & Related Sciences
+817, Reading,24,,Leisure & Recreational Activities
+818, Reading & Literacy,11,,Education
+819, Real Estate Development,2,TRUE,Architecture & Related Services
+820, Recording Arts,8,,Communications Technologies
+821, Records Management,26,,Library Science
+822, Recreation & Leisure Studies,33,,"Parks, Recreation, Leisure & Fitness Studies"
+823, Recreation Administration,33,,"Parks, Recreation, Leisure & Fitness Studies"
+824, Recreation Management,33,,"Parks, Recreation, Leisure & Fitness Studies"
+825, Recreational Studies,24,,Leisure & Recreational Activities
+826, Regents Studies,20,,High School or Secondary Diplomas & Certificates
+827, Religion,35,,Philosophy & Religious Studies
+828, Religious Education,44,,Theology & Religious Vocations
+829, Religious Studies,35,,Philosophy & Religious Studies
+830, Research Methodology & Quantitative Methods,43,,Social Sciences
+831, Respiratory Therapy,18,,Health Professions & Related Programs
+832, Retail & Consumer Science,15,,Family & Consumer Sciences or Human Sciences
+833, Rhetoric,7,,"Communication, Journalism & Related Programs"
+834, Rhetoric & Composition,14,,English Language & Literature or Letters
+835, Romance Languages,16,,"Foreign Languages, Literature & Linguistics"
+836, Roofing,10,,Construction Trades
+837, Russian & Eastern European Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+838, Russian Language,16,,"Foreign Languages, Literature & Linguistics"
+839, Russian Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+840, Safety Management,13,TRUE,Engineering Technologies
+841, Scandinavian Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+842, School Counseling,11,,Education
+843, School Psychology,38,TRUE,Psychology
+844, Sculpture,46,,Visual & Performing Arts
+845, Secondary & Middle School Mathematics Teacher Education,11,,Education
+846, Secondary Education,11,,Education
+847, Secondary English Teacher Education,11,,Education
+848, Security Management,42,,Security & Protective Services
+849, Security Studies,42,,Security & Protective Services
+850, Sheet Metal,37,,Precision Production
+851, Signal/Geospatial Intelligence,30,,Military Technologies & Applied Sciences
+852, Skin Care,34,,Personal & Culinary Services
+853, Small Engine Mechanics & Repair Technology,28,,Mechanic & Repair Technologies
+854, Social Ecology,15,,Family & Consumer Sciences or Human Sciences
+855, Social Policy,39,,Public Administration & Social Service Professions
+856, Social Psychology,38,TRUE,Psychology
+857, Social Science,43,,Social Sciences
+858, Social Services,39,,Public Administration & Social Service Professions
+859, Social Welfare,39,,Public Administration & Social Service Professions
+860, Social Work (SW),39,,Public Administration & Social Service Professions
+861, Sociology,43,,Social Sciences
+862, Sociology & Anthropology,43,,Social Sciences
+863, Software Development,12,TRUE,Engineering
+864, Software Engineering,12,TRUE,Engineering
+865, Soil Science,1,TRUE,Agriculture & Related Sciences
+866, Sound Engineering,8,TRUE,Communications Technologies
+867, Sound Technology,8,TRUE,Communications Technologies
+868, Space Operations,30,,Military Technologies & Applied Sciences
+869, Space Systems Operations,30,,Military Technologies & Applied Sciences
+870, Spanish & Iberian Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+871, Spanish Language,16,,"Foreign Languages, Literature & Linguistics"
+872, Spanish Literature,16,,"Foreign Languages, Literature & Linguistics"
+873, Special Education,11,,Education
+874, Speech Communication,7,,"Communication, Journalism & Related Programs"
+875, Speech-Language Pathology,18,,Health Professions & Related Programs
+876, Sport Psychology,33,,"Parks, Recreation, Leisure & Fitness Studies"
+877, Sports Administration,33,,"Parks, Recreation, Leisure & Fitness Studies"
+878, Sports Business,33,,"Parks, Recreation, Leisure & Fitness Studies"
+879, Sports Management,33,,"Parks, Recreation, Leisure & Fitness Studies"
+880, Sports Medicine,40,,Residency Programs
+881, Sports Studies,33,,"Parks, Recreation, Leisure & Fitness Studies"
+882, Statistics,27,TRUE,Mathematics & Statistics
+883, Strategic Communication,7,,"Communication, Journalism & Related Programs"
+884, Strategic Intelligence,30,,Military Technologies & Applied Sciences
+885, Strategic Studies,29,,"Military Science, Leadership & Operational Art"
+886, Strategy,6,,"Business, Management & Marketing"
+887, Structural Engineering (SE),12,TRUE,Engineering
+888, Studio Art,46,,Visual & Performing Arts
+889, Supply Chain Management,6,,"Business, Management & Marketing"
+890, Surgical Technology,18,,Health Professions & Related Programs
+891, Sustainability,31,,Multi or Interdisciplinary Studies
+892, Sustainable Agriculture,1,TRUE,Agriculture & Related Sciences
+893, Sustainable Design,2,TRUE,Architecture & Related Services
+894, Sustainable Development,31,,Multi or Interdisciplinary Studies
+895, Systems Engineering,12,TRUE,Engineering
+896, Tax Law,23,,Legal Professions & Studies
+897, Teaching,11,,Education
+898, Technical Communication,7,,"Communication, Journalism & Related Programs"
+899, Technical Writing,14,,English Language & Literature or Letters
+900, Textile & Apparel Studies,15,,Family & Consumer Sciences or Human Sciences
+901, Textile Technology,15,,Family & Consumer Sciences or Human Sciences
+902, Textiles & Clothing,15,,Family & Consumer Sciences or Human Sciences
+903, Theater,46,,Visual & Performing Arts
+904, Theater Appreciation & Skills,24,,Leisure & Recreational Activities
+905, Theatre,46,,Visual & Performing Arts
+906, Theatre Arts,46,,Visual & Performing Arts
+907, Theological Studies,44,,Theology & Religious Vocations
+908, Theology,44,,Theology & Religious Vocations
+909, Therapeutic Recreation,18,,Health Professions & Related Programs
+910, Tool and Die Design,37,,Precision Production
+911, Tool and Die Making,37,,Precision Production
+912, Toolmaking Technology,37,,Precision Production
+913, Toxicology,5,TRUE,Biological & Biomedical Sciences
+914, Translation Studies,16,,"Foreign Languages, Literature & Linguistics"
+915, Turf Management,1,TRUE,Agriculture & Related Sciences
+916, Turfgrass Management,1,TRUE,Agriculture & Related Sciences
+917, Turfgrass Science,1,TRUE,Agriculture & Related Sciences
+918, Typography,8,TRUE,Communications Technologies
+919, University Studies,31,,Multi or Interdisciplinary Studies
+920, Urban & Regional Planning,2,TRUE,Architecture & Related Services
+921, Urban Design,2,TRUE,Architecture & Related Services
+922, Urban Planning,2,TRUE,Architecture & Related Services
+923, Urban Studies,43,,Social Sciences
+924, Urology,40,,Residency Programs
+925, Vehicle Maintenance & Repair Technology,28,,Mechanic & Repair Technologies
+926, Visual Arts (VA),46,,Visual & Performing Arts
+927, Visual Communication Design,46,,Visual & Performing Arts
+928, Visual Communications,46,,Visual & Performing Arts
+929, Viticulture,1,TRUE,Agriculture & Related Sciences
+930, Viticulture & Enology,1,TRUE,Agriculture & Related Sciences
+931, Vocal Performance,46,,Visual & Performing Arts
+932, Watershed Hydrology & Management,32,TRUE,Natural Resources & Conservation
+933, Web Design & Development,9,TRUE,Computer & Information Sciences
+934, Web Development,7,,"Communication, Journalism & Related Programs"
+935, Welding Technology,37,,Precision Production
+936, Wildlife,5,TRUE,Biological & Biomedical Sciences
+937, Wildlife & Fisheries Science,32,TRUE,Natural Resources & Conservation
+938, Wildlife Biology,5,TRUE,Biological & Biomedical Sciences
+939, Wildlife Management,32,TRUE,Natural Resources & Conservation
+940, Wine Steward Studies,34,,Personal & Culinary Services
+941, Women's Studies,3,,"Area, Ethnic, Cultural, Gender & Group Studies"
+942, Wood Science,32,TRUE,Natural Resources & Conservation
+943, Woodworking,37,,Precision Production
+944, Workforce Education & Development,4,,Basic Skills & Developmental or Remedial Education
+945, Worship,44,,Theology & Religious Vocations
+946, Writing,14,,English Language & Literature or Letters
+947, Youth Library Services,26,,Library Science
+948, Youth Ministry,44,,Theology & Religious Vocations
+949, Zoology,5,TRUE,Biological & Biomedical Sciences

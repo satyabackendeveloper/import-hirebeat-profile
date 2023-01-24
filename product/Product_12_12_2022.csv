@@ -1,0 +1,2114 @@
+﻿product_id,product_name,category_id,product_category
+1,.NET Developers,28,Professional Services
+2,.NET Integrated Development Environments (IDE),13,Development
+3,360 Feedback Tools Software,20,HR
+4,3D Design Software,12,Design
+5,3D Modeling Software,12,Design
+6,3D Painting Software,12,Design
+7,3D Parts Catalog Software,16,ERP
+8,3D Printing Software,6,CAD & PLM
+9,3D Rendering Software,12,Design
+10,3D Web Design Services Providers,28,Professional Services
+11,3PL Software,37,Supply Chain & Logistics
+12,401(k) Software,20,HR
+13,409A Valuations Providers Service,5,Business Services
+14,A/B Testing Software,24,Marketing
+15,AB Tasty Consulting Providers,28,Professional Services
+16,Absence Management Software,20,HR
+17,Academic Advising Software,41,Vertical Industry
+18,Academic Scheduling Software,41,Vertical Industry
+19,Account Data Management Software,24,Marketing
+20,Account-Based Advertising Software,24,Marketing
+21,Account-Based Analytics Software,24,Marketing
+22,Account-Based Data Software,24,Marketing
+23,Account-Based Direct Mail Software,24,Marketing
+24,Account-Based Execution Software,24,Marketing
+25,Account-Based Marketing Consulting Providers,28,Professional Services
+26,Account-Based Marketing Software,24,Marketing
+27,Account-Based Orchestration Platforms,24,Marketing
+28,Account-Based Web and Content Experiences Software,24,Marketing
+29,Accounting & Finance Software,16,ERP
+30,Accounting Firms,5,Business Services
+31,Accounting Practice Management Software,16,ERP
+32,Accounting Software,16,ERP
+33,Accounts Payable (AP) & Spend Analysis Software,16,ERP
+34,Accounts Payable Automation Software,16,ERP
+35,Accounts Receivable Automation Software,16,ERP
+36,Active Metadata Management Software,22,IT Infrastructure
+37,Acumatica Channel Partners,40,Value-Added Resellers (VARs)
+38,Acumatica Consulting Providers,28,Professional Services
+39,Acumatica ERP Consulting Providers,28,Professional Services
+40,Ad Intelligence Software,14,Digital Advertising
+41,Ad Network Software,14,Digital Advertising
+42,Address Verification Software,22,IT Infrastructure
+43,Admission-Based Nonprofit Software,41,Vertical Industry
+44,Admissions and Enrollment Management Software,41,Vertical Industry
+45,Adobe Channel Partners,40,Value-Added Resellers (VARs)
+46,ADP Marketplace Apps Software,26,Office
+47,Advanced Distribution Management Systems,41,Vertical Industry
+48,Advanced Planning and Scheduling (APS) Software,16,ERP
+49,Advanced Threat Protection (ATP) Hardware,33,Security Hardware
+50,Advertiser Campaign Management Software,14,Digital Advertising
+51,Advertising Agencies,25,Marketing Services
+52,Affiliate Marketing Agencies,25,Marketing Services
+53,Affiliate Marketing Software,24,Marketing
+54,Age Verification Software,8,Commerce
+55,Agile Project Management Software,7,Collaboration & Productivity
+56,Agriculture Software,41,Vertical Industry
+57,AI & Machine Learning Operationalization (MLOps) Software,3,Artificial Intelligence
+58,AI Development Services Providers,28,Professional Services
+59,AI Sales Assistant Software,30,Sales
+60,AI Writing Assistants,26,Office
+61,AIOps Platforms,22,IT Infrastructure
+62,Airline Reservations Software,41,Vertical Industry
+63,Airline Route Planning Software,41,Vertical Industry
+64,All-Flash Arrays (AFA) Hardware,36,Storage
+65,ALM Software Suites,13,Development
+66,Alumni Management Software,41,Vertical Industry
+67,Amazon Aurora Consulting Providers,28,Professional Services
+68,Amazon CloudFront Consulting Providers,28,Professional Services
+69,Amazon DynamoDB Consulting Providers,28,Professional Services
+70,Amazon EC2 Consulting Providers,28,Professional Services
+71,Amazon EMR Consulting Providers,28,Professional Services
+72,Amazon Kinesis Consulting Providers,28,Professional Services
+73,Amazon Marketing Services Providers,25,Marketing Services
+74,Amazon RDS Consulting Providers,28,Professional Services
+75,Amazon Redshift Consulting Providers,28,Professional Services
+76,Amazon S3 Consulting Providers,28,Professional Services
+77,Amazon Web Services Channel Partners,40,Value-Added Resellers (VARs)
+78,Amazon Web Services Consulting Providers,28,Professional Services
+79,Ambulatory Software,41,Vertical Industry
+80,Amusement Park Management Software,41,Vertical Industry
+81,Analytics Platforms,1,Analytics
+82,Ancillary Care Providers,27,Other Services
+83,Android Developers,28,Professional Services
+84,Animation Software,12,Design
+85,Anti Money Laundering Software,17,"Governance, Risk & Compliance"
+86,Antivirus Software,31,Security
+87,API Design Tools,13,Development
+88,API Management Tools,13,Development
+89,API Marketplaces,13,Development
+90,API Security Tools,31,Security
+91,App Localization Providers,39,Translation Services
+92,App Monetization Software,14,Digital Advertising
+93,App Store Optimization Software,24,Marketing
+94,Apparel Business Management and ERP Software,41,Vertical Industry
+95,Apparel Design Software,41,Vertical Industry
+96,Apparel Software,41,Vertical Industry
+97,Applicant Tracking Systems (ATS),20,HR
+98,Application Development Platforms,13,Development
+99,Application Development Software,13,Development
+100,Application Performance Monitoring (APM) Tools,22,IT Infrastructure
+101,Application Portfolio Management Software,23,IT Management
+102,Application Release Orchestration (ARO) Tools,13,Development
+103,Application Security Services Providers,32,Security and Privacy Services
+104,Application Security Software,31,Security
+105,Application Server Software,22,IT Infrastructure
+106,Application Shielding Software,31,Security
+107,Appointment Reminder Software,10,Customer Service
+108,AR Collaboration Tools,2,AR/VR
+109,AR WYSIWYG Editor Software,2,AR/VR
+110,Architectural Rendering Software,41,Vertical Industry
+111,Architecture Software,41,Vertical Industry
+112,Archive Storage Software,22,IT Infrastructure
+113,Armory Management Software,41,Vertical Industry
+114,Artificial Intelligence Consulting Providers,28,Professional Services
+115,Artificial Neural Network Software,3,Artificial Intelligence
+116,Assessment Software,41,Vertical Industry
+117,Asset Leasing Software,16,ERP
+118,Asset Management Software,16,ERP
+119,Asset Performance Management Software,16,ERP
+120,Asset Tokenization Platforms,22,IT Infrastructure
+121,Asset Tracking Software,16,ERP
+122,Assisted Living Software,41,Vertical Industry
+123,Association Management Software,41,Vertical Industry
+124,Athlete Management Software,41,Vertical Industry
+125,Athletic Competition Management Software,41,Vertical Industry
+126,Attack Surface Management Software,31,Security
+127,Attribution Software,24,Marketing
+128,Auction Software,41,Vertical Industry
+129,Audience Intelligence Platforms,24,Marketing
+130,Audience Response Software,24,Marketing
+131,Audio Conferencing Software,7,Collaboration & Productivity
+132,Audio Editing Software,12,Design
+133,Audio Engine Software,13,Development
+134,Audio Translation Services,39,Translation Services
+135,Audit Management Software,17,"Governance, Risk & Compliance"
+136,Auditing Services Providers,5,Business Services
+137,Augmented Reality (AR) Content Management Systems,2,AR/VR
+138,Augmented Reality (AR) Development Software,2,AR/VR
+139,Augmented Reality (AR) Game Engine,2,AR/VR
+140,Augmented Reality (AR) SDK Software,2,AR/VR
+141,Augmented Reality (AR) Training Simulator Software,2,AR/VR
+142,Augmented Reality (AR) Visualization Software,2,AR/VR
+143,Augmented Reality Software,2,AR/VR
+144,Auto Dialer Software,30,Sales
+145,Auto Repair Software,41,Vertical Industry
+146,Autodesk Channel Partners,40,Value-Added Resellers (VARs)
+147,Autodesk Construction Cloud Integration Partners,26,Office
+148,Automation Testing,13,Development
+149,Automotive Digital Retailing Software,41,Vertical Industry
+150,Automotive Marketing Software,41,Vertical Industry
+151,Automotive Software,41,Vertical Industry
+152,Aviation Authoring Software,41,Vertical Industry
+153,Aviation Compliance Monitoring Software,41,Vertical Industry
+154,Aviation Document Distribution Software,41,Vertical Industry
+155,Aviation MRO Software,41,Vertical Industry
+156,Aviation Software,41,Vertical Industry
+157,Awards Management Software,41,Vertical Industry
+158,AWS Lambda Consulting Providers,28,Professional Services
+159,AWS Marketplace Software,26,Office
+160,AWS WAF Consulting Providers,28,Professional Services
+161,B2B Services Review Platforms,24,Marketing
+162,Background Check Software,20,HR
+163,Backup Software,23,IT Management
+164,Backup Solution Suites Software,23,IT Management
+165,Bakery Software,41,Vertical Industry
+166,Barcode Software,37,Supply Chain & Logistics
+167,Batch Management Software,13,Development
+168,Batteries,18,Greentech
+169,Battery Storage Systems Providers,18,Greentech
+170,Benefits Administration Software,20,HR
+171,Benefits Consulting Providers,5,Business Services
+172,Benefits Support Software,20,HR
+173,Bid Management Software,41,Vertical Industry
+174,Big Data Analytics Software,22,IT Infrastructure
+175,Big Data Integration Platforms,22,IT Infrastructure
+176,Big Data Processing And Distribution Systems,22,IT Infrastructure
+177,Big Data Software,22,IT Infrastructure
+178,Billing and Invoicing Software,39,Translation Services
+179,Billing Software,16,ERP
+180,BIM Objects Software,6,CAD & PLM
+181,Biometric Authentication Software,31,Security
+182,Blade Servers,34,Servers
+183,Block Storage Software,22,IT Infrastructure
+184,Blockchain Analysis Software,22,IT Infrastructure
+185,Blockchain as a Service Providers,22,IT Infrastructure
+186,Blockchain Payment Systems,22,IT Infrastructure
+187,Blockchain Platforms,22,IT Infrastructure
+188,Blockchain Security Software,22,IT Infrastructure
+189,Blockchain Software,22,IT Infrastructure
+190,Blog Writing Services Providers,28,Professional Services
+191,Blogger Outreach Software,24,Marketing
+192,Board Management Software,7,Collaboration & Productivity
+193,Book Marketing Tools,24,Marketing
+194,Bookkeeping Services Providers,5,Business Services
+195,Bookmark Manager Software,26,Office
+196,Bot Detection and Mitigation Software,31,Security
+197,Bot Platforms Software,3,Artificial Intelligence
+198,Box Office Software,24,Marketing
+199,Brand Advocacy Software,24,Marketing
+200,Brand Intelligence Software,24,Marketing
+201,Brand Protection Software,8,Commerce
+202,Branding Agencies,25,Marketing Services
+203,Breach and Attack Simulation (BAS) Software,31,Security
+204,Brewery Software,41,Vertical Industry
+205,Brightpearl Consulting Providers,28,Professional Services
+206,Broadleaf Commerce Consulting Providers,28,Professional Services
+207,Brokerage Management Software,41,Vertical Industry
+208,Brokerage Trading Platforms,41,Vertical Industry
+209,Browser Isolation Software,31,Security
+210,Browser Software,26,Office
+211,Budgeting and Forecasting Software,16,ERP
+212,Bug Tracking Software,13,Development
+213,Build Automation Software,13,Development
+214,Building Design and Building Information Modeling (BIM) Software,6,CAD & PLM
+215,Bundled Pay Management Software,41,Vertical Industry
+216,Business Activity Monitoring Software,16,ERP
+217,Business ByDesign Consulting Providers,28,Professional Services
+218,Business ByDesign Resellers,40,Value-Added Resellers (VARs)
+219,Business Card Scanning Software,26,Office
+220,Business Continuity Management Software,17,"Governance, Risk & Compliance"
+221,Business Filing and Licensing Providers,5,Business Services
+222,Business Finance Providers,5,Business Services
+223,Business Instant Messaging Software,7,Collaboration & Productivity
+224,Business Intelligence (BI) Consulting Providers,28,Professional Services
+225,Business Intelligence Software,1,Analytics
+226,Business Music Software,26,Office
+227,Business Plan Consulting Providers,5,Business Services
+228,Business Plan Software,16,ERP
+229,Business Process Management (BPM) Services,28,Professional Services
+230,Business Process Management Software,23,IT Management
+231,Business Process Simulation Software,23,IT Management
+232,Business Scheduling Software,7,Collaboration & Productivity
+233,Business Travel Management Services Providers,5,Business Services
+234,Buyer Intent Data Tools,24,Marketing
+235,C/C++ Integrated Development Environments (IDE),13,Development
+236,CAD Data Exchange Software,6,CAD & PLM
+237,CAD Libraries,6,CAD & PLM
+238,CAD Software,6,CAD & PLM
+239,CAD Viewers,6,CAD & PLM
+240,Calendar Software,26,Office
+241,Calibration Software,16,ERP
+242,Call & Contact Center Software,10,Customer Service
+243,Call Center Infrastructure (CCI) Software,10,Customer Service
+244,Call Compliance Software,17,"Governance, Risk & Compliance"
+245,Camp Management Software,41,Vertical Industry
+246,Candidate Relationship Management Software,20,HR
+247,Cannabis Industry Software,41,Vertical Industry
+248,Capital Project Management Software,16,ERP
+249,Car Dealer Software,41,Vertical Industry
+250,Car Rental Software,41,Vertical Industry
+251,Career Management Software,20,HR
+252,Cash Flow Management Software,16,ERP
+253,Catalog Management Software,8,Commerce
+254,Catering Software,41,Vertical Industry
+255,Cemetery Software,41,Vertical Industry
+256,Ceridian Consulting Providers,28,Professional Services
+257,Certificate Lifecycle Management (CLM) Software,31,Security
+258,Channel Management Software,41,Vertical Industry
+259,Chatbots Software,3,Artificial Intelligence
+260,Child Care Software,41,Vertical Industry
+261,Chiropractic Software,41,Vertical Industry
+262,Church Management Software,41,Vertical Industry
+263,Church Presentation Software,41,Vertical Industry
+264,CI/CD Tools,13,Development
+265,Cisco Channel Partners,40,Value-Added Resellers (VARs)
+266,Cisco Cloud Resellers,40,Value-Added Resellers (VARs)
+267,Cisco Data Center Resellers,40,Value-Added Resellers (VARs)
+268,Cisco Hardware Resellers,40,Value-Added Resellers (VARs)
+269,Cisco Unified Communications Resellers,40,Value-Added Resellers (VARs)
+270,Citizen Engagement Software,41,Vertical Industry
+271,Citizen Request Software,41,Vertical Industry
+272,Civil Engineering Design Software,6,CAD & PLM
+273,Classroom Management Software,41,Vertical Industry
+274,Classroom Messaging Software,41,Vertical Industry
+275,Cleaning Services Software,41,Vertical Industry
+276,Click Fraud Software,14,Digital Advertising
+277,Client Onboarding Software,16,ERP
+278,Client Portal Software,9,Content Management
+279,Clinical Communication and Collaboration Software,41,Vertical Industry
+280,Clinical Decision Support,41,Vertical Industry
+281,Clinical Documentation Software,41,Vertical Industry
+282,Clinical Research Software,41,Vertical Industry
+283,Clinical Trial Management Software,41,Vertical Industry
+284,Closed Captioning Services,39,Translation Services
+285,Cloud Access Security Broker (CASB) Software,31,Security
+286,Cloud Compliance Software,31,Security
+287,Cloud Computing Platforms Software,22,IT Infrastructure
+288,Cloud Consulting Providers,28,Professional Services
+289,Cloud Content Collaboration Software,9,Content Management
+290,Cloud Cost Management Software,23,IT Management
+291,Cloud Data Integration Software,22,IT Infrastructure
+292,Cloud Data Security Software,31,Security
+293,Cloud DDoS Mitigation Software,31,Security
+294,Cloud Directory Services,31,Security
+295,Cloud Edge Security Software,31,Security
+296,Cloud Email Security Solutions,31,Security
+297,Cloud File Security Software,31,Security
+298,Cloud File Storage Software,22,IT Infrastructure
+299,Cloud Infrastructure Automation Software,13,Development
+300,Cloud Infrastructure Monitoring Software,22,IT Infrastructure
+301,Cloud Kitchen Management Software,41,Vertical Industry
+302,Cloud Management Platforms,23,IT Management
+303,Cloud Migration Assessment Tools,23,IT Management
+304,Cloud Migration Services Providers,28,Professional Services
+305,Cloud Migration Software,22,IT Infrastructure
+306,Cloud Platform as a Service (PaaS) Software,13,Development
+307,Cloud Security Monitoring and Analytics Software,31,Security
+308,Cloud Security Posture Management (CSPM) Software,31,Security
+309,Cloud Security Software,31,Security
+310,Cloud Storage Hardware,36,Storage
+311,Cloud Workload Protection Platforms,31,Security
+312,CMMS Software,16,ERP
+313,CMS Tools,9,Content Management
+314,Co-Browsing Software,10,Customer Service
+315,Coaching Software,41,Vertical Industry
+316,Collaboration Tools Software,7,Collaboration & Productivity
+317,Collaborative Whiteboard Software,7,Collaboration & Productivity
+318,Collections Management Software,41,Vertical Industry
+319,Columnar Databases,23,IT Management
+320,Commenting Systems,9,Content Management
+321,"Commodity/Energy Trading, Transaction, and Risk Management (CTRM/ETRM) Software",37,Supply Chain & Logistics
+322,Communication Platform as a Service (cPaaS) Platforms,13,Development
+323,Communications and Media Software,41,Vertical Industry
+324,Community Association Management Software,41,Vertical Industry
+325,Compensation Management Software,20,HR
+326,Competitive Intelligence Software,24,Marketing
+327,Complaint Management Software,10,Customer Service
+328,Component Content Management Systems,9,Content Management
+329,Component Libraries Software,13,Development
+330,Computer-Aided Manufacturing Software,6,CAD & PLM
+331,Computer-Assisted Translation Software,9,Content Management
+332,Concierge Software,41,Vertical Industry
+333,Confidentiality Software,31,Security
+334,Configuration Management Software,13,Development
+335,Conflict Check Software,41,Vertical Industry
+336,Connected Agriculture Software,41,Vertical Industry
+337,Connected Car Software,41,Vertical Industry
+338,Connected Worker Platforms,21,IoT Management
+339,Consent Management Platforms,11,Data Privacy
+340,Constant Contact Consulting Providers,28,Professional Services
+341,Construction Accounting Software,41,Vertical Industry
+342,Construction CRM Software,41,Vertical Industry
+343,Construction Data Analytics Software,41,Vertical Industry
+344,Construction Drawing Management Software,41,Vertical Industry
+345,Construction ERP Software,41,Vertical Industry
+346,Construction Estimating Software,41,Vertical Industry
+347,Construction Loan Management Software,41,Vertical Industry
+348,Construction Management Software,41,Vertical Industry
+349,Construction Project Management Software,41,Vertical Industry
+350,Construction Risk Assessment Software,41,Vertical Industry
+351,Construction Software,41,Vertical Industry
+352,Consumer Video Feedback Software,24,Marketing
+353,Contact Center Consulting Providers,5,Business Services
+354,Contact Center Knowledge Base Software,10,Customer Service
+355,Contact Center Outsourcing Service Providers,5,Business Services
+356,Contact Center Quality Assurance Software,10,Customer Service
+357,Contact Center Software,10,Customer Service
+358,Contact Center Workforce Software,10,Customer Service
+359,Contact Management Software,30,Sales
+360,Container Engine Software,13,Development
+361,Container Management Software,13,Development
+362,Container Monitoring Software,13,Development
+363,Container Networking Software,13,Development
+364,Container Orchestration Software,13,Development
+365,Container Registry Software,13,Development
+366,Container Security Software,31,Security
+367,Containerization Software,13,Development
+368,Content Analytics Software,24,Marketing
+369,Content Creation Software,24,Marketing
+370,Content Curation Software,24,Marketing
+371,Content Delivery Network (CDN) Software,19,Hosting
+372,Content Distribution Software,24,Marketing
+373,Content Editing Services Providers,28,Professional Services
+374,Content Experience Platforms,24,Marketing
+375,Content Marketing Agencies,25,Marketing Services
+376,Content Marketing Software,24,Marketing
+377,Content Writing Services Providers,28,Professional Services
+378,Continuous Delivery Software,13,Development
+379,Continuous Integration Tools,13,Development
+380,Continuous Testing Platforms Software,13,Development
+381,Contract Analytics Software,30,Sales
+382,Contract Lifecycle Management (CLM) Software,30,Sales
+383,Contract Management Software,30,Sales
+384,Contractor Management Software,20,HR
+385,Contractor Payment Software,20,HR
+386,Conversation Intelligence Software,30,Sales
+387,Conversational Intelligence Software,3,Artificial Intelligence
+388,Conversational Marketing Software,24,Marketing
+389,Conversational Support Software,10,Customer Service
+390,Conversion Rate Optimization Software,24,Marketing
+391,Cookie Tracking Software,11,Data Privacy
+392,Core Administrative Processing Systems Software,41,Vertical Industry
+393,Core Banking Software,41,Vertical Industry
+394,Core HR Software,20,HR
+395,Corporate Entity Management Software,17,"Governance, Risk & Compliance"
+396,Corporate Law Firms,5,Business Services
+397,Corporate Learning Management Systems,20,HR
+398,Corporate LMS Software,7,Collaboration & Productivity
+399,Corporate Performance Management (CPM) Software,16,ERP
+400,Corporate Social Responsibility (CSR) Software,20,HR
+401,Corporate Tax Software,16,ERP
+402,Corporate Volunteering Platforms,20,HR
+403,Corporate Wellness Consulting Providers,5,Business Services
+404,Corporate Wellness Software,20,HR
+405,Courier Software,41,Vertical Industry
+406,Course Authoring Software,20,HR
+407,Court Management Software,41,Vertical Industry
+408,Coworking Spaces,27,Other Services
+409,CPQ Software,30,Sales
+410,Creative Management Platforms,14,Digital Advertising
+411,Creative Portfolio Management Software,12,Design
+412,Creative Services Providers,28,Professional Services
+413,Credit and Collections Software,16,ERP
+414,Crime Analytics Software,41,Vertical Industry
+415,CRM Software,30,Sales
+416,Crop Management Software,41,Vertical Industry
+417,Cross Border E-Commerce Software,37,Supply Chain & Logistics
+418,Cross-Channel Advertising Software,14,Digital Advertising
+419,Cross-Platform Developers,28,Professional Services
+420,Crowd Testing Tools,13,Development
+421,Cryptocurrency Custody Software,22,IT Infrastructure
+422,Cryptocurrency Exchanges,22,IT Infrastructure
+423,Cryptocurrency Mining Software,22,IT Infrastructure
+424,Cryptocurrency Payment Apps,22,IT Infrastructure
+425,Cryptocurrency Remittance Software,22,IT Infrastructure
+426,Cryptocurrency Software,22,IT Infrastructure
+427,Cryptocurrency Wallets,22,IT Infrastructure
+428,Currency Exchange Bureau Software,41,Vertical Industry
+429,Curriculum Management Software,41,Vertical Industry
+430,Customer Advocacy Software,24,Marketing
+431,Customer Communications Management Software,10,Customer Service
+432,Customer Data Platforms (CDP),24,Marketing
+433,Customer Education Software,10,Customer Service
+434,Customer Identity and Access Management (CIAM) Software,31,Security
+435,Customer Journey Analytics Software,24,Marketing
+436,Customer Journey Mapping Software,24,Marketing
+437,Customer Revenue Optimization (CRO) Software,30,Sales
+438,Customer Self-Service Software,10,Customer Service
+439,Customer Service Software,10,Customer Service
+440,Customer Success Software,10,Customer Service
+441,Customer Success Training Providers,5,Business Services
+442,Customer-to-Customer (C2C) Community Marketing Software,24,Marketing
+443,Cybersecurity Consulting Providers,32,Security and Privacy Services
+444,Dark Web Monitoring Tools,31,Security
+445,Data Breach Notification Software,11,Data Privacy
+446,Data Center Infrastructure Management (DCIM) Software,22,IT Infrastructure
+447,Data Center Infrastructure Providers,5,Business Services
+448,Data Center Networking Solutions,22,IT Infrastructure
+449,Data Center Security Software,31,Security
+450,Data Center Switches,38,Switches
+451,Data Clean Room Software,11,Data Privacy
+452,Data De-identification Software,11,Data Privacy
+453,Data Destruction Software,23,IT Management
+454,Data Entry Services Providers,35,Staffing Services
+455,Data Exchange Software,22,IT Infrastructure
+456,Data Extraction Services Providers,28,Professional Services
+457,Data Extraction Software,23,IT Management
+458,Data Fabric Software,22,IT Infrastructure
+459,Data Governance Services Providers,28,Professional Services
+460,Data Governance Software,23,IT Management
+461,Data Integration Software,22,IT Infrastructure
+462,Data Labeling Services,28,Professional Services
+463,Data Labeling Software,3,Artificial Intelligence
+464,Data Loss Prevention (DLP) Software,31,Security
+465,Data Management Platforms,22,IT Infrastructure
+466,Data Management Platforms (DMP),14,Digital Advertising
+467,Data Mapping Software,22,IT Infrastructure
+468,Data Masking Software,31,Security
+469,Data Observability Software,23,IT Management
+470,Data Preparation Software,22,IT Infrastructure
+471,Data Privacy Management Software,11,Data Privacy
+472,Data Privacy Services Providers,32,Security and Privacy Services
+473,Data Quality Software,22,IT Infrastructure
+474,Data Recovery Software,23,IT Management
+475,Data Replication Software,23,IT Management
+476,Data Science and Machine Learning Platforms,3,Artificial Intelligence
+477,Data Security Services Providers,32,Security and Privacy Services
+478,Data Security Software,31,Security
+479,Data Subject Access Request (DSAR) Software,11,Data Privacy
+480,Data Virtualization Software,1,Analytics
+481,Data Visualization Libraries Software,13,Development
+482,Data Visualization Software,1,Analytics
+483,Data Warehouse Automation Software,22,IT Infrastructure
+484,Data Warehouse Software,22,IT Infrastructure
+485,Data-Centric Security Software,31,Security
+486,Database as a Service (DBaaS) Provider,22,IT Infrastructure
+487,Database Backup Software,23,IT Management
+488,Database Comparison Software,22,IT Infrastructure
+489,Database DevOps Software,13,Development
+490,Database Management Systems (DBMS),22,IT Infrastructure
+491,Database Monitoring Tools,22,IT Infrastructure
+492,Database Security Software,31,Security
+493,Database Software,22,IT Infrastructure
+494,DataOps Platforms,22,IT Infrastructure
+495,DDoS Protection Software,31,Security
+496,Decentralized Identity Solutions,31,Security
+497,Deception Technology Software,31,Security
+498,Decision Management Platforms,23,IT Management
+499,Decision-Making Software,7,Collaboration & Productivity
+500,Deep Learning Software,3,Artificial Intelligence
+501,Deltek Channel Partners,40,Value-Added Resellers (VARs)
+502,Demand Generation Software,24,Marketing
+503,Demand Planning Software,37,Supply Chain & Logistics
+504,Demand Side Platform (DSP),14,Digital Advertising
+505,Dental Imaging Software,41,Vertical Industry
+506,Dental Practice Management Software,41,Vertical Industry
+507,Dental Software,41,Vertical Industry
+508,Design Systems Software,9,Content Management
+509,Desktop as a Service (DaaS) Providers,22,IT Infrastructure
+510,Desktop Database Software,22,IT Infrastructure
+511,Desktop Publishing Software,12,Design
+512,Desktop Search Software,9,Content Management
+513,Development Services Providers,28,Professional Services
+514,DevOps Platforms,13,Development
+515,DevOps Software,13,Development
+516,DevSecOps Software,31,Security
+517,Diagramming Software,12,Design
+518,Digital Accessibility Platforms,9,Content Management
+519,Digital Accessibility Tools,9,Content Management
+520,Digital Adoption Platforms,7,Collaboration & Productivity
+521,Digital Analytics Software,24,Marketing
+522,Digital Asset Management Software,9,Content Management
+523,Digital Audio Advertising Software,14,Digital Advertising
+524,Digital Banking Platforms,41,Vertical Industry
+525,Digital Credential Management Software,20,HR
+526,Digital Customer Onboarding Software,41,Vertical Industry
+527,Digital Customer Service Platforms,10,Customer Service
+528,Digital Document Destruction Services Providers,28,Professional Services
+529,Digital Employee Experience (DEX) Management Software,23,IT Management
+530,Digital Experience Monitoring (DEM) Software,23,IT Management
+531,Digital Experience Platforms (DXP),9,Content Management
+532,Digital Forensics Software,31,Security
+533,Digital Governance Software,23,IT Management
+534,Digital Learning Platforms,41,Vertical Industry
+535,Digital Marketing Services,25,Marketing Services
+536,Digital Mortgage Closing Software,41,Vertical Industry
+537,Digital Process Automation (DPA) Software,23,IT Management
+538,Digital Rights Management (DRM) Software,9,Content Management
+539,Digital Sales Room Software,30,Sales
+540,Digital Signage Software,24,Marketing
+541,Digital Transformation Consulting Providers,28,Professional Services
+542,Digital Twin Software,21,IoT Management
+543,Digital Wayfinding Software,26,Office
+544,Direct Mail Automation Software,24,Marketing
+545,Direct Store Delivery Software,37,Supply Chain & Logistics
+546,Disaster Recovery as a Service (DRaaS) Solutions,23,IT Management
+547,Disaster Recovery Software,23,IT Management
+548,Disclosure Management Software,17,"Governance, Risk & Compliance"
+549,Discrete ERP Software,16,ERP
+550,Disease Management Software,41,Vertical Industry
+551,Disinformation Detection Tools,31,Security
+552,Disk Cleanup Software,23,IT Management
+553,Dispensary POS Systems,41,Vertical Industry
+554,Display Ad Design Software,12,Design
+555,Display Advertising Software,14,Digital Advertising
+556,Distribution ERP Software,16,ERP
+557,Distribution Software,37,Supply Chain & Logistics
+558,Diversity & Inclusion Consulting Providers,5,Business Services
+559,Diversity Recruiting Software,20,HR
+560,DMARC Software,31,Security
+561,DNS Security Software,31,Security
+562,Document Creation Software,26,Office
+563,Document Databases,22,IT Infrastructure
+564,Document Generation Software,16,ERP
+565,Document Management Software,7,Collaboration & Productivity
+566,Document Scanning Services Providers,28,Professional Services
+567,Document Scanning Software,26,Office
+568,Document Translation Services,39,Translation Services
+569,Domain Registration Providers,19,Hosting
+570,Donor Management Software,41,Vertical Industry
+571,Donor Prospect Research Software,41,Vertical Industry
+572,Dotdigital Consulting Providers,28,Professional Services
+573,Drag and Drop App Builder Software,13,Development
+574,Drawing Software,12,Design
+575,Drift Consulting Providers,28,Professional Services
+576,Driving School Software,41,Vertical Industry
+577,Drone Analytics Software,1,Analytics
+578,Drop Shipping Software,8,Commerce
+579,Drug Discovery Software,41,Vertical Industry
+580,Drug Inventory Management Software,41,Vertical Industry
+581,Drug Testing Software,20,HR
+582,Drupal Development Companies,28,Professional Services
+583,Dry Cleaning Software,41,Vertical Industry
+584,Dynamic Application Security Testing (DAST) Software,31,Security
+585,Dynamic Yield Consulting Providers,28,Professional Services
+586,E-Commerce Analytics Software,8,Commerce
+587,E-Commerce Data Integration Software,22,IT Infrastructure
+588,E-Commerce Development Companies,28,Professional Services
+589,E-commerce Fraud Protection Software,8,Commerce
+590,E-Commerce Personalization Software,8,Commerce
+591,E-Commerce Platforms,8,Commerce
+592,E-Commerce Search Software,8,Commerce
+593,E-Commerce Software,8,Commerce
+594,E-Commerce Tools,8,Commerce
+595,E-Filing Platforms,41,Vertical Industry
+596,E-Merchandising Software,8,Commerce
+597,E-Notary Software,41,Vertical Industry
+598,E-Prescribing Software,41,Vertical Industry
+599,E-Signature Software,30,Sales
+600,Earned Value Management Software,16,ERP
+601,Earned Wage Access Software,20,HR
+602,Earthworks Software,41,Vertical Industry
+603,Edge Routers,29,Routers
+604,eDiscovery Software,41,Vertical Industry
+605,Editor Software,13,Development
+606,Education ERP Software,41,Vertical Industry
+607,Education ERP Suites,41,Vertical Industry
+608,Education ERP Systems Software,41,Vertical Industry
+609,Education Finance Software,41,Vertical Industry
+610,Education HR Software,41,Vertical Industry
+611,Education Software,41,Vertical Industry
+612,EHR Software,41,Vertical Industry
+613,eLearning Content Software,20,HR
+614,eLearning Localization Providers,39,Translation Services
+615,Electronic Data Capture (EDC) Software,41,Vertical Industry
+616,Electronic Data Interchange (EDI) Software,22,IT Infrastructure
+617,Electronic Lab Notebook (ELN) Software,41,Vertical Industry
+618,Email Anti-spam Software,31,Security
+619,Email Archiving Software,23,IT Management
+620,Email Client Software,26,Office
+621,Email Deliverability Software,24,Marketing
+622,Email Encryption Software,31,Security
+623,Email Management Software,26,Office
+624,Email Marketing Services Providers,25,Marketing Services
+625,Email Marketing Software,24,Marketing
+626,Email Marketing Software,24,Marketing
+627,Email Security Services Providers,32,Security and Privacy Services
+628,Email Security Software,31,Security
+629,Email Signature Software,24,Marketing
+630,Email Software,26,Office
+631,Email Template Builder Software,24,Marketing
+632,Email Testing Software,24,Marketing
+633,Email Tracking Software,30,Sales
+634,Email Verification Software,26,Office
+635,Emarsys Consulting Providers,28,Professional Services
+636,Embedded Business Intelligence Software,1,Analytics
+637,Embedded Integration Platforms,22,IT Infrastructure
+638,Emergency Management Software,41,Vertical Industry
+639,Emergency Medical Services Software,41,Vertical Industry
+640,Emergency Notification Software,26,Office
+641,Employee Advocacy Software,24,Marketing
+642,Employee Communications Software,7,Collaboration & Productivity
+643,Employee Engagement Software,20,HR
+644,Employee Identity Theft Protection Software,31,Security
+645,Employee Intranet Software,7,Collaboration & Productivity
+646,Employee Monitoring Software,10,Customer Service
+647,Employee Recognition Software,20,HR
+648,Employee Referral Software,20,HR
+649,Employee Scheduling Software,20,HR
+650,Employer of Record (EOR) Services,5,Business Services
+651,Encryption Key Management Software,31,Security
+652,Encryption Software,31,Security
+653,Endpoint Detection & Response (EDR) Software,31,Security
+654,Endpoint Management Software,31,Security
+655,Endpoint Protection Platforms Software,31,Security
+656,Endpoint Protection Software,31,Security
+657,Endpoint Protection Suites,31,Security
+658,Endpoint Security Services Providers,32,Security and Privacy Services
+659,Energy Consulting Providers,5,Business Services
+660,Energy Management Software,41,Vertical Industry
+661,Engineering Document Management Software,6,CAD & PLM
+662,Enterprise App Store Software,13,Development
+663,Enterprise Architecture Software,23,IT Management
+664,Enterprise Asset Management (EAM) Software,16,ERP
+665,Enterprise Content Delivery Network (eCDN) Software,19,Hosting
+666,Enterprise Content Management (ECM) Systems,9,Content Management
+667,Enterprise Feedback Management Software,10,Customer Service
+668,Enterprise Information Archiving Software,23,IT Management
+669,Enterprise IT Management Software,23,IT Management
+670,Enterprise Legal Management (ELM) Software,41,Vertical Industry
+671,Enterprise Mobility Management Software,23,IT Management
+672,Enterprise Monitoring Software,22,IT Infrastructure
+673,Enterprise Payment Software,16,ERP
+674,Enterprise Performance Management (EPM) Consultants Providers,5,Business Services
+675,Enterprise Search Software,1,Analytics
+676,Enterprise Service Bus (ESB) Software,22,IT Infrastructure
+677,Enterprise Social Networking Software,24,Marketing
+678,Environmental Health and Safety Software,16,ERP
+679,"Environmental, Quality and Safety Management Software",16,ERP
+680,Epicor Channel Partners,40,Value-Added Resellers (VARs)
+681,Episerver Consulting Providers,28,Professional Services
+682,Equipment Rental Software,41,Vertical Industry
+683,Equity Management Software,16,ERP
+684,ERP Software,16,ERP
+685,ERP Systems,16,ERP
+686,eSports Management Software,41,Vertical Industry
+687,Ethics And Compliance LMS,17,"Governance, Risk & Compliance"
+688,ETL Tools,22,IT Infrastructure
+689,ETO ERP Software,16,ERP
+690,Event Management Platforms,24,Marketing
+691,Event Management Services Providers,25,Marketing Services
+692,Event Management Software,24,Marketing
+693,Event Marketing Software,24,Marketing
+694,Event Networking and Matchmaking,24,Marketing
+695,Event Planning Software,24,Marketing
+696,Event Registration and Ticketing Software,24,Marketing
+697,Event Stream Processing Software,22,IT Infrastructure
+698,Evidence Management Software,41,Vertical Industry
+699,Exit Interview Management Software,20,HR
+700,Expense Management Software,16,ERP
+701,Experience Management Software,10,Customer Service
+702,Experiential Marketing Agencies,25,Marketing Services
+703,Expert Networks,5,Business Services
+704,Exploration Software,41,Vertical Industry
+705,Extended Detection and Response (XDR) Platforms,31,Security
+706,Fabric Interconnects,38,Switches
+707,Facility Management Software,16,ERP
+708,Farm Management Software,41,Vertical Industry
+709,Feature Management Software,13,Development
+710,Feedback & Reviews Management Software,10,Customer Service
+711,Feedback Analytics Software,10,Customer Service
+712,Field Sales Software,30,Sales
+713,Field Service Management Software,10,Customer Service
+714,Field Service Management Software - FSM,7,Collaboration & Productivity
+715,File Analysis Software,23,IT Management
+716,File Converter Software,26,Office
+717,File Migration Software,9,Content Management
+718,File Reader Software,26,Office
+719,File Recovery Software,23,IT Management
+720,File Transfer Protocol (FTP) Software,22,IT Infrastructure
+721,Finance and Accounting Business Process Outsourcing Service Providers,5,Business Services
+722,Financial Aid Management Software,41,Vertical Industry
+723,Financial Analysis Software,16,ERP
+724,Financial Analytics Software,41,Vertical Industry
+725,Financial Audit Software,16,ERP
+726,Financial Close Software,16,ERP
+727,Financial Consulting Providers,5,Business Services
+728,Financial Data APIs,41,Vertical Industry
+729,Financial Predictive Analytics Software,41,Vertical Industry
+730,Financial Research Software,41,Vertical Industry
+731,Financial Risk Management Software,41,Vertical Industry
+732,Financial Services CRM Software,41,Vertical Industry
+733,Financial Services Software,41,Vertical Industry
+734,Financial Wellness Software,20,HR
+735,FinancialForce Consulting Providers,28,Professional Services
+736,Fire Department Software,41,Vertical Industry
+737,Firewall Hardware,33,Security Hardware
+738,Firewall Software,31,Security
+739,Fitness Software,41,Vertical Industry
+740,Fixed Income Pricing Data Software,41,Vertical Industry
+741,Fleet Maintenance Software,37,Supply Chain & Logistics
+742,Fleet Management Consulting Providers,27,Other Services
+743,Fleet Management Software,37,Supply Chain & Logistics
+744,Fleet Tracking Software,37,Supply Chain & Logistics
+745,Flight Operation Manual Authoring Software,41,Vertical Industry
+746,Flipbook Software,12,Design
+747,Florist Software,41,Vertical Industry
+748,Font Management Software,12,Design
+749,Food Safety Management Software,41,Vertical Industry
+750,Food Software,41,Vertical Industry
+751,Food Traceability Software,41,Vertical Industry
+752,Foodservice Distribution Software,41,Vertical Industry
+753,Foodservice Management Software,41,Vertical Industry
+754,Foreign Exchange Software,16,ERP
+755,Forestry Software,41,Vertical Industry
+756,Fraud Detection Software,31,Security
+757,Freelance Platforms,20,HR
+758,Freelancer Management Systems,20,HR
+759,Freight Forwarding Services Providers,27,Other Services
+760,Freight Management Software,37,Supply Chain & Logistics
+761,Fundraising Software,41,Vertical Industry
+762,Funeral Home Software,41,Vertical Industry
+763,G Suite Consulting Providers,28,Professional Services
+764,Gallery Management Software,41,Vertical Industry
+765,Game Development Software,13,Development
+766,Game Engine Software,13,Development
+767,Game Localization Services,39,Translation Services
+768,Gamification Software,24,Marketing
+769,Gaming Tools,13,Development
+770,General-Purpose CAD Software,6,CAD & PLM
+771,Genesys AppFoundry Marketplace,26,Office
+772,Genesys VARs Providers,40,Value-Added Resellers (VARs)
+773,Geofencing Software,13,Development
+774,Geology and Seismic Software,41,Vertical Industry
+775,GIS Software,6,CAD & PLM
+776,Global Trade Management Software,37,Supply Chain & Logistics
+777,Golf Software,41,Vertical Industry
+778,Google Chrome Enterprise Consulting Providers,28,Professional Services
+779,Google Cloud Platform Consulting Providers,28,Professional Services
+780,Google Consulting Providers,28,Professional Services
+781,Google for Education Consulting Providers,28,Professional Services
+782,Google Maps Platform Consulting Providers,28,Professional Services
+783,Google Workspace Academic Software,7,Collaboration & Productivity
+784,Google Workspace Administration Software,7,Collaboration & Productivity
+785,Google Workspace Business Tools,7,Collaboration & Productivity
+786,Google Workspace Communication Tools,7,Collaboration & Productivity
+787,Google Workspace Creative Tools,7,Collaboration & Productivity
+788,Google Workspace Development Tools,7,Collaboration & Productivity
+789,Google Workspace Education Software,7,Collaboration & Productivity
+790,Google Workspace ERP Software,7,Collaboration & Productivity
+791,Google Workspace for Finance Software,7,Collaboration & Productivity
+792,Google Workspace for HR Software,7,Collaboration & Productivity
+793,Google Workspace for Marketing Software,7,Collaboration & Productivity
+794,Google Workspace for Sales Software,7,Collaboration & Productivity
+795,Google Workspace Marketplace,7,Collaboration & Productivity
+796,Google Workspace Office Tools,7,Collaboration & Productivity
+797,Google Workspace Productivity Tools,7,Collaboration & Productivity
+798,Google Workspace Project Management Software,7,Collaboration & Productivity
+799,Google Workspace Teacher Resources,7,Collaboration & Productivity
+800,Google Workspace Utilities Software,7,Collaboration & Productivity
+801,Government Procurement Software,41,Vertical Industry
+802,Grant Management Software,41,Vertical Industry
+803,Graph Databases,22,IT Infrastructure
+804,Graphic Design Services Providers,28,Professional Services
+805,Graphic Design Software,12,Design
+806,GRC Platforms,17,"Governance, Risk & Compliance"
+807,GRC Tools,17,"Governance, Risk & Compliance"
+808,Grocery Delivery Software,4,B2B Marketplaces
+809,Guest Messaging Software,41,Vertical Industry
+810,Guest Wi-Fi Providers,22,IT Infrastructure
+811,Gym Management Software,41,Vertical Industry
+812,Handwritten Notes Software,26,Office
+813,Harassment Prevention Training Software,20,HR
+814,Harbor Operations Software,41,Vertical Industry
+815,Hard Drive Cloning Software,23,IT Management
+816,Hard Drive Partitioning Software,23,IT Management
+817,Hardware Monitoring Software,22,IT Infrastructure
+818,Hashtag Monitoring Software,24,Marketing
+819,Hatchbuck Agency Partners,28,Professional Services
+820,Headless CMS Software,9,Content Management
+821,Health & Safety Providers,5,Business Services
+822,Health Care Credentialing Software,41,Vertical Industry
+823,Health Care Operations Software,41,Vertical Industry
+824,Health Care Software,41,Vertical Industry
+825,Health Insurance Platforms,41,Vertical Industry
+826,Health Services Providers,27,Other Services
+827,Healthcare Analytics Software,41,Vertical Industry
+828,Healthcare Claims Management Software,41,Vertical Industry
+829,Healthcare Commercial Intelligence Software,41,Vertical Industry
+830,Healthcare Compliance Software,41,Vertical Industry
+831,Healthcare HR Software,41,Vertical Industry
+832,Healthcare Integration Engines,41,Vertical Industry
+833,Healthcare Learning Management Systems (LMS),41,Vertical Industry
+834,Healthcare Payer Care Management Workflow Applications Software,41,Vertical Industry
+835,Healthcare Risk Management Software,41,Vertical Industry
+836,Healthcare Service Providers,27,Other Services
+837,Healthcare Staffing Services,35,Staffing Services
+838,Healthcare Supply Chain Software,41,Vertical Industry
+839,Heatmap Tools,24,Marketing
+840,Heavy-Duty Repair Software,41,Vertical Industry
+841,Help Authoring Tools (HAT),13,Development
+842,Help Desk Software,10,Customer Service
+843,HIPAA Compliant Messaging Software,41,Vertical Industry
+844,Home Furnishing Software,41,Vertical Industry
+845,Home Health Care Software,41,Vertical Industry
+846,Home Inspection Software,41,Vertical Industry
+847,Hospice Software,41,Vertical Industry
+848,Hospitality Software,41,Vertical Industry
+849,Host Analytics Channel Partners,40,Value-Added Resellers (VARs)
+850,Hotel Management Software,41,Vertical Industry
+851,Hotel Reservations Software,41,Vertical Industry
+852,Hotel Revenue Management Systems (RMS),41,Vertical Industry
+853,Hotel Software,41,Vertical Industry
+854,HR Analytics Consulting Providers,5,Business Services
+855,HR Analytics Software,20,HR
+856,HR Case Management Software,20,HR
+857,HR Compliance Software,20,HR
+858,HR Consulting Providers,5,Business Services
+859,HR Service Delivery Software,20,HR
+860,HR Services Providers,5,Business Services
+861,HRMS & HCM Software,20,HR
+862,HubSpot Consulting Providers,28,Professional Services
+863,HubSpot Implementers and Consultants,15,Ecosystem Service Providers
+864,Human Services Software,41,Vertical Industry
+865,HVAC Software,41,Vertical Industry
+866,Hybrid Cloud Storage Software,22,IT Infrastructure
+867,Hyperconverged Infrastructure (HCI) Solutions,22,IT Infrastructure
+868,IBM Channel Partners,40,Value-Added Resellers (VARs)
+869,IBM Security VARs,40,Value-Added Resellers (VARs)
+870,IBM Server VARs,40,Value-Added Resellers (VARs)
+871,IBM Storage VARs,40,Value-Added Resellers (VARs)
+872,Idea Management Software,7,Collaboration & Productivity
+873,Identity and Access Management (IAM) Software,31,Security
+874,Identity Management Software,31,Security
+875,Identity Resolution Software,14,Digital Advertising
+876,Identity Threat Detection and Response (ITDR) Software,31,Security
+877,Identity Verification Software,11,Data Privacy
+878,Image Optimization Software,9,Content Management
+879,Image Recognition Software,3,Artificial Intelligence
+880,Implementation Services Providers,28,Professional Services
+881,Inbound Call Tracking Software,24,Marketing
+882,Inbound Marketing Services,25,Marketing Services
+883,Incident Management Software,23,IT Management
+884,Incident Response Services Providers,32,Security and Privacy Services
+885,Incident Response Software,31,Security
+886,Indoor Access Points,42,Wireless
+887,Industrial AR Platforms,2,AR/VR
+888,Industrial IoT Software,16,ERP
+889,Industrial Routers,29,Routers
+890,Industry-Specific Help Desk Software,10,Customer Service
+891,Influencer Marketing Platforms,24,Marketing
+892,Infor Channel Partners,40,Value-Added Resellers (VARs)
+893,Infor CloudSuite Consulting Providers,28,Professional Services
+894,Infor Consulting Providers,28,Professional Services
+895,Infor CRM Consulting Providers,28,Professional Services
+896,Infor CRM Resellers,40,Value-Added Resellers (VARs)
+897,Infor Distribution FACTS Resellers,40,Value-Added Resellers (VARs)
+898,Infor Distribution SX.e Resellers,40,Value-Added Resellers (VARs)
+899,Infor EAM Consulting Providers,28,Professional Services
+900,Infor EAM Resellers,40,Value-Added Resellers (VARs)
+901,Infor ERP Consulting Providers,28,Professional Services
+902,Infor ERP Resellers,40,Value-Added Resellers (VARs)
+903,Infor Lawson Consulting Providers,28,Professional Services
+904,Infor LN Consulting Providers,28,Professional Services
+905,Infor LN Resellers,40,Value-Added Resellers (VARs)
+906,Infor M3 Consulting Providers,28,Professional Services
+907,Infor M3 Resellers,40,Value-Added Resellers (VARs)
+908,Infor SunSystems Consulting Providers,28,Professional Services
+909,Infor SunSystems Resellers,40,Value-Added Resellers (VARs)
+910,Infor SyteLine Consulting Providers,28,Professional Services
+911,Infor SyteLine Resellers,40,Value-Added Resellers (VARs)
+912,Infor VISUAL Resellers,40,Value-Added Resellers (VARs)
+913,Infor XA Resellers,40,Value-Added Resellers (VARs)
+914,Infor Xi Consulting Providers,28,Professional Services
+915,Infor Xi Resellers,40,Value-Added Resellers (VARs)
+916,Information Stewardship Applications Software,23,IT Management
+917,Infrastructure as a Service (IaaS) Providers,22,IT Infrastructure
+918,Insider Threat Management (ITM) Software,31,Security
+919,Insight Engines Software,1,Analytics
+920,Inspection Management Software,16,ERP
+921,Installment Payment and Buy Now Pay Later (BNPL) Software,8,Commerce
+922,Insurance Agency Management Software,41,Vertical Industry
+923,Insurance Analytics Software,41,Vertical Industry
+924,Insurance Billing Software,41,Vertical Industry
+925,Insurance Claims Management Software,41,Vertical Industry
+926,Insurance Compliance Software,41,Vertical Industry
+927,Insurance Policy Administration Systems,41,Vertical Industry
+928,Insurance Software,41,Vertical Industry
+929,Insurance Suites Software,41,Vertical Industry
+930,Integrated Development Environments (IDE),13,Development
+931,Integrated Revenue and Customer Management (IRCM) for CSPs Software,41,Vertical Industry
+932,Integrated Workplace Management Systems (IWMS),41,Vertical Industry
+933,Integration Brokerage Software,22,IT Infrastructure
+934,Intellectual Property (IP) Law Firms,5,Business Services
+935,Intellectual Property Management Software,41,Vertical Industry
+936,Intelligent Email Protection Software,31,Security
+937,Intelligent Virtual Assistants Software,3,Artificial Intelligence
+938,Interactive Application Security Testing (IAST) Software,31,Security
+939,Interactive Patient Care Systems (IPC),41,Vertical Industry
+940,Interior Design Services Providers,28,Professional Services
+941,Internal Communications Software,7,Collaboration & Productivity
+942,International PEO Services,5,Business Services
+943,Internet of Things (IoT) Developers,28,Professional Services
+944,Internet Service Providers (ISPs),5,Business Services
+945,Interpretation Services,39,Translation Services
+946,Interview Scheduling Software,20,HR
+947,Intrusion Detection and Prevention Systems (IDPS),31,Security
+948,Inventory Control Software,37,Supply Chain & Logistics
+949,Inventory Management Software,37,Supply Chain & Logistics
+950,Inventory Management Software,37,Supply Chain & Logistics
+951,Investigation Management Software,17,"Governance, Risk & Compliance"
+952,Investment Accounting Software,41,Vertical Industry
+953,Investment Firms,5,Business Services
+954,Investment Portfolio Management Software,41,Vertical Industry
+955,Investor Relations (IR) Website Builder Software,41,Vertical Industry
+956,Investor Relations Software,41,Vertical Industry
+957,Investor Relationship Management Software,41,Vertical Industry
+958,Investor Reporting Software,41,Vertical Industry
+959,Invoice Management Software,16,ERP
+960,iOS Developers,28,Professional Services
+961,IoT Analytics Software,21,IoT Management
+962,IoT Connectivity Management Software,21,IoT Management
+963,IoT Consulting Services Providers,28,Professional Services
+964,IoT Development Tools,21,IoT Management
+965,IoT Device Management Software,21,IoT Management
+966,IoT Edge Platforms,21,IoT Management
+967,IoT Implementation Services Providers,28,Professional Services
+968,IoT Operating Systems,21,IoT Management
+969,IoT Platforms,21,IoT Management
+970,IoT Security Services Providers,32,Security and Privacy Services
+971,IoT Security Software,31,Security
+972,IoT Testing Services Providers,27,Other Services
+973,IP Address Intelligence Software,13,Development
+974,iPaaS Software,22,IT Infrastructure
+975,IT Alerting Software,23,IT Management
+976,IT Asset Management Software,23,IT Management
+977,IT Compliance Services Providers,32,Security and Privacy Services
+978,IT Infrastructure Consulting Providers,28,Professional Services
+979,IT Infrastructure Utility Services,28,Professional Services
+980,IT Outsourcing Services,27,Other Services
+981,IT Resilience Orchestration Automation (ITRO) Software,23,IT Management
+982,IT Risk Management Software,31,Security
+983,IT Service Management Tools,23,IT Management
+984,IT Strategy Consulting Providers,28,Professional Services
+985,"ITSM Tool Implementation, Consulting, and Managed Services Providers",27,Other Services
+986,Jail Management Software,41,Vertical Industry
+987,Java Development Kit (JDK) Distributions,13,Development
+988,Java Development Providers,28,Professional Services
+989,Java development Tools Software,13,Development
+990,Java Integrated Development Environments (IDE),13,Development
+991,Java Web Frameworks,13,Development
+992,JavaScript Developers,28,Professional Services
+993,JavaScript Web Frameworks,13,Development
+994,Jewelry Store Management Software,41,Vertical Industry
+995,Job Board Software,20,HR
+996,Job Description Management Software,20,HR
+997,Job Search Sites,20,HR
+998,Job Shop Management Software,16,ERP
+999,Jobsite Management Software,41,Vertical Industry
+1000,K-12 Student Information Systems,41,Vertical Industry
+1001,Kanban Project Management Software,16,ERP
+1002,Kennel Software,41,Vertical Industry
+1003,Key Value Databases,22,IT Infrastructure
+1004,Klaviyo Consulting Providers,28,Professional Services
+1005,Knowledge Base Software,9,Content Management
+1006,Knowledge Management Software,9,Content Management
+1007,Lab Inventory Management Software,41,Vertical Industry
+1008,Label Printing Software,37,Supply Chain & Logistics
+1009,Laboratory Services Providers,27,Other Services
+1010,Laboratory Software,41,Vertical Industry
+1011,LAN Switches,38,Switches
+1012,Landing Page Builders,24,Marketing
+1013,Landscape Design Software,41,Vertical Industry
+1014,Language Learning Software,41,Vertical Industry
+1015,Last Mile Delivery Software,37,Supply Chain & Logistics
+1016,Law Enforcement Software,41,Vertical Industry
+1017,Lead Capture Software,24,Marketing
+1018,Lead Generation Services,25,Marketing Services
+1019,Lead Generation Software,24,Marketing
+1020,Lead Intelligence Software,24,Marketing
+1021,Lead Management Software,30,Sales
+1022,Lead Mining Software,24,Marketing
+1023,Lead Retrieval Software,24,Marketing
+1024,Lead Scoring Software,24,Marketing
+1025,Lead-to-Account Matching and Routing Software,30,Sales
+1026,Leadership Training Providers,5,Business Services
+1027,Learning Experience Platforms (LXP),20,HR
+1028,Learning Management Systems,41,Vertical Industry
+1029,Lease Accounting Software,41,Vertical Industry
+1030,Lease Administration Software,41,Vertical Industry
+1031,Legal Billing Software,41,Vertical Industry
+1032,Legal Case Management Software,41,Vertical Industry
+1033,Legal Document Drafting Software,41,Vertical Industry
+1034,Legal Hold Software,41,Vertical Industry
+1035,Legal Practice Management Software,41,Vertical Industry
+1036,Legal Research Software,41,Vertical Industry
+1037,Legal Services Providers,5,Business Services
+1038,Legal Software,41,Vertical Industry
+1039,Legal Transaction Management Software,41,Vertical Industry
+1040,Library Management Software,41,Vertical Industry
+1041,Life & Health Insurance Agency Management Software,41,Vertical Industry
+1042,Life Insurance Policy Administration Systems,41,Vertical Industry
+1043,Life Sciences Software,41,Vertical Industry
+1044,LIMS Systems,41,Vertical Industry
+1045,Listrak Consulting Providers,28,Professional Services
+1046,Live Blog Software,9,Content Management
+1047,Live Chat Software,10,Customer Service
+1048,Live Chat Software,10,Customer Service
+1049,Live Stream Broadcasting Software,12,Design
+1050,Live Stream Software,12,Design
+1051,Livestock Management Software,41,Vertical Industry
+1052,Load Balancing Software,22,IT Infrastructure
+1053,Load Testing Software,13,Development
+1054,Loan Origination Software,41,Vertical Industry
+1055,Loan Pricing Software,41,Vertical Industry
+1056,Loan Servicing Software,41,Vertical Industry
+1057,Loan Software,41,Vertical Industry
+1058,Local Listing Management Software,24,Marketing
+1059,Local Marketing Software,24,Marketing
+1060,Local SEO Software,24,Marketing
+1061,Localization Services Providers,39,Translation Services
+1062,Localization Software,9,Content Management
+1063,Location Intelligence Software,1,Analytics
+1064,Location-Based Marketing Software,24,Marketing
+1065,Log Analysis Software,31,Security
+1066,Log Monitoring Software,22,IT Infrastructure
+1067,Lost and Found Software,26,Office
+1068,Low-Code Development Platforms,13,Development
+1069,Loyalty Management Software,24,Marketing
+1070,M&A Platforms,41,Vertical Industry
+1071,Machine Learning Data Catalog Software,22,IT Infrastructure
+1072,Machine Learning Software,3,Artificial Intelligence
+1073,Machine Translation Software,9,Content Management
+1074,Maintenance Management Software - CMMS,7,Collaboration & Productivity
+1075,Malware Analysis Tools,31,Security
+1076,Managed Detection and Response (MDR) Software,31,Security
+1077,Managed DNS Providers Software,19,Hosting
+1078,Managed File Transfer (MFT) Software,22,IT Infrastructure
+1079,Managed Hosting Providers,19,Hosting
+1080,Managed IoT Services Providers,28,Professional Services
+1081,Managed IT Services Providers,28,Professional Services
+1082,Managed Live Chat Providers,27,Other Services
+1083,Managed Print Services,5,Business Services
+1084,Managed Security Services Providers,32,Security and Privacy Services
+1085,Managed Services,28,Professional Services
+1086,Managed SIEM Services Providers,32,Security and Privacy Services
+1087,Managed Workplace Services (MWS) Software,22,IT Infrastructure
+1088,Management Consulting Providers,5,Business Services
+1089,Manufacturing Execution System (MES) Software,16,ERP
+1090,Manufacturing Intelligence Software,16,ERP
+1091,Marina Management Software,41,Vertical Industry
+1092,Marine Software,41,Vertical Industry
+1093,Market Intelligence Software,24,Marketing
+1094,Market Research Services Providers,25,Marketing Services
+1095,Marketing Account Intelligence Software,24,Marketing
+1096,Marketing Analytics Service Providers,25,Marketing Services
+1097,Marketing Analytics Software,24,Marketing
+1098,Marketing Automation Consulting Providers,25,Marketing Services
+1099,Marketing Automation Software,24,Marketing
+1100,Marketing Automation Software,24,Marketing
+1101,Marketing Calendar Software,24,Marketing
+1102,Marketing Localization Providers,39,Translation Services
+1103,Marketing Platforms Software,24,Marketing
+1104,Marketing Resource Management Software,24,Marketing
+1105,Marketing Strategy Agencies,25,Marketing Services
+1106,Marketo Consulting Providers,28,Professional Services
+1107,Marketo LaunchPoint Apps,26,Office
+1108,Marketplace Apps,26,Office
+1109,Marketplace Software,8,Commerce
+1110,Martial Arts Software,41,Vertical Industry
+1111,Masonry Software,41,Vertical Industry
+1112,Master Data Management (MDM) Software,22,IT Infrastructure
+1113,Media and Influencer Targeting Software,24,Marketing
+1114,Media Monitoring Software,24,Marketing
+1115,Medical 3D Visualization Software,41,Vertical Industry
+1116,Medical Billing Software,41,Vertical Industry
+1117,Medical IoT Software,41,Vertical Industry
+1118,Medical Practice Management Software,41,Vertical Industry
+1119,Medical Quality Management Systems (QMS),41,Vertical Industry
+1120,Medical Simulation Software,41,Vertical Industry
+1121,Medical Spa Software,41,Vertical Industry
+1122,Medical Staff Scheduling Software,41,Vertical Industry
+1123,Medical Transcription Services,27,Other Services
+1124,Medical Transcription Software,41,Vertical Industry
+1125,Medication Dispensing Software,41,Vertical Industry
+1126,Meeting Management Software,7,Collaboration & Productivity
+1127,Meeting Room Booking Systems,26,Office
+1128,Mental Health Software,41,Vertical Industry
+1129,Mentoring Software,20,HR
+1130,MEP Software,6,CAD & PLM
+1131,Merchant Marketing Software,4,B2B Marketplaces
+1132,Message Queue (MQ) Software,23,IT Management
+1133,Meter Data Management Software,41,Vertical Industry
+1134,Microlearning Platforms,20,HR
+1135,Microsegmentation Software,31,Security
+1136,Microsoft Azure Consulting Providers,28,Professional Services
+1137,Microsoft Azure Resellers,40,Value-Added Resellers (VARs)
+1138,Microsoft Channel Partners,40,Value-Added Resellers (VARs)
+1139,Microsoft Consulting Providers,28,Professional Services
+1140,Microsoft Dynamics 365 Business Central Consultants Providers,28,Professional Services
+1141,Microsoft Dynamics 365 Business Central Resellers,40,Value-Added Resellers (VARs)
+1142,Microsoft Dynamics 365 Consulting Providers,28,Professional Services
+1143,Microsoft Dynamics 365 Resellers,40,Value-Added Resellers (VARs)
+1144,Microsoft Dynamics AX Consulting Providers,28,Professional Services
+1145,Microsoft Dynamics AX Resellers,40,Value-Added Resellers (VARs)
+1146,Microsoft Dynamics CRM Consulting Providers,28,Professional Services
+1147,Microsoft Dynamics CRM Resellers,40,Value-Added Resellers (VARs)
+1148,Microsoft Dynamics ERP Consulting Providers,28,Professional Services
+1149,Microsoft Dynamics ERP Resellers,40,Value-Added Resellers (VARs)
+1150,Microsoft Dynamics GP Consulting Providers,28,Professional Services
+1151,Microsoft Dynamics GP Resellers,40,Value-Added Resellers (VARs)
+1152,Microsoft Dynamics NAV Consulting Providers,28,Professional Services
+1153,Microsoft Dynamics NAV Resellers,40,Value-Added Resellers (VARs)
+1154,Microsoft Dynamics SL Consulting Providers,28,Professional Services
+1155,Microsoft Dynamics SL Resellers,40,Value-Added Resellers (VARs)
+1156,Microsoft Implementers and Consultants,15,Ecosystem Service Providers
+1157,Microsoft Office 365 Consulting Providers,28,Professional Services
+1158,Microsoft Office 365 Resellers,40,Value-Added Resellers (VARs)
+1159,Mileage Tracking Software,16,ERP
+1160,Mind Mapping Software,7,Collaboration & Productivity
+1161,Mining Software,41,Vertical Industry
+1162,Miva Consulting Providers,28,Professional Services
+1163,Mixed Mode ERP Software,16,ERP
+1164,Mobile Advertising Software,14,Digital Advertising
+1165,Mobile Analytics Software,13,Development
+1166,Mobile App Analytics Tools,13,Development
+1167,Mobile App Debugging Tools,13,Development
+1168,Mobile App Development Companies,28,Professional Services
+1169,Mobile App Optimization Software,13,Development
+1170,Mobile App Testing Software,13,Development
+1171,Mobile Application Management Software,23,IT Management
+1172,Mobile Attribution Software,24,Marketing
+1173,Mobile Backend-as-a-Service (mBaaS) Software,13,Development
+1174,Mobile Banking Software,41,Vertical Industry
+1175,Mobile Crash Reporting Software,13,Development
+1176,Mobile Data Security Software,31,Security
+1177,Mobile Development Frameworks,13,Development
+1178,Mobile Development Platforms,13,Development
+1179,Mobile Development Software,13,Development
+1180,Mobile Device Management (MDM) Software,23,IT Management
+1181,Mobile E-Commerce Software,8,Commerce
+1182,Mobile Event Apps,24,Marketing
+1183,Mobile Forms Automation Software,9,Content Management
+1184,Mobile Marketing Companies,25,Marketing Services
+1185,Mobile Marketing Software,24,Marketing
+1186,Mobile Marketing Software,24,Marketing
+1187,Mobility Consulting Providers,28,Professional Services
+1188,Monitoring Software,22,IT Infrastructure
+1189,Mortgage CRM Software,41,Vertical Industry
+1190,Mortgage Point of Sale (POS) Software,41,Vertical Industry
+1191,MPM and MbM Technology for Process Manufacturing Software,41,Vertical Industry
+1192,Multi-Country Payroll Software,20,HR
+1193,Multi-Factor Authentication (MFA) Software,31,Security
+1194,Multi-level Marketing (MLM) Software,24,Marketing
+1195,Multicarrier Parcel Management Solutions Software,37,Supply Chain & Logistics
+1196,Multichannel Retail Software,8,Commerce
+1197,Multilingual Desktop Publishing Providers,39,Translation Services
+1198,Multimedia Localization Providers,39,Translation Services
+1199,Multiple Listing Service (MLS) Software,41,Vertical Industry
+1200,Museum Management Software,41,Vertical Industry
+1201,Museum Software,41,Vertical Industry
+1202,Native Advertising Software,14,Digital Advertising
+1203,Natural Language Generation (NLG) Software,3,Artificial Intelligence
+1204,Natural Language Processing (NLP) Software,3,Artificial Intelligence
+1205,Natural Language Understanding (NLU) Software,3,Artificial Intelligence
+1206,Negotiation Training Providers,5,Business Services
+1207,NetSuite Resellers,40,Value-Added Resellers (VARs)
+1208,Network Access Control Software,31,Security
+1209,Network Attached Storage (NAS) Hardware,36,Storage
+1210,Network Automation Software,23,IT Management
+1211,Network Detection and Response (NDR) Software,31,Security
+1212,Network Management Software,22,IT Infrastructure
+1213,Network Monitoring Software,22,IT Infrastructure
+1214,Network Sandboxing Software,31,Security
+1215,Network Security Policy Management (NSPM) Software,31,Security
+1216,Network Security Services Providers,32,Security and Privacy Services
+1217,Network Security Software,31,Security
+1218,Network Traffic Analysis (NTA) Software,31,Security
+1219,Neurodiversity Cognitive Assessment Software,41,Vertical Industry
+1220,Nextopia Consulting Providers,28,Professional Services
+1221,NFT Platforms,22,IT Infrastructure
+1222,No-Code Development Platforms,13,Development
+1223,Node.js Developers,28,Professional Services
+1224,Noise Cancellation Software,26,Office
+1225,Nonprofit Accounting Software,41,Vertical Industry
+1226,Nonprofit Auction Software,41,Vertical Industry
+1227,Nonprofit Consulting Providers,5,Business Services
+1228,Nonprofit CRM Software,41,Vertical Industry
+1229,Nonprofit Payment Gateway Software,41,Vertical Industry
+1230,Nonprofit Software,41,Vertical Industry
+1231,NoSQL Databases,22,IT Infrastructure
+1232,Note-Taking Management Software,7,Collaboration & Productivity
+1233,Nutritionist Software,41,Vertical Industry
+1234,Object Storage Software,22,IT Infrastructure
+1235,Object-Oriented Databases,22,IT Infrastructure
+1236,Objectives and Key Results (OKR) Software,7,Collaboration & Productivity
+1237,Observability Solution Suites Software,22,IT Infrastructure
+1238,Occupational Health and Safety (OHS) Software,16,ERP
+1239,OCR Software,9,Content Management
+1240,Offboarding Software,20,HR
+1241,Office 365 Management Software,23,IT Management
+1242,Office Suites Software,26,Office
+1243,Officer Field Training Software,41,Vertical Industry
+1244,Oil and Gas Asset Management Software,41,Vertical Industry
+1245,Oil and Gas Back Office Software,41,Vertical Industry
+1246,Oil and Gas Engineering Software,41,Vertical Industry
+1247,Oil and Gas Project Management Software,41,Vertical Industry
+1248,Oil and Gas Simulation and Modeling Software,41,Vertical Industry
+1249,Oil and Gas Software,41,Vertical Industry
+1250,Oil and Gas Training Software,41,Vertical Industry
+1251,Oil Production Software,41,Vertical Industry
+1252,Okta Integration Network Software,26,Office
+1253,Omnichannel Commerce Software,8,Commerce
+1254,On-Demand Catering Software,4,B2B Marketplaces
+1255,On-Demand Delivery Software,4,B2B Marketplaces
+1256,On-Demand Staffing Services Providers,35,Staffing Services
+1257,On-Demand Wellness Software,4,B2B Marketplaces
+1258,On-Premise Data Integration Software,22,IT Infrastructure
+1259,Onboarding Software,20,HR
+1260,Online Appointment Scheduling Software,26,Office
+1261,Online Backup Software,23,IT Management
+1262,Online Community Management Software,24,Marketing
+1263,Online Community Software,24,Marketing
+1264,Online Course Providers,41,Vertical Industry
+1265,Online CRM Software,30,Sales
+1266,Online Fax Software,26,Office
+1267,Online Form Builder Software,9,Content Management
+1268,Online Learning Platforms,41,Vertical Industry
+1269,Online Marketplace Optimization Tools,8,Commerce
+1270,Online Proctoring Software,41,Vertical Industry
+1271,Online Program Management in Higher Education Providers,27,Other Services
+1272,Online Proofing Software,9,Content Management
+1273,Online Reputation Management Software,24,Marketing
+1274,Operating Systems,22,IT Infrastructure
+1275,Operational Risk Management Software,17,"Governance, Risk & Compliance"
+1276,Optometry Software,41,Vertical Industry
+1277,Oracle Bronto Consulting Providers,28,Professional Services
+1278,Oracle Channel Partners,40,Value-Added Resellers (VARs)
+1279,Oracle Cloud Application Resellers,40,Value-Added Resellers (VARs)
+1280,Oracle Cloud Applications Consulting Providers,28,Professional Services
+1281,Oracle Consulting Providers,28,Professional Services
+1282,Oracle CX - Customer Experience Cloud Consulting Providers,28,Professional Services
+1283,Oracle Database Consulting Providers,28,Professional Services
+1284,Oracle Database Resellers,40,Value-Added Resellers (VARs)
+1285,Oracle E-Business Suite Consulting Providers,28,Professional Services
+1286,Oracle E-Business Suite Resellers,40,Value-Added Resellers (VARs)
+1287,Oracle EPM - Enterprise Performance Management Cloud Consulting Providers,28,Professional Services
+1288,Oracle ERP Cloud Consulting Providers,28,Professional Services
+1289,Oracle ERP Consulting Providers,28,Professional Services
+1290,Oracle ERP Resellers,40,Value-Added Resellers (VARs)
+1291,Oracle Fusion Applications Consulting Providers,28,Professional Services
+1292,Oracle Fusion Applications Resellers,40,Value-Added Resellers (VARs)
+1293,Oracle HCM - Human Capital Management Cloud Consulting Providers,28,Professional Services
+1294,Oracle Hyperion Consulting Providers,28,Professional Services
+1295,Oracle Hyperion Resellers,40,Value-Added Resellers (VARs)
+1296,Oracle Implementers and Consultants,15,Ecosystem Service Providers
+1297,Oracle JD Edwards EnterpriseOne Consulting Providers,28,Professional Services
+1298,Oracle JD Edwards EnterpriseOne Resellers,40,Value-Added Resellers (VARs)
+1299,Oracle PeopleSoft Consulting Providers,28,Professional Services
+1300,Oracle PeopleSoft Resellers,40,Value-Added Resellers (VARs)
+1301,Oracle Primavera Consulting Providers,28,Professional Services
+1302,Oracle Primavera Resellers,40,Value-Added Resellers (VARs)
+1303,Oracle SCM - Supply Chain Management Cloud Consulting Providers,28,Professional Services
+1304,Oracle Siebel Consulting Providers,28,Professional Services
+1305,Oracle Siebel Resellers,40,Value-Added Resellers (VARs)
+1306,Oracle Taleo Consulting Providers,28,Professional Services
+1307,Order Management Software,16,ERP
+1308,Org Chart Software,26,Office
+1309,OS Imaging & Deployment Software,23,IT Management
+1310,OT Secure Remote Access Software,31,Security
+1311,Other Agriculture Software,41,Vertical Industry
+1312,Other Analytics Software,1,Analytics
+1313,Other Apparel Software,41,Vertical Industry
+1314,Other Automotive Software,41,Vertical Industry
+1315,Other AWS Consulting Providers,28,Professional Services
+1316,Other B2B Services Providers,27,Other Services
+1317,Other Business Finance Providers,5,Business Services
+1318,Other CAD Software,6,CAD & PLM
+1319,Other Cannabis Software,41,Vertical Industry
+1320,Other Child Care Software,41,Vertical Industry
+1321,Other Cisco Resellers,40,Value-Added Resellers (VARs)
+1322,Other Cloud Integration Software,22,IT Infrastructure
+1323,Other Collaboration Software,7,Collaboration & Productivity
+1324,Other Construction Software,41,Vertical Industry
+1325,Other Continuous Delivery Software,13,Development
+1326,Other Conversion Rate Optimization Software,24,Marketing
+1327,Other Creative Services Providers,28,Professional Services
+1328,Other Customer Service Software,10,Customer Service
+1329,Other Dental Software,41,Vertical Industry
+1330,Other Design Software,12,Design
+1331,Other Development Services Providers,28,Professional Services
+1332,Other Development Software,13,Development
+1333,Other Digital Accessibility Software,9,Content Management
+1334,Other Digital Advertising Software,14,Digital Advertising
+1335,Other Education Software,41,Vertical Industry
+1336,Other Email Software,26,Office
+1337,Other Event Management Software,24,Marketing
+1338,Other Finance & Admin. Software,16,ERP
+1339,Other Finance & Insurance Software,41,Vertical Industry
+1340,Other Fitness Software,41,Vertical Industry
+1341,Other Food Software,41,Vertical Industry
+1342,Other Government Software,41,Vertical Industry
+1343,Other Gym Software,41,Vertical Industry
+1344,Other Health Care Operations Software,41,Vertical Industry
+1345,Other Health Care Software,41,Vertical Industry
+1346,Other Hospitality Software,41,Vertical Industry
+1347,Other Hosting Services Providers,19,Hosting
+1348,Other HR Services Providers,5,Business Services
+1349,Other HR Software,20,HR
+1350,Other Implementation Services Providers,28,Professional Services
+1351,Other Infor Consulting Providers,28,Professional Services
+1352,Other Infor Resellers,40,Value-Added Resellers (VARs)
+1353,Other Insurance Software,41,Vertical Industry
+1354,Other Integrated Development Environments (IDE),13,Development
+1355,Other IoT Software,21,IoT Management
+1356,Other IT Infrastructure Software,22,IT Infrastructure
+1357,Other IT Management Software,23,IT Management
+1358,Other IT Security Software,31,Security
+1359,Other Laboratory Software,41,Vertical Industry
+1360,Other Law Enforcement Software,41,Vertical Industry
+1361,Other Lead Generation Software,24,Marketing
+1362,Other Legal Services Providers,5,Business Services
+1363,Other Legal Software,41,Vertical Industry
+1364,Other Life Sciences Software,41,Vertical Industry
+1365,Other Marine Software,41,Vertical Industry
+1366,Other Marketing Services Providers,25,Marketing Services
+1367,Other Marketing Software,24,Marketing
+1368,Other Medical Services Providers,27,Other Services
+1369,Other Microsoft Consulting Providers,28,Professional Services
+1370,Other Microsoft Resellers,40,Value-Added Resellers (VARs)
+1371,Other Mobile Development Software,13,Development
+1372,Other Monitoring Software,22,IT Infrastructure
+1373,Other Non-Relational Databases Software,22,IT Infrastructure
+1374,Other Nonprofit Software,41,Vertical Industry
+1375,Other Office Software,26,Office
+1376,Other Oil and Gas Software,41,Vertical Industry
+1377,Other Oracle Consulting Providers,28,Professional Services
+1378,Other Oracle Resellers,40,Value-Added Resellers (VARs)
+1379,Other Patient Experience Software,41,Vertical Industry
+1380,Other Pharmacy Software,41,Vertical Industry
+1381,Other Political Software,41,Vertical Industry
+1382,Other Privacy Software,11,Data Privacy
+1383,Other Process Automation Software,23,IT Management
+1384,Other Product Suites Software,23,IT Management
+1385,Other Public Relations Software,24,Marketing
+1386,Other Public Safety Software,41,Vertical Industry
+1387,Other Publisher Management Software,14,Digital Advertising
+1388,Other Real Estate Software,41,Vertical Industry
+1389,Other Recruiting Software,20,HR
+1390,Other Reservations Software,41,Vertical Industry
+1391,Other Retail Software,8,Commerce
+1392,Other Sage Resellers,40,Value-Added Resellers (VARs)
+1393,Other Sales Software,30,Sales
+1394,Other Salesforce Consulting Providers,28,Professional Services
+1395,Other SAP Consulting Providers,28,Professional Services
+1396,Other SAP Resellers,40,Value-Added Resellers (VARs)
+1397,Other Security Services Providers,32,Security and Privacy Services
+1398,Other Social Media Software,24,Marketing
+1399,Other Solution Consulting Providers,28,Professional Services
+1400,Other Specialty Practice Management Software,41,Vertical Industry
+1401,Other Sports Software,41,Vertical Industry
+1402,Other Staffing Providers,35,Staffing Services
+1403,Other Supply & Logistics Software,37,Supply Chain & Logistics
+1404,Other Translation Software,9,Content Management
+1405,Other Transportation Software,41,Vertical Industry
+1406,Other Travel Arrangement Software,41,Vertical Industry
+1407,Other Utilities Software,41,Vertical Industry
+1408,Other VARs,40,Value-Added Resellers (VARs)
+1409,Other Vertical Industry Software,41,Vertical Industry
+1410,Other Veterinary Software,41,Vertical Industry
+1411,Other Video Software,12,Design
+1412,Other Web Frameworks Software,13,Development
+1413,Other Workday Consulting Providers,28,Professional Services
+1414,OTT Platforms,12,Design
+1415,Outbound Call Tracking Software,30,Sales
+1416,Outbound Marketing Services,25,Marketing Services
+1417,Outdoor Access Points,42,Wireless
+1418,Outplacement Providers,5,Business Services
+1419,Outsourced Sales Providers,5,Business Services
+1420,Package Tracking Software,26,Office
+1421,Paid Search Intelligence Software,14,Digital Advertising
+1422,Parking Management Software,41,Vertical Industry
+1423,Parks and Recreation Software,41,Vertical Industry
+1424,Partner Ecosystem Platforms Software,30,Sales
+1425,Partner Management Software,30,Sales
+1426,Password Manager Software,31,Security
+1427,Password Policy Enforcement Software,31,Security
+1428,Passwordless Authentication Software,31,Security
+1429,Patch Management Software,31,Security
+1430,Patent Research Software,41,Vertical Industry
+1431,Patient Case Management Software,41,Vertical Industry
+1432,Patient Engagement Software,41,Vertical Industry
+1433,Patient Experience Software,41,Vertical Industry
+1434,Patient Identity Resolution Software,41,Vertical Industry
+1435,Patient Intake Software,41,Vertical Industry
+1436,Patient Relationship Management (PRM) Software,41,Vertical Industry
+1437,Patient Scheduling Software,41,Vertical Industry
+1438,Pay Equity Software,20,HR
+1439,Payment Analytics Software,8,Commerce
+1440,Payment Card Issuance Software,8,Commerce
+1441,Payment Gateways,8,Commerce
+1442,Payment Processing Software,8,Commerce
+1443,Payment Software,8,Commerce
+1444,Payments Orchestration Software,8,Commerce
+1445,Payroll Services Providers,5,Business Services
+1446,Payroll Software,20,HR
+1447,PC Backup Software,23,IT Management
+1448,PCB Design Software,6,CAD & PLM
+1449,PDF Editor Software,26,Office
+1450,Peer Code Review Software,13,Development
+1451,Pegasystems Consulting Providers,28,Professional Services
+1452,Penetration Testing Services,32,Security and Privacy Services
+1453,Penetration Testing Software,31,Security
+1454,PEO Providers,20,HR
+1455,Performance Management Systems,20,HR
+1456,Performing Arts Software,41,Vertical Industry
+1457,Personal Training Software,41,Vertical Industry
+1458,Personalization Engines,24,Marketing
+1459,Personalization Software,24,Marketing
+1460,Pest Control Software,41,Vertical Industry
+1461,Pet Care Software,41,Vertical Industry
+1462,Pet Sitting and Daycare Software,41,Vertical Industry
+1463,Pharma and Biotech Software,41,Vertical Industry
+1464,Pharmaceutical Distribution Software,41,Vertical Industry
+1465,Pharmacy Management Systems,41,Vertical Industry
+1466,Pharmacy POS Software,41,Vertical Industry
+1467,Pharmacy Software,41,Vertical Industry
+1468,Photo Editing Software,12,Design
+1469,Photo Management Software,12,Design
+1470,Photogrammetry Software,6,CAD & PLM
+1471,Photography Software,12,Design
+1472,PHP Developers,28,Professional Services
+1473,PHP Integrated Development Environments (IDE),13,Development
+1474,PHP Web Frameworks,13,Development
+1475,Physical Document Destruction Services Providers,28,Professional Services
+1476,Physical Security Software,41,Vertical Industry
+1477,Physical Therapy Software,41,Vertical Industry
+1478,Physics Engine Software,13,Development
+1479,Picking Software,37,Supply Chain & Logistics
+1480,Plagiarism Checker Software,26,Office
+1481,PLM Software,6,CAD & PLM
+1482,Podcast Hosting Platforms,12,Design
+1483,Police Records Management System (RMS) Software,41,Vertical Industry
+1484,Policy Management Software,17,"Governance, Risk & Compliance"
+1485,Political Campaign Software,41,Vertical Industry
+1486,Political Software,41,Vertical Industry
+1487,Pop-Up Builder Software,24,Marketing
+1488,Population Health Management Software,41,Vertical Industry
+1489,Portals Software,13,Development
+1490,POS Software,8,Commerce
+1491,Postal Presort Software,41,Vertical Industry
+1492,Power BI Consulting Providers,28,Professional Services
+1493,PPC Services Providers,25,Marketing Services
+1494,PR Analytics Software,24,Marketing
+1495,PR CRM Software,24,Marketing
+1496,PR Firms,25,Marketing Services
+1497,Pre-Employment Screening Software,20,HR
+1498,Precision Agriculture Software,41,Vertical Industry
+1499,Predictive Analytics Software,1,Analytics
+1500,Predictive Maintenance Software,16,ERP
+1501,Prequalification Software,41,Vertical Industry
+1502,Presales Software,30,Sales
+1503,Presentation Software,26,Office
+1504,Press Release Distribution Software,24,Marketing
+1505,Pricing Software,30,Sales
+1506,Print Fulfillment Software,24,Marketing
+1507,Print Management Software,26,Office
+1508,Print On Demand Software,8,Commerce
+1509,Prior Authorization Software,41,Vertical Industry
+1510,Privacy Impact Assessment (PIA) Software,11,Data Privacy
+1511,Privacy Policy Generator Software,11,Data Privacy
+1512,Private Duty Home Care Software,41,Vertical Industry
+1513,Privileged Access Management (PAM) Software,31,Security
+1514,Proactive Customer Retention Software,10,Customer Service
+1515,Proactive Notification Software,10,Customer Service
+1516,Process Automation Software,23,IT Management
+1517,Process ERP Software,16,ERP
+1518,Process Mining Software,23,IT Management
+1519,Procore App Marketplace Partners,26,Office
+1520,Procure to Pay Software,16,ERP
+1521,Procurement Software,16,ERP
+1522,Product Analytics Software,24,Marketing
+1523,Product and Machine Design Software,6,CAD & PLM
+1524,Product Data Management (PDM) Software,6,CAD & PLM
+1525,Product Design Services Providers,28,Professional Services
+1526,Product Information Management (PIM) Software,8,Commerce
+1527,Product Management Software,13,Development
+1528,Product Reviews Software,8,Commerce
+1529,Production Management Software,41,Vertical Industry
+1530,Productivity Bots Software,7,Collaboration & Productivity
+1531,Productivity Suite Software,7,Collaboration & Productivity
+1532,Professional Headshot Photography Services Providers,28,Professional Services
+1533,Professional Services Automation Software,16,ERP
+1534,Professional Services Automation Software - PSA,7,Collaboration & Productivity
+1535,Programmatic Job Advertising Software,20,HR
+1536,Project and Portfolio Management Software,16,ERP
+1537,Project Collaboration Software,16,ERP
+1538,Project Collaboration Software,7,Collaboration & Productivity
+1539,Project Cost Management Software,16,ERP
+1540,Project Management Software,16,ERP
+1541,Project Management Tools Software,16,ERP
+1542,Project Portfolio Management Software - PPM,7,Collaboration & Productivity
+1543,Project-Based ERP Software,16,ERP
+1544,"Project, Portfolio & Program Management Software",16,ERP
+1545,Promotional Product Management Software,24,Marketing
+1546,Proofreading Software,26,Office
+1547,Property & Casualty Insurance Agency Management Software,41,Vertical Industry
+1548,Property & Casualty Policy Administration Systems,41,Vertical Industry
+1549,Property Intelligence Software,41,Vertical Industry
+1550,Property Management Software,41,Vertical Industry
+1551,Property Restoration Software,41,Vertical Industry
+1552,Proposal Software,30,Sales
+1553,Protective Intelligence Platforms,41,Vertical Industry
+1554,Prototyping Software,12,Design
+1555,Provider Data Management (PDM) Software,41,Vertical Industry
+1556,Proxy Network Software,31,Security
+1557,Public Affairs and Advocacy Software,41,Vertical Industry
+1558,Public Financial Management (PFM) Systems,41,Vertical Industry
+1559,Public Records Management Software,41,Vertical Industry
+1560,Public Relations (PR) Software,24,Marketing
+1561,Public Safety Software,41,Vertical Industry
+1562,Public Sector Software,41,Vertical Industry
+1563,Public Transportation Software,41,Vertical Industry
+1564,Public Works Software,41,Vertical Industry
+1565,Publisher Ad Management Software,14,Digital Advertising
+1566,Publisher Ad Server Software,14,Digital Advertising
+1567,Punch List Software,41,Vertical Industry
+1568,Purchasing Software,16,ERP
+1569,Push Notification Software,24,Marketing
+1570,Push-To-Talk (PTT) Software,7,Collaboration & Productivity
+1571,Python and Django Developers,28,Professional Services
+1572,Python Integrated Development Environments (IDE),13,Development
+1573,Python Web Frameworks,13,Development
+1574,Q&A Platforms,9,Content Management
+1575,Qlik Channel Partners,40,Value-Added Resellers (VARs)
+1576,QR Code Generator Software,24,Marketing
+1577,Quality Management Systems (QMS),16,ERP
+1578,Queue Management Software,26,Office
+1579,Quote Management Software,30,Sales
+1580,Quote-to-Cash Consulting Providers,28,Professional Services
+1581,Quote-to-Cash Software,30,Sales
+1582,Rack Servers,34,Servers
+1583,Radiology Software,41,Vertical Industry
+1584,Rapid Application Development (RAD) Software,13,Development
+1585,RDF Databases,22,IT Infrastructure
+1586,Real Estate Activities Management Software,41,Vertical Industry
+1587,Real Estate CRM Software,41,Vertical Industry
+1588,Real Estate Investment Management Software,41,Vertical Industry
+1589,Real Estate License School Software,41,Vertical Industry
+1590,Real Estate Marketing Software,41,Vertical Industry
+1591,Real Estate Software,41,Vertical Industry
+1592,Real Estate Virtual Tour Software,41,Vertical Industry
+1593,Real-Time Text Translation Providers,39,Translation Services
+1594,Records Storage Services Providers,28,Professional Services
+1595,Recruiting Automation Software,20,HR
+1596,Recruiting Software,20,HR
+1597,Recruitment Agencies,35,Staffing Services
+1598,Recruitment Marketing Agencies,35,Staffing Services
+1599,Recruitment Marketing Platforms,20,HR
+1600,Recruitment Platforms Software,20,HR
+1601,Recruitment Process Outsourcing (RPO) Providers,35,Staffing Services
+1602,Reference Check Software,20,HR
+1603,Reference Management Software,41,Vertical Industry
+1604,Referral Management Software,41,Vertical Industry
+1605,Regulatory Change Management Software,17,"Governance, Risk & Compliance"
+1606,Relational Databases,22,IT Infrastructure
+1607,Release Notes Management Software,13,Development
+1608,Relocation Management Services,5,Business Services
+1609,Relocation Management Software,20,HR
+1610,Remittance & Money Transfer Software,16,ERP
+1611,Remote Desktop Software,22,IT Infrastructure
+1612,Remote Monitoring & Management (RMM) Software,23,IT Management
+1613,Remote Support Software,22,IT Infrastructure
+1614,Rental Payment Software,41,Vertical Industry
+1615,Repository Management Software,13,Development
+1616,Reputation Management Services Providers,25,Marketing Services
+1617,Requirements Management Software,13,Development
+1618,Reservation Software,41,Vertical Industry
+1619,Resource Management Software,16,ERP
+1620,Restaurant Business Intelligence & Analytics Software,41,Vertical Industry
+1621,Restaurant Delivery/Takeout Software,4,B2B Marketplaces
+1622,Restaurant Inventory Management Software,41,Vertical Industry
+1623,Restaurant Management Software,41,Vertical Industry
+1624,Restaurant POS Systems,8,Commerce
+1625,Restaurant Reservations Software,41,Vertical Industry
+1626,Restaurant Scheduling Software,41,Vertical Industry
+1627,Restaurant Software,41,Vertical Industry
+1628,Resume Writing Services Providers,28,Professional Services
+1629,Retail Analytics Software,8,Commerce
+1630,Retail Assortment Management Applications Software,8,Commerce
+1631,Retail Business Management Software,8,Commerce
+1632,Retail Distributed Order Management Systems,8,Commerce
+1633,Retail Execution Software,8,Commerce
+1634,Retail Intelligence Software,8,Commerce
+1635,Retail IoT Software,8,Commerce
+1636,Retail Management Systems,8,Commerce
+1637,Retail Media Advertising Platforms,14,Digital Advertising
+1638,Retail Operations Software,8,Commerce
+1639,Retail POS Systems,8,Commerce
+1640,Retail Pricing Software,8,Commerce
+1641,Retail Software,8,Commerce
+1642,Retail Space Planning Software,8,Commerce
+1643,Retail Task Management Software,8,Commerce
+1644,Retargeting Software,14,Digital Advertising
+1645,Returns Management Software,37,Supply Chain & Logistics
+1646,Revenue Cycle Management Software,41,Vertical Industry
+1647,Revenue Management Software,16,ERP
+1648,Revenue Operations & Intelligence (RO&I) Software,30,Sales
+1649,Revenue Operations Services,5,Business Services
+1650,Reverse ETL Software,22,IT Infrastructure
+1651,Rewards and Incentives Software,24,Marketing
+1652,RFP Software,16,ERP
+1653,Ride Sharing Software,4,B2B Marketplaces
+1654,Risk Assessment Software,31,Security
+1655,Risk-Based Authentication Software,31,Security
+1656,Risk-Based Vulnerability Management Software,31,Security
+1657,Robo-Advisory Software,41,Vertical Industry
+1658,Robotic Process Automation (RPA) Consultancy Services,28,Professional Services
+1659,Robotic Process Automation (RPA) Software,23,IT Management
+1660,Roofing Software,41,Vertical Industry
+1661,Room Systems,7,Collaboration & Productivity
+1662,Rootstock Consulting Providers,28,Professional Services
+1663,Route Planning Software,37,Supply Chain & Logistics
+1664,Ruby on Rails Developers,28,Professional Services
+1665,Runtime Application Self-Protection (RASP) Software,31,Security
+1666,Runtime Software,13,Development
+1667,SaaS Backup Software,23,IT Management
+1668,SaaS Operations Management Software,23,IT Management
+1669,SaaS Spend Management Software,23,IT Management
+1670,Sage 100 Resellers,40,Value-Added Resellers (VARs)
+1671,Sage 300 Resellers,40,Value-Added Resellers (VARs)
+1672,Sage 50 Resellers,40,Value-Added Resellers (VARs)
+1673,Sage 500 Resellers,40,Value-Added Resellers (VARs)
+1674,Sage BusinessVision Resellers,40,Value-Added Resellers (VARs)
+1675,Sage BusinessWorks Resellers,40,Value-Added Resellers (VARs)
+1676,Sage Channel Partners,40,Value-Added Resellers (VARs)
+1677,Sage CRM Resellers,40,Value-Added Resellers (VARs)
+1678,Sage Fixed Assets Resellers,40,Value-Added Resellers (VARs)
+1679,Sage HRMS Resellers,40,Value-Added Resellers (VARs)
+1680,Sage Intacct Channel Partners,40,Value-Added Resellers (VARs)
+1681,Sage X3 Resellers,40,Value-Added Resellers (VARs)
+1682,Sales & Ops Planning Software,37,Supply Chain & Logistics
+1683,Sales Acceleration Platforms,30,Sales
+1684,Sales Acceleration Software,30,Sales
+1685,Sales Analytics Software,30,Sales
+1686,Sales Automation Software,30,Sales
+1687,Sales Cloud Consulting Providers,28,Professional Services
+1688,Sales Coaching Software,30,Sales
+1689,Sales Compensation Software,30,Sales
+1690,Sales Consulting Providers,5,Business Services
+1691,Sales Enablement Software,30,Sales
+1692,Sales Engagement Software,30,Sales
+1693,Sales Gamification Software,30,Sales
+1694,Sales Intelligence Software,30,Sales
+1695,Sales Management Software,30,Sales
+1696,Sales Performance Management Software,30,Sales
+1697,Sales Platforms Software,30,Sales
+1698,Sales Tax and VAT Compliance Software,16,ERP
+1699,Sales Training and Onboarding Software,30,Sales
+1700,Sales Training Providers,5,Business Services
+1701,Salesforce Analytics Cloud Consulting Providers,28,Professional Services
+1702,Salesforce App Cloud Consulting Providers,28,Professional Services
+1703,Salesforce AppExchange Apps,26,Office
+1704,Salesforce Channel Partners,40,Value-Added Resellers (VARs)
+1705,Salesforce Commerce Cloud Consulting Providers,28,Professional Services
+1706,Salesforce Community Cloud Consulting Providers,28,Professional Services
+1707,Salesforce Consulting Providers,28,Professional Services
+1708,Salesforce CPQ Consulting Providers,28,Professional Services
+1709,Salesforce CRM Consulting Providers,28,Professional Services
+1710,Salesforce CRM Document Generation Software,30,Sales
+1711,Salesforce Implementers and Consultants,15,Ecosystem Service Providers
+1712,Salesforce Marketing Cloud Consulting Providers,28,Professional Services
+1713,Salesforce Pardot Consulting Providers,28,Professional Services
+1714,Salesforce Training Services Providers,28,Professional Services
+1715,SAP BI Consulting Providers,28,Professional Services
+1716,SAP Business All-in-One Consulting Providers,28,Professional Services
+1717,SAP Business All-in-One Resellers,40,Value-Added Resellers (VARs)
+1718,SAP Business One Consulting Providers,28,Professional Services
+1719,SAP Business One Resellers,40,Value-Added Resellers (VARs)
+1720,SAP BusinessObjects Resellers,40,Value-Added Resellers (VARs)
+1721,SAP Channel Partners,40,Value-Added Resellers (VARs)
+1722,SAP Cloud Resellers,40,Value-Added Resellers (VARs)
+1723,SAP Consulting Providers,28,Professional Services
+1724,SAP CRM Consulting Providers,28,Professional Services
+1725,SAP EPM Consulting Providers,28,Professional Services
+1726,SAP ERP Consulting Providers,28,Professional Services
+1727,SAP ERP Resellers,40,Value-Added Resellers (VARs)
+1728,SAP FICO - Financial Accounting Consulting Providers,28,Professional Services
+1729,SAP HANA Consulting Providers,28,Professional Services
+1730,SAP HANA Resellers,40,Value-Added Resellers (VARs)
+1731,SAP HR - Human Resources Consulting Providers,28,Professional Services
+1732,SAP Hybris Resellers,40,Value-Added Resellers (VARs)
+1733,SAP Implementers and Consultants,15,Ecosystem Service Providers
+1734,SAP Industry Solutions Consulting Providers,28,Professional Services
+1735,SAP Mobile Platform Consulting Providers,28,Professional Services
+1736,SAP PLM Consulting Providers,28,Professional Services
+1737,SAP SCM Consulting Providers,28,Professional Services
+1738,SAP SRM Consulting Providers,28,Professional Services
+1739,SAP Store Software,26,Office
+1740,SAP SuccessFactors Resellers,40,Value-Added Resellers (VARs)
+1741,Scholarship Management Software,41,Vertical Industry
+1742,School Management Software,41,Vertical Industry
+1743,School Transportation Software,41,Vertical Industry
+1744,Scientific Data Management Systems (SDMS),41,Vertical Industry
+1745,Screen and Video Capture Software,26,Office
+1746,Screen Sharing Software,7,Collaboration & Productivity
+1747,Screenwriting Software,26,Office
+1748,SD-WAN Software,23,IT Management
+1749,Search Advertising Software,14,Digital Advertising
+1750,Search Engine Marketing (SEM) Agencies,25,Marketing Services
+1751,Search Marketing Software,24,Marketing
+1752,Search Monetization Platforms,14,Digital Advertising
+1753,Secrets Management Tools,31,Security
+1754,Secure Access Service Edge (SASE) Platforms,31,Security
+1755,Secure Code Review Software,31,Security
+1756,Secure Code Training Software,31,Security
+1757,Secure Email Gateway Software,31,Security
+1758,Secure Web Gateways,31,Security
+1759,Security Awareness Training Software,31,Security
+1760,Security Compliance Software,17,"Governance, Risk & Compliance"
+1761,Security Information and Event Management (SIEM) Software,31,Security
+1762,"Security Orchestration, Automation, and Response (SOAR) Software",31,Security
+1763,Security Risk Analysis Software,31,Security
+1764,Seed to Sale Software,41,Vertical Industry
+1765,Self-Service Password Reset (SSPR) Software,31,Security
+1766,Self-Storage Facility Management Software,41,Vertical Industry
+1767,Sensitive Data Discovery Software,11,Data Privacy
+1768,SEO Services Providers,25,Marketing Services
+1769,SEO Software,24,Marketing
+1770,Server Backup Software,23,IT Management
+1771,Server Monitoring Software,22,IT Infrastructure
+1772,Server Virtualization Software,22,IT Infrastructure
+1773,Service Cloud Consulting Providers,28,Professional Services
+1774,Service Desk Software,23,IT Management
+1775,Service Desk Software,10,Customer Service
+1776,Service Discovery Software,13,Development
+1777,Service Mesh Tools,31,Security
+1778,ServiceNow Marketplace Apps,26,Office
+1779,Session Replay Software,24,Marketing
+1780,Shared Inbox Software,7,Collaboration & Productivity
+1781,SharePoint Consulting Providers,28,Professional Services
+1782,SharePoint Resellers,40,Value-Added Resellers (VARs)
+1783,Shipping Software,37,Supply Chain & Logistics
+1784,Shopify Consulting Partners,28,Professional Services
+1785,Shopify Designers,28,Professional Services
+1786,Shopify Marketing Experts,28,Professional Services
+1787,Shopify Photographers,28,Professional Services
+1788,Shopify Setup Experts,28,Professional Services
+1789,Shopify Web Developers,28,Professional Services
+1790,Shopping Cart Software,8,Commerce
+1791,Simulation & CAE Software,6,CAD & PLM
+1792,Single Sign-On (SSO) Software,31,Security
+1793,Sitecore Developers,28,Professional Services
+1794,Sketching Software,6,CAD & PLM
+1795,Skills Management Software,20,HR
+1796,Smart Buildings Software,16,ERP
+1797,Smart Cities Software,41,Vertical Industry
+1798,Smart Contracts Software,22,IT Infrastructure
+1799,Smart Irrigation Software,41,Vertical Industry
+1800,Smart Link Software,24,Marketing
+1801,Smart Utilities Software,41,Vertical Industry
+1802,SMS Marketing Software,24,Marketing
+1803,Social Commerce Platforms,8,Commerce
+1804,Social CRM Software,30,Sales
+1805,Social Customer Service Software,10,Customer Service
+1806,Social Discovery Software,41,Vertical Industry
+1807,Social Media Advertising Software,14,Digital Advertising
+1808,Social Media Analytics Software,24,Marketing
+1809,Social Media Management Software,24,Marketing
+1810,Social Media Marketing (SMM) Companies,25,Marketing Services
+1811,Social Media Marketing Software,24,Marketing
+1812,Social Media Monitoring Software,24,Marketing
+1813,Social Media Suites,24,Marketing
+1814,Social Network Platforms,7,Collaboration & Productivity
+1815,Software Asset Management (SAM) Software,23,IT Management
+1816,Software Composition Analysis Tools,31,Security
+1817,Software Design Platforms,12,Design
+1818,Software Design Software,12,Design
+1819,Software Developer Services Providers,28,Professional Services
+1820,Software Development Analytics Tools,13,Development
+1821,Software Localization Services,39,Translation Services
+1822,Software Localization Tools,13,Development
+1823,Software Testing Tools,13,Development
+1824,Software-Defined Perimeter (SDP) Software,31,Security
+1825,Solution Consulting Providers,28,Professional Services
+1826,Source Code Management Software,13,Development
+1827,Spa and Salon Management Software,41,Vertical Industry
+1828,Space Management Software,26,Office
+1829,Special Education Software,41,Vertical Industry
+1830,Specialty Practice Management Software,41,Vertical Industry
+1831,Specification Management Software,16,ERP
+1832,Speech Analytics Software,10,Customer Service
+1833,Spend Management Software,16,ERP
+1834,Sports League Management Software,41,Vertical Industry
+1835,Sports Marketing Intelligence Software,41,Vertical Industry
+1836,Sports Performance Analytics Software,41,Vertical Industry
+1837,Sports Software,41,Vertical Industry
+1838,Spreadsheets Software,26,Office
+1839,SSL & TLS Certificates Software,31,Security
+1840,Staffing Agencies,35,Staffing Services
+1841,Staffing Software,20,HR
+1842,Standard Operating Procedures Software,9,Content Management
+1843,Static Application Security Testing (SAST) Software,31,Security
+1844,Static Code Analysis Tools,31,Security
+1845,Statistical Analysis Software,1,Analytics
+1846,Stock Footage Software,12,Design
+1847,Stock Media Software,12,Design
+1848,Stock Music Software,12,Design
+1849,Stock Photos Websites,12,Design
+1850,Storage Management Software,22,IT Infrastructure
+1851,Storage Servers,34,Servers
+1852,Store Locator Software,24,Marketing
+1853,Strategic Planning Software,16,ERP
+1854,Strategic Sourcing Software,16,ERP
+1855,Strategy And Innovation Roadmapping Tools,16,ERP
+1856,Stream Analytics Software,22,IT Infrastructure
+1857,Structured Data Archiving and Application Retirement Software,22,IT Infrastructure
+1858,Student Information Systems (SIS),41,Vertical Industry
+1859,Studio Management Software,41,Vertical Industry
+1860,Study Tools,41,Vertical Industry
+1861,Subscription Analytics Software,8,Commerce
+1862,Subscription Billing Software,8,Commerce
+1863,Subscription Management Software,8,Commerce
+1864,Subscription Revenue Management Software,8,Commerce
+1865,Succession Planning Software,20,HR
+1866,Supervisory Control and Data Acquisition (SCADA) Software,16,ERP
+1867,Supplier Relationship Management Software,37,Supply Chain & Logistics
+1868,Supply Chain Business Networks,37,Supply Chain & Logistics
+1869,Supply Chain Cost-To-Serve Analytics Software,37,Supply Chain & Logistics
+1870,Supply Chain Management Software,37,Supply Chain & Logistics
+1871,Supply Chain Planning Software,37,Supply Chain & Logistics
+1872,Supply Chain Strategy and Operations Consulting Providers,5,Business Services
+1873,Supply Chain Suites,37,Supply Chain & Logistics
+1874,Supply Chain Visibility Software,37,Supply Chain & Logistics
+1875,Supply Side Platforms (SSP),14,Digital Advertising
+1876,Survey Software,26,Office
+1877,Sustainability Management Software,41,Vertical Industry
+1878,Sweepstakes Software,24,Marketing
+1879,Swim Club Management Software,41,Vertical Industry
+1880,Synthetic Data Software,3,Artificial Intelligence
+1881,System Security Software,31,Security
+1882,Systems Engineering & MBSE Tools,16,ERP
+1883,Tableau Consulting Providers,28,Professional Services
+1884,Tableau VARS,40,Value-Added Resellers (VARs)
+1885,Tag Management Software,24,Marketing
+1886,Takeoff Software,41,Vertical Industry
+1887,Talent Acquisition Suites Software,20,HR
+1888,Talent Assessment Software,20,HR
+1889,Talent Intelligence Software,20,HR
+1890,Talent Management Software,20,HR
+1891,Talent Management Software,20,HR
+1892,Talent Marketplace Platforms,20,HR
+1893,Task Management Software,16,ERP
+1894,Task Management Software,16,ERP
+1895,Tax & Revenue Collection Software,41,Vertical Industry
+1896,Tax Practice Management Software,41,Vertical Industry
+1897,Tax Services Providers,5,Business Services
+1898,Taxi & Limousine Software,41,Vertical Industry
+1899,Team Collaboration Software,7,Collaboration & Productivity
+1900,Teamwork Consulting Partners,28,Professional Services
+1901,Technical Skills Development Software,41,Vertical Industry
+1902,Technical Skills Screening Software,20,HR
+1903,Technology Research Services,24,Marketing
+1904,Technology Review Platforms,24,Marketing
+1905,Technology Scouting Software,23,IT Management
+1906,Telecom Expense Management (TEM) Services,23,IT Management
+1907,Telemedicine Software,41,Vertical Industry
+1908,Terminal Emulator Software,23,IT Management
+1909,Terminal Operating Systems (TOS),41,Vertical Industry
+1910,Test Management Software,13,Development
+1911,Testing and QA Providers,28,Professional Services
+1912,Text Analysis Software,1,Analytics
+1913,Text Editor Software,13,Development
+1914,Text to Speech Software,3,Artificial Intelligence
+1915,Theater Venue Management Software,41,Vertical Industry
+1916,Third Party & Supplier Risk Management Software,17,"Governance, Risk & Compliance"
+1917,Third-Party Logistics Providers,27,Other Services
+1918,Threat Hunting Services Providers,32,Security and Privacy Services
+1919,Threat Intelligence Services Providers,32,Security and Privacy Services
+1920,Threat Intelligence Software,31,Security
+1921,Through-Channel Marketing Software,24,Marketing
+1922,Time & Attendance Software,20,HR
+1923,Time Series Databases,22,IT Infrastructure
+1924,Time Series Intelligence Software,1,Analytics
+1925,Time Tracking Software,20,HR
+1926,Time Tracking Software,13,Development
+1927,Tip Distribution Software,41,Vertical Industry
+1928,Tool Tracking Software,16,ERP
+1929,Tools for ERP Software,16,ERP
+1930,Tour Operator Software,41,Vertical Industry
+1931,Tower Servers,34,Servers
+1932,Towing Software,41,Vertical Industry
+1933,Trade Promotion Management Software,8,Commerce
+1934,Traditional Advertising Agencies,25,Marketing Services
+1935,Training & Development Companies,5,Business Services
+1936,Training eLearning Software,20,HR
+1937,Training Management Systems,20,HR
+1938,Transactional Email Software,24,Marketing
+1939,Transcription Services,39,Translation Services
+1940,Transcription Software,7,Collaboration & Productivity
+1941,Translation Management Software,9,Content Management
+1942,Translation Services,39,Translation Services
+1943,Transportation Management Systems (TMS),37,Supply Chain & Logistics
+1944,Transportation Software,41,Vertical Industry
+1945,Travel & Expense Software,16,ERP
+1946,Travel Agency Software,41,Vertical Industry
+1947,Travel Arrangement Software,41,Vertical Industry
+1948,Travel Management Software,16,ERP
+1949,Treasury Management Software,16,ERP
+1950,Trucking Software,41,Vertical Industry
+1951,Trustpilot Consulting Providers,28,Professional Services
+1952,Tutoring Software,41,Vertical Industry
+1953,Twilio Consulting Providers,28,Professional Services
+1954,UAV Software,41,Vertical Industry
+1955,UCaaS Platforms,7,Collaboration & Productivity
+1956,UiPath Consulting,28,Professional Services
+1957,UKG Consulting Providers,28,Professional Services
+1958,UKG Marketplace Software,26,Office
+1959,Underwriting & Rating Software,41,Vertical Industry
+1960,Unified Communication VARs Providers,40,Value-Added Resellers (VARs)
+1961,Unified Endpoint Management (UEM) Software,23,IT Management
+1962,Unified Threat Management Software,31,Security
+1963,Unified Workspaces Software,7,Collaboration & Productivity
+1964,Urban Planning and Design Software,6,CAD & PLM
+1965,URL Shortener,24,Marketing
+1966,US State & Local Government Software,41,Vertical Industry
+1967,User and Entity Behavior Analytics (UEBA) Software,31,Security
+1968,User Experience (UX) Design Services Providers,28,Professional Services
+1969,User Provisioning and Governance Tools,31,Security
+1970,User Research Repositories,13,Development
+1971,User Research Software,24,Marketing
+1972,User Threat Prevention Software,31,Security
+1973,User-Generated Content Software,9,Content Management
+1974,Utilities Software,41,Vertical Industry
+1975,Utilities’ Customer Information System (CIS),41,Vertical Industry
+1976,Utilization Management Software,41,Vertical Industry
+1977,Vacation Rental Software,41,Vertical Industry
+1978,Vaccine Tracking Software,20,HR
+1979,Value Stream Management Software,13,Development
+1980,Value-Based Performance Management Analytics Software,41,Vertical Industry
+1981,Value-Based Reimbursement Software,41,Vertical Industry
+1982,Variable Data Printing (VDP) Software,26,Office
+1983,Vector Graphics Software,12,Design
+1984,Vendor Management Software,16,ERP
+1985,Vendor Security and Privacy Assessment Software,31,Security
+1986,Vendor-Neutral Archives (VNA) Software,41,Vertical Industry
+1987,Venture Capital Management Software,41,Vertical Industry
+1988,Venue Management Software,24,Marketing
+1989,Version Control Clients,13,Development
+1990,Version Control Hosting Software,13,Development
+1991,Version Control Systems,13,Development
+1992,Vessel Tracking Software,41,Vertical Industry
+1993,Veterinary Practice Management Software,41,Vertical Industry
+1994,Veterinary Software,41,Vertical Industry
+1995,Video Advertising Software,14,Digital Advertising
+1996,Video CMS Software,9,Content Management
+1997,Video Communications Software,7,Collaboration & Productivity
+1998,Video Conferencing Software,7,Collaboration & Productivity
+1999,Video Conferencing Software,7,Collaboration & Productivity
+2000,Video Editing Software,12,Design
+2001,Video Effects Software,12,Design
+2002,Video Email Software,12,Design
+2003,Video Hosting Software,12,Design
+2004,Video Interviewing Software,20,HR
+2005,Video Platform as a Service (VPaaS) Software,13,Development
+2006,Video Production Companies,28,Professional Services
+2007,Video Software,12,Design
+2008,Video Surveillance Software,3,Artificial Intelligence
+2009,Video Translation Services,39,Translation Services
+2010,Vidyard Consulting Providers,28,Professional Services
+2011,Vineyard Management Software,41,Vertical Industry
+2012,Virtual Career Fair Platforms,20,HR
+2013,Virtual Classroom Software,41,Vertical Industry
+2014,Virtual Data Room Software,9,Content Management
+2015,Virtual Desktop Infrastructure (VDI) Software,22,IT Infrastructure
+2016,Virtual Event Platforms,24,Marketing
+2017,Virtual Fitting Software,8,Commerce
+2018,Virtual IT Labs Software,23,IT Management
+2019,Virtual Mailbox Software,26,Office
+2020,Virtual Private Cloud (VPC) Software,22,IT Infrastructure
+2021,Virtual Private Network (VPN) Software,31,Security
+2022,Virtual Private Servers (VPS) Providers,19,Hosting
+2023,Virtual Reality (VR) Collaboration Platforms,2,AR/VR
+2024,Virtual Reality (VR) Development Software,2,AR/VR
+2025,Virtual Reality (VR) Game Engines,2,AR/VR
+2026,Virtual Reality (VR) Marketplaces,2,AR/VR
+2027,Virtual Reality (VR) Software Development Kits,2,AR/VR
+2028,Virtual Reality Software,2,AR/VR
+2029,Virtual Receptionist Services Providers,5,Business Services
+2030,Virtual Routers,22,IT Infrastructure
+2031,Virtual Tour Software,12,Design
+2032,Virtual Waiting Room Software,23,IT Management
+2033,Virtual Workplaces,7,Collaboration & Productivity
+2034,Visitor Behavior Intelligence Software,1,Analytics
+2035,Visitor Identification Software,24,Marketing
+2036,Visitor Management Software,26,Office
+2037,Visual Collaboration Platforms,7,Collaboration & Productivity
+2038,Visual Configuration Software,30,Sales
+2039,Visual Product Customization Software,8,Commerce
+2040,Visual Project Management Software,9,Content Management
+2041,Voice Recognition Software,3,Artificial Intelligence
+2042,VoIP Providers,7,Collaboration & Productivity
+2043,Volunteer Management Software,41,Vertical Industry
+2044,Voting Management Software,41,Vertical Industry
+2045,VR Content Management Systems,2,AR/VR
+2046,VR Training Simulator Software,2,AR/VR
+2047,VR Visualization Software,2,AR/VR
+2048,Vulnerability Assessment Services Providers,32,Security and Privacy Services
+2049,Vulnerability Management Software,31,Security
+2050,Vulnerability Scanner Software,31,Security
+2051,WAN Edge Infrastructure Software,22,IT Infrastructure
+2052,WAN Optimization Software,22,IT Infrastructure
+2053,Warehouse Management Software,37,Supply Chain & Logistics
+2054,Warranty Management Software,16,ERP
+2055,Waste Management Software,41,Vertical Industry
+2056,Wearable App Development Companies,28,Professional Services
+2057,Web Accelerator Software,22,IT Infrastructure
+2058,Web Accessibility Software,9,Content Management
+2059,Web Application Firewalls (WAF),31,Security
+2060,Web Client Accelerator Software,22,IT Infrastructure
+2061,Web Collaboration Software,7,Collaboration & Productivity
+2062,Web Content Management Software,9,Content Management
+2063,Web Data Providers Software,22,IT Infrastructure
+2064,Web Design Software,12,Design
+2065,Web Developers,28,Professional Services
+2066,Web Font Marketplaces,12,Design
+2067,Web Frameworks,13,Development
+2068,Web Hosting Providers,19,Hosting
+2069,Web Security Software,31,Security
+2070,Web Server Accelerator Software,22,IT Infrastructure
+2071,Webinar Software,24,Marketing
+2072,WebOps Platforms,13,Development
+2073,Website Accessibility Plugins Software,9,Content Management
+2074,Website Accessibility Software,9,Content Management
+2075,Website Builder Software,9,Content Management
+2076,Website Change Monitoring Software,9,Content Management
+2077,Website Design Companies,28,Professional Services
+2078,Website Localization Services,39,Translation Services
+2079,Website Monitoring Software,22,IT Infrastructure
+2080,Website Screenshot Software,9,Content Management
+2081,Website Security Software,31,Security
+2082,Website Translation Providers,39,Translation Services
+2083,Website Translation Tools,9,Content Management
+2084,Whistleblowing Software,20,HR
+2085,Wide Column Database Software,22,IT Infrastructure
+2086,Win-Loss Analysis Services Providers,5,Business Services
+2087,Windows Developers,28,Professional Services
+2088,"Wine, Beer and Spirits Software",41,Vertical Industry
+2089,Winery Management Software,41,Vertical Industry
+2090,Winery Software,41,Vertical Industry
+2091,Wireframing Software,12,Design
+2092,Wireless LAN Controllers,42,Wireless
+2093,WordPress Developers,28,Professional Services
+2094,Wordpress Site Management Service Providers,28,Professional Services
+2095,WordPress Site Management Software,9,Content Management
+2096,Work Instructions Software,9,Content Management
+2097,Work Management Software,16,ERP
+2098,Workday Consulting Providers,28,Professional Services
+2099,Workday Financial Management Consulting Providers,28,Professional Services
+2100,Workday Human Capital Management Consulting Providers,28,Professional Services
+2101,Workday Planning Consulting Providers,28,Professional Services
+2102,Workday Professional Services Automation Consulting Providers,28,Professional Services
+2103,Workday Student Consulting Providers,28,Professional Services
+2104,Workflow Management Software,23,IT Management
+2105,Workforce Management Software,20,HR
+2106,Workload Automation Software,23,IT Management
+2107,Workplace Innovation Platforms,13,Development
+2108,Writing Assistants Software,26,Office
+2109,WYSIWYG Editors,13,Development
+2110,XML Databases,22,IT Infrastructure
+2111,Yard Management Software,37,Supply Chain & Logistics
+2112,Zero Trust Networking Software,31,Security
+2113,Zoho Consulting Providers,28,Professional Services
